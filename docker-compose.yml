@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+  cinematt-site-dev:
+    container_name: site_dev
+    restart: always
+    build:
+      context: .docker/site
+      dockerfile: Dockerfile
+      args:
+        hugo_version: "0.21"
+    ports:
+      - "1313:1313"
+    volumes:
+      ./:/opt:rw
+    command: hugo server -s /opt/site --config /opt/site/config.yml --baseUrl http://cinematt.dev --bind "0.0.0.0" --appendPort=false --verbose
+
+  cinematt-nginx-dev:
+    container_name: nginx_dev
+    build:
+      context: ./docker/nginx
+      dockerfile: Dockerfile
+      args:
+        nginx_conf: nginx.development.conf
+    links:
+      - cinematt-site-dev
+    ports:
+      - "80:80"
+    command: nginx -g "daemon off;"
+  
