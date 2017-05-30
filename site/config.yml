@@ -1,0 +1,14 @@
+---
+baseUrl:                "http://cinematt.dev"
+languageCode:           "en-ie"
+title:                  "[DEV] Cinematt"
+disableLiveReload:      true
+watch:                  true
+preservetaxonomynames:  true
+
+params:
+  description:          "Photography website"
+  author:               "Matt Finucane"
+  noindex:              true
+...
+
