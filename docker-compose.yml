@@ -27,4 +27,17 @@ services:
     ports:
       - "80:80"
     command: nginx -g "daemon off;"
+
+  cinematt-sass-dev:
+    container_name: cinematt_sass_dev
+    image: ruby:2.1-alpine
+    restart: always
+    volumes:
+      - ./:/opt:rw
+    links:
+      - cinematt-site-dev
+    depends_on:
+      - cinematt-site-dev
+    command: sh -c "gem install sass && sass --watch /opt/assets/sass/main.sass:/opt/site/static/css/main.css"
+
   
