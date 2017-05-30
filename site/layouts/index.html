@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+	<head>
+		{{ partial "head" . }}
+	</head>
+	<body>
+		{{ partial "header" . }}
+		<main>
+			{{ .Content }}
+		</main>
+		{{ partial "footer" . }}
+	</body>
+</html>

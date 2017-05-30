@@ -1,0 +1,19 @@
+<title>
+	{{ .Title }} | Cinematt
+</title>
+{{ if .Site.Params.no_index }}
+	<meta name="robots" content="noindex">
+	<meta name="googlebot" content="noindex">
+{{ end }}
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ if .Description }}
+	<meta name="description" content="{{ .Description }}">
+{{ else }}
+	<meta name="description" content="{{ .Site.Params.description }}">
+{{ end }}
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="author" content="{{ .Site.Params.author }}">
+<meta name="canonical" href="{{ .Permalink }}">
