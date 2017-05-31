@@ -36,7 +36,7 @@ services:
       - SCRIPTS_DEST=./site/static/js
       - SVG_DEST=./site/static/svg
       - FAVICONS_DEST=./site/static/favicons
-    image: node:8.0.0-alpine
+    image: node:7.10.0-alpine
     volumes:
       - ./:/opt:rw
     links:

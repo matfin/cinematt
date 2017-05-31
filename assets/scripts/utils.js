@@ -1,10 +1,10 @@
 'use strict';
 
-if(cinematt == null) {
-	cinematt = {};
+if(window.cinematt == null) {
+	window.cinematt = {};
 }
 
-cinematt.utils = {
+window.cinematt.utils = {
 
 	dummy: () => {
 		console.log('Dummy function call successful!');
