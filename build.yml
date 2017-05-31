@@ -27,6 +27,21 @@ services:
       - "80:80"
     command: nginx -g "daemon off;"
 
+  cinematt-js-build:
+    container_name: cinematt_js_build
+    environment:
+      - SCRIPTS_DEST=./public/js
+      - SVG_DEST=./public/svg
+      - FAVICONS_DEST=./public/favicons
+    image: node:7.10.0-alpine
+    volumes:
+      - ./:/opt:rw
+    links:
+      - cinematt-site-build
+    depends_on:
+      - cinematt-site-build
+    command: sh -c "cd /opt && npm install && npm start"
+
   cinemat-sass-build:
     container_name: cinematt_sass_build
     image: ruby:2.1-alpine

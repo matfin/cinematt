@@ -3,7 +3,7 @@ version: '3'
 services:
   cinematt-site-dev:
     container_name: cinematt_site_dev
-    restart: always
+    restart: on-failure
     build:
       context: .docker/site
       dockerfile: Dockerfile
@@ -28,10 +28,27 @@ services:
       - "80:80"
     command: nginx -g "daemon off;"
 
+  cinematt-js-dev:
+    container_name: cinematt_js_dev
+    restart: on-failure
+    environment:
+      - WATCH=true
+      - SCRIPTS_DEST=./site/static/js
+      - SVG_DEST=./site/static/svg
+      - FAVICONS_DEST=./site/static/favicons
+    image: node:7.10.0-alpine
+    volumes:
+      - ./:/opt:rw
+    links:
+      - cinematt-site-dev
+    depends_on:
+      - cinematt-site-dev
+    command: sh -c "cd /opt && npm install && npm start"
+
   cinematt-sass-dev:
     container_name: cinematt_sass_dev
     image: ruby:2.1-alpine
-    restart: always
+    restart: on-failure
     volumes:
       - ./:/opt:rw
     links:
