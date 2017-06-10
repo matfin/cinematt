@@ -1,0 +1,32 @@
+---
+title:		"vantastival-performer"
+type:		"upload"
+description:		"TBC"
+date:		"2011-04-30 20:43:38+00:00"
+album:		"music"
+filename:		"vantastival-performer.md"
+series:		""
+cl_public_id:		"music/vantastival-performer"
+cl_version:		1497004908
+format:		"tiff"
+bytes:		7423872
+width:		2560
+height:		1440
+exposure_mode:		"Manual"
+program:		"Manual"
+aperture:		"5.3"
+focal_length:		"120.0 mm"
+iso:		"3200"
+shutter_speed:		"1/250"
+metering:		"Multi-segment"
+flash:		"On, Return detected"
+white_balance:		"As Shot"
+colour_temp:		"6250"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D7000"
+lens_info:		"18-200mm f/3.5-5.6"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

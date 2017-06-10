@@ -1,0 +1,32 @@
+---
+title:		"dschung-nori"
+type:		"upload"
+description:		"TBC"
+date:		"2014-04-19 19:17:39+00:00"
+album:		"people"
+filename:		"dschung-nori.md"
+series:		""
+cl_public_id:		"people/dschung-nori"
+cl_version:		1497005420
+format:		"tiff"
+bytes:		6304396
+width:		2560
+height:		1440
+exposure_mode:		"Auto"
+program:		"Program AE"
+aperture:		"4.5"
+focal_length:		"116.0 mm"
+iso:		"640"
+shutter_speed:		"1/80"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"5600"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"70-200mm f/2.8"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

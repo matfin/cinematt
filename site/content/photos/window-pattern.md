@@ -1,0 +1,32 @@
+---
+title:		"window-pattern"
+type:		"upload"
+description:		"TBC"
+date:		"2016-12-09 12:46:06+00:00"
+album:		"city"
+filename:		"window-pattern.md"
+series:		""
+cl_public_id:		"city/window-pattern"
+cl_version:		1497000466
+format:		"tiff"
+bytes:		1672128
+width:		810
+height:		1440
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		"2.8"
+focal_length:		"42.0 mm"
+iso:		"200"
+shutter_speed:		"1/320"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"As Shot"
+colour_temp:		"5800"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"24-70mm f/2.8"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

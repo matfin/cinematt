@@ -1,0 +1,32 @@
+---
+title:		"paul-james-beach"
+type:		"upload"
+description:		"TBC"
+date:		"2016-07-31 13:45:33+00:00"
+album:		"people"
+filename:		"paul-james-beach.md"
+series:		""
+cl_public_id:		"people/paul-james-beach"
+cl_version:		1497005513
+format:		"tiff"
+bytes:		3076112
+width:		1352
+height:		1440
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		"11.0"
+focal_length:		"16.0 mm"
+iso:		"200"
+shutter_speed:		"1/200"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"4200"
+has_crop:		"true"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"16mm f/2.8"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

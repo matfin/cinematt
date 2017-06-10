@@ -1,0 +1,32 @@
+---
+title:		"norwegian-actress-profile"
+type:		"upload"
+description:		"TBC"
+date:		"2014-04-19 18:52:22+00:00"
+album:		"people"
+filename:		"norwegian-actress-profile.md"
+series:		""
+cl_public_id:		"people/norwegian-actress-profile"
+cl_version:		1497005500
+format:		"tiff"
+bytes:		1996236
+width:		961
+height:		1440
+exposure_mode:		"Auto"
+program:		"Program AE"
+aperture:		"2.8"
+focal_length:		"200.0 mm"
+iso:		"640"
+shutter_speed:		"1/1600"
+metering:		"Spot"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"4100"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"70-200mm f/2.8"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

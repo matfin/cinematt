@@ -1,0 +1,32 @@
+---
+title:		"expo-center-veb-berlin"
+type:		"upload"
+description:		"TBC"
+date:		"2016-12-09 12:10:58+00:00"
+album:		"city"
+filename:		"expo-center-veb-berlin.md"
+series:		""
+cl_public_id:		"city/expo-center-veb-berlin"
+cl_version:		1497000264
+format:		"tiff"
+bytes:		7103848
+width:		2560
+height:		1440
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		"5.0"
+focal_length:		"24.0 mm"
+iso:		"200"
+shutter_speed:		"1/160"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"5400"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"24-70mm f/2.8"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

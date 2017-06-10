@@ -1,0 +1,32 @@
+---
+title:		"alt-neue-berlin"
+type:		"upload"
+description:		"TBC"
+date:		"2014-02-09 17:28:01+00:00"
+album:		"city"
+filename:		"alt-neue-berlin.md"
+series:		""
+cl_public_id:		"city/alt-neue-berlin"
+cl_version:		1497000174
+format:		"tiff"
+bytes:		7435140
+width:		2560
+height:		1440
+exposure_mode:		"Manual"
+program:		"Manual"
+aperture:		"5.6"
+focal_length:		"50.0 mm"
+iso:		"160"
+shutter_speed:		"1/125"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"7250"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"0mm f/0"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

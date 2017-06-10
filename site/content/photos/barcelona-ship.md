@@ -1,0 +1,32 @@
+---
+title:		"barcelona-ship"
+type:		"upload"
+description:		"TBC"
+date:		"2011-06-09 18:20:44+00:00"
+album:		"city"
+filename:		"barcelona-ship.md"
+series:		""
+cl_public_id:		"city/barcelona-ship"
+cl_version:		1497000391
+format:		"tiff"
+bytes:		4955644
+width:		2174
+height:		1440
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		"8.0"
+focal_length:		"200.0 mm"
+iso:		"200"
+shutter_speed:		"1/500"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"5000"
+has_crop:		"true"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D7000"
+lens_info:		"18-200mm f/3.5-5.6"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

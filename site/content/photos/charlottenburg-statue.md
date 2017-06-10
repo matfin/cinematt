@@ -1,0 +1,32 @@
+---
+title:		"charlottenburg-statue"
+type:		"upload"
+description:		"TBC"
+date:		"2014-03-30 16:18:48+00:00"
+album:		"city"
+filename:		"charlottenburg-statue.md"
+series:		""
+cl_public_id:		"city/charlottenburg-statue"
+cl_version:		1497000221
+format:		"tiff"
+bytes:		1850744
+width:		810
+height:		1440
+exposure_mode:		"Auto"
+program:		"Program AE"
+aperture:		"8.0"
+focal_length:		"135.0 mm"
+iso:		"200"
+shutter_speed:		"1/250"
+metering:		"Center-weighted average"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"5200"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"70-200mm f/2.8"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---
