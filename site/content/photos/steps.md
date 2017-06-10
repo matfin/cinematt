@@ -1,6 +1,6 @@
 ---
 title:		"steps"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-01-08 15:18:27+00:00"
 album:		"city"

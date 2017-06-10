@@ -1,6 +1,6 @@
 ---
 title:		"phoenix-park-deer"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-01-26 12:08:33+00:00"
 album:		"nature"

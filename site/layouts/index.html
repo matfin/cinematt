@@ -6,8 +6,8 @@
 	<body>
 		{{ partial "header" . }}
 		<main class="page albums" role="main">
-			{{ $albums := where .Data.Pages "Section" "albums" }}
-			{{ range sort $albums ".Params.weight" "desc" }}
+			{{ $photos := where .Data.Pages "Section" "photos" }}
+			{{ range $photos }}
 				{{ .Render "card" }}
 			{{ end }}
 		</main>

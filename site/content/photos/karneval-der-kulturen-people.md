@@ -1,6 +1,6 @@
 ---
 title:		"karneval-der-kulturen-people"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-06-07 19:27:02+00:00"
 album:		"events"

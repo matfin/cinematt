@@ -1,6 +1,6 @@
 ---
 title:		"viking-renactor"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-24 17:19:06+00:00"
 album:		"people"

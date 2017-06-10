@@ -1,6 +1,6 @@
 ---
 title:		"canal"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-20 18:19:34+00:00"
 album:		"people"

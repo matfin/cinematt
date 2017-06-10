@@ -1,6 +1,6 @@
 ---
 title:		"anna-light-museum"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-02-09 16:55:50+00:00"
 album:		"people"

@@ -1,6 +1,6 @@
 ---
 title:		"berlin-supermarkt"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-17 02:57:36+00:00"
 album:		"city"

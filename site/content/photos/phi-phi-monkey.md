@@ -1,6 +1,6 @@
 ---
 title:		"phi-phi-monkey"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2006-08-02 23:52:10+00:00"
 album:		"nature"

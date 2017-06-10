@@ -1,6 +1,6 @@
 ---
 title:		"eavan"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 15:33:16+00:00"
 album:		"people"

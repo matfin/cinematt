@@ -1,6 +1,6 @@
 ---
 title:		"eternit"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-02-09 16:04:51+00:00"
 album:		"experimental"

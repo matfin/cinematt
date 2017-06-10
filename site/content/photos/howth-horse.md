@@ -1,6 +1,6 @@
 ---
 title:		"howth-horse"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2004-01-28 14:31:38+00:00"
 album:		"nature"

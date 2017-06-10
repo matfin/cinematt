@@ -1,6 +1,6 @@
 ---
 title:		"kerry-road-horse"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-12-10 17:06:47+00:00"
 album:		"nature"

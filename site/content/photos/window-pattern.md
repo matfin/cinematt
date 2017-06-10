@@ -1,6 +1,6 @@
 ---
 title:		"window-pattern"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-09 12:46:06+00:00"
 album:		"city"

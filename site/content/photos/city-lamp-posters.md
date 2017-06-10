@@ -1,6 +1,6 @@
 ---
 title:		"city-lamp-posters"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-02-09 15:22:21+00:00"
 album:		"city"

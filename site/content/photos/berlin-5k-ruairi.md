@@ -1,6 +1,6 @@
 ---
 title:		"berlin-5k-ruairi"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-07-26 20:16:40+00:00"
 album:		"events"

@@ -1,6 +1,6 @@
 ---
 title:		"tempelhof-floodlight"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-02-15 15:42:17+00:00"
 album:		"experimental"

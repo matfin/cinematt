@@ -1,6 +1,6 @@
 ---
 title:		"lake"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-04-14 19:48:07"
 album:		"landscapes"

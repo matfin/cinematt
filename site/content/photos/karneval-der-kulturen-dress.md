@@ -1,6 +1,6 @@
 ---
 title:		"karneval-der-kulturen-dress"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-06-07 17:29:11+00:00"
 album:		"events"

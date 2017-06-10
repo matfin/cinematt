@@ -1,6 +1,6 @@
 ---
 title:		"yves"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-01-01 01:00:04+00:00"
 album:		"people"

@@ -1,6 +1,6 @@
 ---
 title:		"anna-candid"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-20 15:54:51+00:00"
 album:		"people"

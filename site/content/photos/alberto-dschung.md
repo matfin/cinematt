@@ -1,6 +1,6 @@
 ---
 title:		"alberto-dschung"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 09:33:21+00:00"
 album:		"people"

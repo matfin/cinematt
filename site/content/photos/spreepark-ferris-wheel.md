@@ -1,6 +1,6 @@
 ---
 title:		"spreepark-ferris-wheel"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-01-18 17:33:47+00:00"
 album:		"experimental"

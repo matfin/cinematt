@@ -1,6 +1,6 @@
 ---
 title:		"poland-house"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-03-09 16:30:31+00:00"
 album:		"city"

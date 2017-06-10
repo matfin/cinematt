@@ -1,6 +1,6 @@
 ---
 title:		"xha-xhu-zhi"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2006-07-24 08:43:08+00:00"
 album:		"people"

@@ -1,6 +1,6 @@
 ---
 title:		"phil-bans-donegal"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2010-06-06 23:56:24+00:00"
 album:		"people"

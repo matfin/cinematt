@@ -1,6 +1,6 @@
 ---
 title:		"prairie-dawgs-ruairi"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-04-05 23:01:14+00:00"
 album:		"music"

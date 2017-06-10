@@ -1,6 +1,6 @@
 ---
 title:		"greifswaler_apartments"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-01-21 21:08:51+00:00"
 album:		"city"

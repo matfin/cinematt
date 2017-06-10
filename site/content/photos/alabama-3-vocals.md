@@ -1,6 +1,6 @@
 ---
 title:		"alabama-3-vocals"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-05-01 23:41:23+00:00"
 album:		"music"

@@ -1,6 +1,6 @@
 ---
 title:		"pai-cat"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2006-08-09 01:30:52+00:00"
 album:		"nature"

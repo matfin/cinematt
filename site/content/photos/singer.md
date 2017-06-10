@@ -1,6 +1,6 @@
 ---
 title:		"singer"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-05-05 21:36:13+00:00"
 album:		"people"

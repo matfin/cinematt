@@ -1,6 +1,6 @@
 ---
 title:		"alt-neue-berlin"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-02-09 17:28:01+00:00"
 album:		"city"

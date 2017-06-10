@@ -1,6 +1,6 @@
 ---
 title:		"weinachts-markt-2016"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-05 17:45:26+00:00"
 album:		"events"

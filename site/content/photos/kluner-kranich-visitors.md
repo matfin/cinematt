@@ -1,6 +1,6 @@
 ---
 title:		"kluner-kranich-visitors"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-25 20:24:08+00:00"
 album:		"people"

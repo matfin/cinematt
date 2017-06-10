@@ -1,6 +1,6 @@
 ---
 title:		"mossy-laura"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-24 15:39:11+00:00"
 album:		"people"

@@ -1,6 +1,6 @@
 ---
 title:		"overcooked_anna"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-19 22:06:51+00:00"
 album:		"people"

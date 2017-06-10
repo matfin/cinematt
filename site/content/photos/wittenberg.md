@@ -1,6 +1,6 @@
 ---
 title:		"wittenberg"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-04-14 16:50:51"
 album:		"experimental"

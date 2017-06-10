@@ -1,6 +1,6 @@
 ---
 title:		"schnitzel_konig"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-08 23:40:29+00:00"
 album:		"experimental"

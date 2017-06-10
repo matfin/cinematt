@@ -1,6 +1,6 @@
 ---
 title:		"li-tempelhof"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-02-15 14:51:17+00:00"
 album:		"people"

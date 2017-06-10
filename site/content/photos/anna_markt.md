@@ -1,6 +1,6 @@
 ---
 title:		"anna_markt"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-01-10 18:42:41+00:00"
 album:		"city"

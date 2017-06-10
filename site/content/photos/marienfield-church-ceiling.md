@@ -1,6 +1,6 @@
 ---
 title:		"marienfield-church-ceiling"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-03-27 13:43:10+00:00"
 album:		"city"

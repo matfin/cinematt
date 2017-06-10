@@ -1,6 +1,6 @@
 ---
 title:		"portugal-guitarist"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-05-15 19:30:52+00:00"
 album:		"people"

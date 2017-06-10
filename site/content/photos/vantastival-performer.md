@@ -1,6 +1,6 @@
 ---
 title:		"vantastival-performer"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-04-30 20:43:38+00:00"
 album:		"music"

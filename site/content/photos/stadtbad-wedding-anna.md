@@ -1,6 +1,6 @@
 ---
 title:		"stadtbad-wedding-anna"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-05-29 13:57:52+00:00"
 album:		"abandoned"

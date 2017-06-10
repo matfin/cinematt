@@ -1,6 +1,6 @@
 ---
 title:		"frosted-leaves"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-30 15:36:32+00:00"
 album:		"nature"

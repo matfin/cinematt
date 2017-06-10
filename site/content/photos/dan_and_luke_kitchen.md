@@ -1,6 +1,6 @@
 ---
 title:		"dan_and_luke_kitchen"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-25 15:07:07+00:00"
 album:		"people"

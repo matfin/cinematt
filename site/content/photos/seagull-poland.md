@@ -1,6 +1,6 @@
 ---
 title:		"seagull-poland"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-03-09 14:50:47+00:00"
 album:		"landscapes"

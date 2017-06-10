@@ -1,6 +1,6 @@
 ---
 title:		"paul-and-luke"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-25 15:04:08+00:00"
 album:		"people"

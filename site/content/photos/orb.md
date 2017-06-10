@@ -1,6 +1,6 @@
 ---
 title:		"orb"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2004-01-29 15:53:40+00:00"
 album:		"experimental"

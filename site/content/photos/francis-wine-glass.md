@@ -1,6 +1,6 @@
 ---
 title:		"francis-wine-glass"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-20 01:34:34+00:00"
 album:		"people"

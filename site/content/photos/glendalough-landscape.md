@@ -1,6 +1,6 @@
 ---
 title:		"glendalough-landscape"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-08 15:05:46+00:00"
 album:		"landscapes"

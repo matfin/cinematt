@@ -1,6 +1,6 @@
 ---
 title:		"alabama-3-lead"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-05-01 23:31:50+00:00"
 album:		"music"

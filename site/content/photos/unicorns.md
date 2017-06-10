@@ -1,6 +1,6 @@
 ---
 title:		"unicorns"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 18:57:58+00:00"
 album:		"people"

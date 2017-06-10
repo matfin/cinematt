@@ -1,6 +1,6 @@
 ---
 title:		"phoenix-park-training"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-01-26 11:34:55+00:00"
 album:		"people"

@@ -1,6 +1,6 @@
 ---
 title:		"howth-harbour-lighthouse"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-10-21 23:10:23+00:00"
 album:		"landscapes"

@@ -1,6 +1,6 @@
 ---
 title:		"russian-embassy-berlin"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-09 11:24:15+00:00"
 album:		"city"

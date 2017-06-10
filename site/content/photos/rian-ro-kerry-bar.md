@@ -1,6 +1,6 @@
 ---
 title:		"rian-ro-kerry-bar"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-04-01 17:08:38+00:00"
 album:		"abandoned"

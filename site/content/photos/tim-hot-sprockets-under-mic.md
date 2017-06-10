@@ -1,6 +1,6 @@
 ---
 title:		"tim-hot-sprockets-under-mic"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-05-01 18:24:58+00:00"
 album:		"music"

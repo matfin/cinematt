@@ -1,6 +1,6 @@
 ---
 title:		"violinist"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-01-10 21:33:35+00:00"
 album:		"music"

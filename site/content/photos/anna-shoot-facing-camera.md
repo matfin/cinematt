@@ -1,6 +1,6 @@
 ---
 title:		"anna-shoot-facing-camera"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-03-30 19:03:08+00:00"
 album:		"people"

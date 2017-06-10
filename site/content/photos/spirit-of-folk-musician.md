@@ -1,6 +1,6 @@
 ---
 title:		"spirit-of-folk-musician"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-24 17:29:26+00:00"
 album:		"events"

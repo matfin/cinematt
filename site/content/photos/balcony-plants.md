@@ -1,6 +1,6 @@
 ---
 title:		"balcony-plants"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-05-29 20:59:38+00:00"
 album:		"nature"

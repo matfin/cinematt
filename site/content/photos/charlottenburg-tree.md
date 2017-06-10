@@ -1,6 +1,6 @@
 ---
 title:		"charlottenburg-tree"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-01-22 16:41:19+00:00"
 album:		"experimental"

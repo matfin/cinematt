@@ -1,8 +1,8 @@
 ---
 title:		"dark-grass"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
-date:		"2003-11-28 17-35-53 17:35:53+00:00"
+date:		"2003-11-28 17:35:53+00:00"
 album:		"nature"
 filename:		"dark-grass.md"
 series:		""

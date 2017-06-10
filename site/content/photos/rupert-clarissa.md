@@ -1,6 +1,6 @@
 ---
 title:		"rupert-clarissa"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-07 14:05:12+00:00"
 album:		"nature"

@@ -1,6 +1,6 @@
 ---
 title:		"berlin-christmas-market"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-05 17:59:44+00:00"
 album:		"city"

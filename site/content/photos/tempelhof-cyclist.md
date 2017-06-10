@@ -1,6 +1,6 @@
 ---
 title:		"tempelhof-cyclist"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-01-25 16:14:02+00:00"
 album:		"city"

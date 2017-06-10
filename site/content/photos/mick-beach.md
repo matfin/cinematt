@@ -1,6 +1,6 @@
 ---
 title:		"mick-beach"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-31 13:47:33+00:00"
 album:		"people"

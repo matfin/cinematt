@@ -1,6 +1,6 @@
 ---
 title:		"anna-cite-foche"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-21 18:56:23+00:00"
 album:		"people"

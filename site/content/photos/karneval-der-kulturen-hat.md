@@ -1,6 +1,6 @@
 ---
 title:		"karneval-der-kulturen-hat"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-06-07 19:33:50+00:00"
 album:		"events"

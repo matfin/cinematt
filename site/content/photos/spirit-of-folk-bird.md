@@ -1,6 +1,6 @@
 ---
 title:		"spirit-of-folk-bird"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-24 16:00:49+00:00"
 album:		"nature"

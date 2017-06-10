@@ -1,6 +1,6 @@
 ---
 title:		"expo-center-veb-berlin"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-09 12:10:58+00:00"
 album:		"city"

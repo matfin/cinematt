@@ -1,6 +1,6 @@
 ---
 title:		"forest"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 18:28:31+00:00"
 album:		"landscapes"

@@ -1,6 +1,6 @@
 ---
 title:		"refeshments"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-11-27 21:25:45+00:00"
 album:		"events"

@@ -1,6 +1,6 @@
 ---
 title:		"charlottenburg-statue"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-03-30 16:18:48+00:00"
 album:		"city"

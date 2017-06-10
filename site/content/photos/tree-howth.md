@@ -1,6 +1,6 @@
 ---
 title:		"tree-howth"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2010-06-27 06:06:50+00:00"
 album:		"people"

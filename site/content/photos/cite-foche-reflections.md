@@ -1,6 +1,6 @@
 ---
 title:		"cite-foche-reflections"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-21 19:05:14+00:00"
 album:		"abandoned"

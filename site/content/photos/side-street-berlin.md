@@ -1,6 +1,6 @@
 ---
 title:		"side-street-berlin"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-17 02:48:12+00:00"
 album:		"experimental"

@@ -1,6 +1,6 @@
 ---
 title:		"channel-tunnel-self-portrait"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-06-07 20:20:20+00:00"
 album:		"experimental"

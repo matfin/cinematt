@@ -1,6 +1,6 @@
 ---
 title:		"knonigs-wusterhausen-ruairi-fionn"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-27 19:33:21+00:00"
 album:		"people"

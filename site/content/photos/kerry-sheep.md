@@ -1,6 +1,6 @@
 ---
 title:		"kerry-sheep"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-03-28 15:34:54+00:00"
 album:		"landscapes"

@@ -1,6 +1,6 @@
 ---
 title:		"paul-james-beach"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-31 13:45:33+00:00"
 album:		"people"

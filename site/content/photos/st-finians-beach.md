@@ -1,6 +1,6 @@
 ---
 title:		"st-finians-beach"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-31 13:50:29+00:00"
 album:		"landscapes"

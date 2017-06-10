@@ -1,6 +1,6 @@
 ---
 title:		"cite-foche-cinema"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-21 18:28:07+00:00"
 album:		"abandoned"

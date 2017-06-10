@@ -1,6 +1,6 @@
 ---
 title:		"cite-foche-exterior"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-21 18:13:05+00:00"
 album:		"abandoned"

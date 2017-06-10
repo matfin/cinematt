@@ -1,6 +1,6 @@
 ---
 title:		"finucane-family"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-02-19 14:25:31+00:00"
 album:		"people"

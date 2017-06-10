@@ -1,6 +1,6 @@
 ---
 title:		"klunkerkranich"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-25 19:56:49+00:00"
 album:		"experimental"

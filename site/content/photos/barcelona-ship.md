@@ -1,6 +1,6 @@
 ---
 title:		"barcelona-ship"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-06-09 18:20:44+00:00"
 album:		"city"

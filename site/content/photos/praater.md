@@ -1,6 +1,6 @@
 ---
 title:		"praater"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-11 00:03:34+00:00"
 album:		"events"

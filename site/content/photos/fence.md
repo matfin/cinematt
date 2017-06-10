@@ -1,6 +1,6 @@
 ---
 title:		"fence"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-31 13:41:36+00:00"
 album:		"experimental"

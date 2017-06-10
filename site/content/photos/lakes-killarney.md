@@ -1,6 +1,6 @@
 ---
 title:		"lakes-killarney"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-04-01 19:23:21"
 album:		"landscapes"

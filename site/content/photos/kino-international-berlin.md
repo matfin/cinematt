@@ -1,6 +1,6 @@
 ---
 title:		"kino-international-berlin"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-29 16:28:05+00:00"
 album:		"city"

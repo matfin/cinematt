@@ -1,6 +1,6 @@
 ---
 title:		"howth-harbour"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-10-21 22:36:21+00:00"
 album:		"landscapes"

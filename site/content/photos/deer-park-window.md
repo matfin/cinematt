@@ -1,6 +1,6 @@
 ---
 title:		"deer-park-window"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-06 20:03:06+00:00"
 album:		"experimental"

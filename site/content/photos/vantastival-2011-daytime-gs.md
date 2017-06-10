@@ -1,6 +1,6 @@
 ---
 title:		"vantastival-2011-daytime-gs"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-05-01 13:17:24+00:00"
 album:		"events"

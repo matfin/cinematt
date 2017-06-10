@@ -1,6 +1,6 @@
 ---
 title:		"grogans-finger-chomp"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-04-16 17:35:41+00:00"
 album:		"people"

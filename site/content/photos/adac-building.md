@@ -1,6 +1,6 @@
 ---
 title:		"adac-building"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-09 10:49:50+00:00"
 album:		"experimental"

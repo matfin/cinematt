@@ -1,6 +1,6 @@
 ---
 title:		"bird-poised"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-24 16:01:53+00:00"
 album:		"nature"

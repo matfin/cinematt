@@ -1,6 +1,6 @@
 ---
 title:		"lunchtime"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2004-01-28 13:54:22+00:00"
 album:		"people"

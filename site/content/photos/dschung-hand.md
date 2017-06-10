@@ -1,6 +1,6 @@
 ---
 title:		"dschung-hand"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 09:45:27+00:00"
 album:		"people"

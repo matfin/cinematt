@@ -1,6 +1,6 @@
 ---
 title:		"pppb"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2005-08-13 20:08:07+00:00"
 album:		"people"

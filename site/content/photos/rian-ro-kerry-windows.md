@@ -1,6 +1,6 @@
 ---
 title:		"rian-ro-kerry-windows"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-04-01 17:01:30+00:00"
 album:		"abandoned"

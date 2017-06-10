@@ -1,6 +1,6 @@
 ---
 title:		"alberto-david-unicorns"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 19:44:29+00:00"
 album:		"people"

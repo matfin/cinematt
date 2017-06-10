@@ -1,6 +1,6 @@
 ---
 title:		"bird-closeup"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-24 16:07:03+00:00"
 album:		"nature"

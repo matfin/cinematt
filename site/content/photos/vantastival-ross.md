@@ -1,6 +1,6 @@
 ---
 title:		"vantastival-ross"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-04-30 19:50:44+00:00"
 album:		"people"

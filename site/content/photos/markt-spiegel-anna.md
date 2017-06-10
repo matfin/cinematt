@@ -1,6 +1,6 @@
 ---
 title:		"markt-spiegel-anna"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-20 15:54:33+00:00"
 album:		"experimental"

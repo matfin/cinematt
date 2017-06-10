@@ -1,6 +1,6 @@
 ---
 title:		"anna-shoot-flowers"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-03-30 15:42:00+00:00"
 album:		"people"

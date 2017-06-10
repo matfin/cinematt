@@ -1,6 +1,6 @@
 ---
 title:		"peter-coonan-redline"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-01-13 15:33:03+00:00"
 album:		"people"

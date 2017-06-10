@@ -1,6 +1,6 @@
 ---
 title:		"border"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-03-08 17:37:55+00:00"
 album:		"city"

@@ -1,6 +1,6 @@
 ---
 title:		"stina"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-24 20:57:02+00:00"
 album:		"music"

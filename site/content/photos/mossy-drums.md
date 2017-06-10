@@ -1,6 +1,6 @@
 ---
 title:		"mossy-drums"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-03-02 15:22:06+00:00"
 album:		"experimental"

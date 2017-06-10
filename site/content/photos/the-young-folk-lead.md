@@ -1,6 +1,6 @@
 ---
 title:		"the-young-folk-lead"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-04-30 19:33:35+00:00"
 album:		"music"

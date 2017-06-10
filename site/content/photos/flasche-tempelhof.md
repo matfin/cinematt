@@ -1,6 +1,6 @@
 ---
 title:		"flasche-tempelhof"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-02-15 15:02:35+00:00"
 album:		"city"

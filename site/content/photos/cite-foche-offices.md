@@ -1,6 +1,6 @@
 ---
 title:		"cite-foche-offices"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-21 18:43:21+00:00"
 album:		"abandoned"

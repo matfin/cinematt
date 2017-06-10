@@ -1,6 +1,6 @@
 ---
 title:		"kitesurfer-tempelhof"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-01-25 16:29:28+00:00"
 album:		"experimental"

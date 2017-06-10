@@ -1,6 +1,6 @@
 ---
 title:		"jonathan-cliffs"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-01 18:25:05+00:00"
 album:		"people"

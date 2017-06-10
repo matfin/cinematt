@@ -1,6 +1,6 @@
 ---
 title:		"richie-cmc"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-05-25 22:01:11+00:00"
 album:		"music"

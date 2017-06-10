@@ -1,6 +1,6 @@
 ---
 title:		"portugal-street"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-05-12 14:53:31+00:00"
 album:		"city"

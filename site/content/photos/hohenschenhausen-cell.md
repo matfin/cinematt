@@ -1,6 +1,6 @@
 ---
 title:		"hohenschenhausen-cell"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-02-16 16:01:38+00:00"
 album:		"abandoned"

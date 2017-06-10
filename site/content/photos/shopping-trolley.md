@@ -1,6 +1,6 @@
 ---
 title:		"shopping-trolley"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-02-09 15:33:25+00:00"
 album:		"city"

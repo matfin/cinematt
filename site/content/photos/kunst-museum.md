@@ -1,6 +1,6 @@
 ---
 title:		"kunst-museum"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-02-17 16:36:32+00:00"
 album:		"experimental"

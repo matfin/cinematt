@@ -1,6 +1,6 @@
 ---
 title:		"dan_sophie"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-01 14:07:46+00:00"
 album:		"people"

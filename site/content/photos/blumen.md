@@ -1,6 +1,6 @@
 ---
 title:		"blumen"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-03-30 15:50:48+00:00"
 album:		"nature"

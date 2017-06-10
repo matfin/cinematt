@@ -1,6 +1,6 @@
 ---
 title:		"building-pattern"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-09 10:47:01+00:00"
 album:		"experimental"

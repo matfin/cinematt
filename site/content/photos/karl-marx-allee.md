@@ -1,6 +1,6 @@
 ---
 title:		"karl-marx-allee"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-29 16:29:53"
 album:		"experimental"

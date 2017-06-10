@@ -1,6 +1,6 @@
 ---
 title:		"spwc-performer"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-06-18 14:04:44+00:00"
 album:		"people"

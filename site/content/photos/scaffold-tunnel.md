@@ -1,6 +1,6 @@
 ---
 title:		"scaffold-tunnel"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-09 23:41:37+00:00"
 album:		"experimental"

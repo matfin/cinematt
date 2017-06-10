@@ -1,6 +1,6 @@
 ---
 title:		"prairie-dawgs-karen"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-04-05 23:41:22+00:00"
 album:		"music"

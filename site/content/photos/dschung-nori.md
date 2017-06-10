@@ -1,6 +1,6 @@
 ---
 title:		"dschung-nori"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 19:17:39+00:00"
 album:		"people"

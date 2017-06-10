@@ -1,6 +1,6 @@
 ---
 title:		"berlin-10k-group"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-05-14 12:12:56+00:00"
 album:		"events"

@@ -1,6 +1,6 @@
 ---
 title:		"alberto-blindfolded"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 09:45:55+00:00"
 album:		"people"

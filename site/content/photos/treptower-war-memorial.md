@@ -1,6 +1,6 @@
 ---
 title:		"treptower-war-memorial"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-31 17:37:54+00:00"
 album:		"experimental"

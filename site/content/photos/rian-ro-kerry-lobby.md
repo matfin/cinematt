@@ -1,6 +1,6 @@
 ---
 title:		"rian-ro-kerry-lobby"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-04-01 16:53:10+00:00"
 album:		"abandoned"

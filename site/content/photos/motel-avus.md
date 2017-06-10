@@ -1,6 +1,6 @@
 ---
 title:		"motel-avus"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-09 13:11:57+00:00"
 album:		"city"

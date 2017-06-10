@@ -1,6 +1,6 @@
 ---
 title:		"anna_pier"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-04-14 20:14:24"
 album:		"people"

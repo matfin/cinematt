@@ -1,6 +1,6 @@
 ---
 title:		"cite-foche-anna-rain"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-21 19:02:32+00:00"
 album:		"abandoned"

@@ -1,6 +1,6 @@
 ---
 title:		"ubahn-berlin"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-18 15:48:44+00:00"
 album:		"city"

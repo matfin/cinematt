@@ -1,6 +1,6 @@
 ---
 title:		"spwc-dublin-waldos"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-06-18 13:02:38+00:00"
 album:		"events"

@@ -1,6 +1,6 @@
 ---
 title:		"stoplerstein"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-02-14 15:08:23+00:00"
 album:		"city"

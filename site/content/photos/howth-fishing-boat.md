@@ -1,6 +1,6 @@
 ---
 title:		"howth-fishing-boat"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-10-21 22:30:20+00:00"
 album:		"landscapes"

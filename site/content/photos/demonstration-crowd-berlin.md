@@ -1,6 +1,6 @@
 ---
 title:		"demonstration-crowd-berlin"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-06-28 16:02:55+00:00"
 album:		"city"

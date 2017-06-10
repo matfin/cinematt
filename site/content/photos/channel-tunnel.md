@@ -1,6 +1,6 @@
 ---
 title:		"channel-tunnel"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-06-07 20:06:24+00:00"
 album:		"experimental"

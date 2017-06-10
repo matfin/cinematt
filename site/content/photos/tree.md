@@ -1,6 +1,6 @@
 ---
 title:		"tree"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-01-26 13:12:45+00:00"
 album:		"experimental"

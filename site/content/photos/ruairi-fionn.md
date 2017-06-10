@@ -1,6 +1,6 @@
 ---
 title:		"ruairi-fionn"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-27 19:34:22+00:00"
 album:		"people"

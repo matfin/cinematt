@@ -1,6 +1,6 @@
 ---
 title:		"howth_pier"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-27 16:12:23"
 album:		"landscapes"

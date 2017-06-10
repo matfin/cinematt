@@ -1,8 +1,8 @@
 ---
 title:		"the-glen-shop"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
-date:		"Date unknown"
+date:		"2016-08-05"
 album:		"abandoned"
 filename:		"the-glen-shop.md"
 series:		""

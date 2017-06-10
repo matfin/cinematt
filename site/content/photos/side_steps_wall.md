@@ -1,6 +1,6 @@
 ---
 title:		"side_steps_wall"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-01-08 15:19:51+00:00"
 album:		"experimental"

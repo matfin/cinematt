@@ -1,6 +1,6 @@
 ---
 title:		"anna-portfolio-closeup"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-05-26 20:25:56+00:00"
 album:		"people"

@@ -1,6 +1,6 @@
 ---
 title:		"stadtbadd-wedding"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-05-29 14:21:05+00:00"
 album:		"experimental"

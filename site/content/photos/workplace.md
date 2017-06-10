@@ -1,8 +1,8 @@
 ---
 title:		"workplace"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
-date:		"2014-06-27 23-30-02.823 23:30:02+00:00"
+date:		"2014-06-27 23:30:02+00:00"
 album:		"city"
 filename:		"workplace.md"
 series:		""

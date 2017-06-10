@@ -1,6 +1,6 @@
 ---
 title:		"david-oliveira"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 18:45:21+00:00"
 album:		"people"

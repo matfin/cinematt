@@ -1,6 +1,6 @@
 ---
 title:		"lakeside-konigs-wusterhausen"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-27 20:13:48+00:00"
 album:		"people"

@@ -1,6 +1,6 @@
 ---
 title:		"anna-pearse-station"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-07 19:02:37+00:00"
 album:		"city"

@@ -1,6 +1,6 @@
 ---
 title:		"jumper"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-27 19:48:57+00:00"
 album:		"people"

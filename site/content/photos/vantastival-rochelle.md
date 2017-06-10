@@ -1,6 +1,6 @@
 ---
 title:		"vantastival-rochelle"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-04-30 19:51:04+00:00"
 album:		"people"

@@ -1,6 +1,6 @@
 ---
 title:		"treehouse-klunkerkranich"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-25 19:57:10+00:00"
 album:		"city"

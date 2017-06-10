@@ -1,6 +1,6 @@
 ---
 title:		"model-airplane"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-01-26 12:33:28+00:00"
 album:		"people"

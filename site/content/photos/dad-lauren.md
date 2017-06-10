@@ -1,6 +1,6 @@
 ---
 title:		"dad-lauren"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-02-19 14:04:33+00:00"
 album:		"people"

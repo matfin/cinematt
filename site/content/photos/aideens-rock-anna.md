@@ -1,6 +1,6 @@
 ---
 title:		"aideens-rock-anna"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-06 20:22:54+00:00"
 album:		"people"

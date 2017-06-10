@@ -1,6 +1,6 @@
 ---
 title:		"jonathan"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-01 18:03:00+00:00"
 album:		"people"

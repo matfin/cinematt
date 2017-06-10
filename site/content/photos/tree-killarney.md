@@ -1,6 +1,6 @@
 ---
 title:		"tree-killarney"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-03-27 19:14:36+00:00"
 album:		"landscapes"

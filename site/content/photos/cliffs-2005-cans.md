@@ -1,6 +1,6 @@
 ---
 title:		"cliffs-2005-cans"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2005-02-01 18:17:16+00:00"
 album:		"experimental"

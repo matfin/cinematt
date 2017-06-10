@@ -1,6 +1,6 @@
 ---
 title:		"anna-portrait"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-05-21 19:28:23+00:00"
 album:		"people"

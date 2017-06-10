@@ -1,6 +1,6 @@
 ---
 title:		"meteor-meetup"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-11-27 22:21:41+00:00"
 album:		"events"

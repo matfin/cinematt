@@ -1,6 +1,6 @@
 ---
 title:		"spirit-of-folk-shield"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-24 16:42:14+00:00"
 album:		"events"

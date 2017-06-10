@@ -1,6 +1,6 @@
 ---
 title:		"fernsehturm"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-02-09 17:33:12+00:00"
 album:		"city"

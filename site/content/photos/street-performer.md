@@ -1,6 +1,6 @@
 ---
 title:		"street-performer"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-03-20 22:23:11+00:00"
 album:		"people"

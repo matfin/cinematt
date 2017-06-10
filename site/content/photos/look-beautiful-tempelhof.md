@@ -1,6 +1,6 @@
 ---
 title:		"look-beautiful-tempelhof"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-02-15 15:08:56+00:00"
 album:		"city"

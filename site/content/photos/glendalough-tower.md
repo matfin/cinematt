@@ -1,6 +1,6 @@
 ---
 title:		"glendalough-tower"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-08 17:19:36+00:00"
 album:		"landscapes"

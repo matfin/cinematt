@@ -1,6 +1,6 @@
 ---
 title:		"wide-angle-kitchen"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-17 20:16:15+00:00"
 album:		"experimental"

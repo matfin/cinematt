@@ -1,6 +1,6 @@
 ---
 title:		"fontane_trevi"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-01-08 16:34:29+00:00"
 album:		"city"

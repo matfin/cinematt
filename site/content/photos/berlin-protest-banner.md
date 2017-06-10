@@ -1,6 +1,6 @@
 ---
 title:		"berlin-protest-banner"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-06-28 16:06:45+00:00"
 album:		"city"

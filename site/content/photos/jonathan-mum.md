@@ -1,6 +1,6 @@
 ---
 title:		"jonathan-mum"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-01 18:47:48+00:00"
 album:		"people"

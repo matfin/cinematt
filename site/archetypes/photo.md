@@ -1,6 +1,6 @@
 ---
 title:			""
-type:			""
+mediatype:		""
 description:	""
 date:			""
 album:			""

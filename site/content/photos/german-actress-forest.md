@@ -1,6 +1,6 @@
 ---
 title:		"german-actress-forest"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 18:37:23+00:00"
 album:		"people"

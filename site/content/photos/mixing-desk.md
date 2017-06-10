@@ -1,6 +1,6 @@
 ---
 title:		"mixing-desk"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-01-26 18:49:27+00:00"
 album:		"music"

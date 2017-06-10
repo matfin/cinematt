@@ -1,6 +1,6 @@
 ---
 title:		"presse-tabak-berlin"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-07-09 23:39:37+00:00"
 album:		"city"

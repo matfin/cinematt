@@ -1,6 +1,6 @@
 ---
 title:		"vantastival-2011"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-04-30 22:51:17+00:00"
 album:		"events"

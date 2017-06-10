@@ -1,6 +1,6 @@
 ---
 title:		"anna-portfolio-desk"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-05-26 18:04:33+00:00"
 album:		"people"

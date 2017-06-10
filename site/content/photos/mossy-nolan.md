@@ -1,6 +1,6 @@
 ---
 title:		"mossy-nolan"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2011-09-25 15:26:48+00:00"
 album:		"music"

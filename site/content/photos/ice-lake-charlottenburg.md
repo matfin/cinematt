@@ -1,6 +1,6 @@
 ---
 title:		"ice-lake-charlottenburg"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2017-01-22 16:37:11+00:00"
 album:		"city"

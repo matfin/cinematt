@@ -1,6 +1,6 @@
 ---
 title:		"crew-camera-checking"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 18:08:23+00:00"
 album:		"people"

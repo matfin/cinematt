@@ -1,6 +1,6 @@
 ---
 title:		"christina-light-museum"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-02-09 17:00:35+00:00"
 album:		"people"

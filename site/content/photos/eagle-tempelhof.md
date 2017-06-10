@@ -1,6 +1,6 @@
 ---
 title:		"eagle-tempelhof"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2013-02-15 15:34:29+00:00"
 album:		"city"

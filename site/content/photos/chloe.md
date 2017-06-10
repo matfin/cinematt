@@ -1,6 +1,6 @@
 ---
 title:		"chloe"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-25 15:02:26+00:00"
 album:		"people"

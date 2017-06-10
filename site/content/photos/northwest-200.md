@@ -1,6 +1,6 @@
 ---
 title:		"northwest-200"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2012-05-19 16:50:39+00:00"
 album:		"events"

@@ -1,6 +1,6 @@
 ---
 title:		"cite-foche-hole-wall"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-21 18:31:57+00:00"
 album:		"abandoned"

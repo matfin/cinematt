@@ -1,6 +1,6 @@
 ---
 title:		"klunkerkranich-chairs"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-08-25 20:03:18+00:00"
 album:		"city"

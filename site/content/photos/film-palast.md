@@ -1,6 +1,6 @@
 ---
 title:		"film-palast"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-02-09 16:25:44+00:00"
 album:		"city"

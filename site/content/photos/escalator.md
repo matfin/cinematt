@@ -1,6 +1,6 @@
 ---
 title:		"escalator"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-18 16:49:56+00:00"
 album:		"experimental"

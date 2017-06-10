@@ -1,6 +1,6 @@
 ---
 title:		"dublin-from-howth"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-06 18:52:27+00:00"
 album:		"landscapes"

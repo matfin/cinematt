@@ -1,6 +1,6 @@
 ---
 title:		"greifswalder-tunnel"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2015-12-09 00:15:08+00:00"
 album:		"city"

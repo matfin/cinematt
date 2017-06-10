@@ -1,6 +1,6 @@
 ---
 title:		"anna-grogans-pint"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-07 18:29:47+00:00"
 album:		"people"

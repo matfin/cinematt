@@ -1,6 +1,6 @@
 ---
 title:		"kudamm-kiosk"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-12-18 18:31:44+00:00"
 album:		"city"

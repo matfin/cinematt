@@ -1,6 +1,6 @@
 ---
 title:		"pai-parrot"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2006-07-29 00:26:23+00:00"
 album:		"nature"

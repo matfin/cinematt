@@ -1,6 +1,6 @@
 ---
 title:		"dschung-standing"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2014-04-19 09:41:01+00:00"
 album:		"people"

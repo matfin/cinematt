@@ -1,6 +1,6 @@
 ---
 title:		"easter-prost"
-type:		"upload"
+mediatype:		"upload"
 description:		"TBC"
 date:		"2016-03-27 21:06:23+00:00"
 album:		"experimental"
