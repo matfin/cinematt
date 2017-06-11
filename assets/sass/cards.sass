@@ -2,8 +2,13 @@
  *	Photo card
  */
 figure.photo-card
-	margin-bottom: $units
 	
+	height: $units * 12
+	margin-bottom: $units
+
+	&.loaded
+		height: unset
+
 	img
 		display: block
 		width: 100%

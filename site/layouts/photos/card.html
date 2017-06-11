@@ -4,7 +4,7 @@
 {{ $height 	:= .Params.height }}
 <figure class="photo-card orientation-{{ if lt $width $height }}portrait{{ else }}landscape{{end}}" data-colours="{{ delimit $colours "," }}">
 	<img 
-		src="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg"
-		srcset="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 1x, {{ $base }}/image/upload/w_640/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 2x"
+		data-src="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg"
+		data-srcset="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 1x, {{ $base }}/image/upload/w_640/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 2x"
 	/>
 </figure>
