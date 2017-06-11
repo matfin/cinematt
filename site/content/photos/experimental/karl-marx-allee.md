@@ -1,0 +1,53 @@
+---
+title:		"karl-marx-allee"
+type:		"photos"
+mediatype:		"upload"
+description:		"TBC"
+date:		"2016-12-29 16:29:53"
+album:		"experimental"
+filename:		"karl-marx-allee.md"
+series:		""
+cl_public_id:		"experimental/karl-marx-allee"
+cl_version:		1497004567
+format:		"tiff"
+bytes:		7022680
+width:		810
+height:		1440
+colours:
+- "#52748C"
+- "#5E6D73"
+- "#808A99"
+- "#323939"
+- "#1B1917"
+- "#9FA9B8"
+- "#6B819A"
+- "#22333A"
+- "#7FA0BA"
+- "#162623"
+- "#D6C4C0"
+- "#35353A"
+- "#A5BBCE"
+- "#041D24"
+- "#252017"
+- "#231916"
+- "#5A645E"
+- "#021614"
+- "#796F6A"
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		undefined
+focal_length:		"24.0 mm"
+iso:		"200"
+shutter_speed:		undefined
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Auto"
+colour_temp:		"-6.0"
+has_crop:		"No"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"No lens info"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

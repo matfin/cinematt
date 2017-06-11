@@ -1,11 +1,32 @@
 {{ $base := .Site.Params.cl_media_base }}
-<figure class="photo-card">
-	<img 
+<figure class="photo-card" data-colours="{{ delimit .Params.colours "," }}">
+	<!-- <img 
 		data-src="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg"
 		data-srcset="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 1x, {{ $base }}/image/upload/w_640/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 2x"
 		alt="{{ .Title }}" 
-	/>
+	/> -->
 
-	{{ .Date.Format "January 2006" }}
+	<!-- <div class="bar" style="background-color: #7D5D4B;"></div>
+	<div class="bar" style="background-color: #111D21;"></div>
+	<div class="bar" style="background-color: #CFB7AF;"></div>
+	<div class="bar" style="background-color: #6D5B3B;"></div>
+	<div class="bar" style="background-color: #3F3723;"></div>
+	<div class="bar" style="background-color: #34231A;"></div>
+	<div class="bar" style="background-color: #BF9584;"></div>
+	<div class="bar" style="background-color: #393730;"></div>
+	<div class="bar" style="background-color: #356573;"></div>
+	<div class="bar" style="background-color: #2D3431;"></div>
+	<div class="bar" style="background-color: #7A7540;"></div>
+	<div class="bar" style="background-color: #766A5F;"></div>
+	<div class="bar" style="background-color: #394123;"></div>
+	<div class="bar" style="background-color: #0E1614;"></div>
+	<div class="bar" style="background-color: #596932;"></div>
+	<div class="bar" style="background-color: #6E713D;"></div>
+	<div class="bar" style="background-color: #8A5555;"></div>
+	<div class="bar" style="background-color: #172115;"></div>
+	<div class="bar" style="background-color: #29390A;"></div>
+	<div class="bar" style="background-color: #68685A;"></div>
+	<div class="bar" style="background-color: #05151B;"></div>
+	<div class="bar" style="background-color: #BD8685;"></div> -->
 
 </figure>
