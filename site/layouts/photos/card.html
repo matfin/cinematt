@@ -1,8 +1,10 @@
-{{ $base := .Site.Params.cl_media_base }}
+{{ $base 	:= .Site.Params.cl_media_base }}
 {{ $colours := first 5 .Params.colours }}
-<figure class="photo-card" data-colours="{{ delimit $colours "," }}">
+{{ $width 	:= .Params.width }}
+{{ $height 	:= .Params.height }}
+<figure class="photo-card orientation-{{ if lt $width $height }}portrait{{ else }}landscape{{end}}" data-colours="{{ delimit $colours "," }}">
 	<img 
-		data-src="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg"
-		data-srcset="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 1x, {{ $base }}/image/upload/w_640/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 2x"
+		src="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg"
+		srcset="{{ $base }}/image/upload/w_320/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 1x, {{ $base }}/image/upload/w_640/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 2x"
 	/>
 </figure>
