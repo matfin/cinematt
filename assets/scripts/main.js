@@ -5,6 +5,5 @@ if(window.cinematt == null) {
 }
 
 onload = () => {
-	const utils = cinematt.utils;
-	utils.dummy();
+	let imgs = document.querySelectorAll('img');
 };

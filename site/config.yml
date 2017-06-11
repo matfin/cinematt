@@ -9,6 +9,7 @@ preservetaxonomynames:  true
 params:
   description:          "Photography website"
   author:               "Matt Finucane"
+  cl_media_base:        "https://res.cloudinary.com/matt-finucane-portfolio/"
   noindex:              true
 ...
 
