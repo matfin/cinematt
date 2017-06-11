@@ -1,6 +1,25 @@
 main.albums
 	display: grid
-	grid-template-columns: 1fr 1fr 1fr
-	grid-template-rows:	1fr 1fr 1fr
-	grid-column-gap: $units
-	grid-row-gap: $units
+	grid-column-gap: $units / 2
+	grid-row-gap: $units / 2
+
+	+break(min-max, 0, $break-0)
+		grid-template-columns: 1fr
+
+	+break(min-max, $break-0, $break-1)
+		grid-template-columns: repeat(2, 1fr)
+
+	+break(min-max, $break-1, $break-2)
+		grid-template-columns: repeat(3, 1fr)
+
+	+break(min-max, $break-2, $break-3)
+		grid-template-columns: repeat(4, 1fr)
+
+	+break(min-max, $break-3, $break-4)
+		grid-template-columns: repeat(5, 1fr)
+
+	+break(min-max, $break-4, $break-5)
+		grid-template-columns: repeat(6, 1fr)
+
+	+break(min, $break-5)
+		grid-template-columns: repeat(8, 1fr)
