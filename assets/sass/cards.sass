@@ -2,24 +2,5 @@
  *	Photo card
  */
 figure.photo-card
-	z-index: $z-middle
-	display: grid
-	width: 40vw
+	width: 33vw
 	height: 180px
-	overflow: hidden
-	grid-template-columns: 1fr
-
-	.bar
-		opacity: 1
-		+transitionWithProperties((transform, opacity), 500ms)
-		transform: translate3d(0, 0, 0)
-
-	
-	&.loaded
-		.bar
-			opacity: 0
-			&:nth-child(even)
-				transform: translate3d(100%, 0, 0)
-			&:nth-child(odd)
-				transform: translate3d(-100%, 0, 0)
-	

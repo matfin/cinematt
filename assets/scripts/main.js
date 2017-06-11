@@ -9,13 +9,9 @@ onload = () => {
 };
 
 const addBars = (photo_card) => {
-	let colours = photo_card.getAttribute('data-colours').split(',');
-	colours.map(colour => {
-		let node = document.createElement('div');
-		node.classList.add('bar');
-		node.style.background = `${colour}`;
-		return node;
-	}).forEach(node => photo_card.appendChild(node));
+	let colours = photo_card.getAttribute('data-colours');
+	photo_card.removeAttribute('data-colours');
+	photo_card.style.backgroundImage = `linear-gradient(to right, ${colours})`;
 };
 
 const makeBars = () => {
