@@ -4,14 +4,20 @@
 figure.photo-card
 	position: relative
 	min-height: $units * 20
-
-	+transitionWithProperties((transform, opacity), 700ms)
+	+transitionWithProperties((transform, background-position), 250ms)
 	transform: translate3d(0, 30%, 0)
-	opacity: 0
+	background-position: 0px 0px
+	background-repeat: no-repeat
+
+	img
+		+transitionWithProperties(opacity, 250ms)
+		opacity: 0
 
 	&.loaded
 		transform: translate3d(0, 0, 0)
-		opacity: 1
+		background-position: 0px $units * 20
+		img
+			opacity: 1.0
 
 	&.orientation-portrait
 		grid-row-end: span 2

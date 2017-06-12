@@ -45,13 +45,13 @@ window.cinematt.utils = {
 	},
 
 	loadThumbnails: () => {
-		let images = [...document.querySelectorAll('figure img')];
+		let images = [...document.querySelectorAll('figure.photo-card img')];
 		images.filter(image => {
-			return cinematt.utils.inView(image) && !cinematt.utils.hasLoaded(image);
+			return cinematt.utils.inView(image, 20) && !cinematt.utils.hasLoaded(image);
 		}).forEach(cinematt.utils.primeImage);
 	},
 
-	inView: (node) => {
+	inView: (node, offset = 0) => {
 		const {
 			top,
 			right,
@@ -61,7 +61,7 @@ window.cinematt.utils = {
 			height
 		} = node.getBoundingClientRect();
 
-		return top <= window.innerHeight;
+		return top + offset <= window.innerHeight;
 	},
 
 	hasLoaded: (node) => {
@@ -72,7 +72,7 @@ window.cinematt.utils = {
 		let image 	= evt.target, 
 			figure 	= image.parentNode;
 		figure.removeAttribute('data-colours');
-		figure.style.backgroundImage = 'none';
+		// figure.style.backgroundImage = 'none';
 		figure.classList.add('loaded');
 	}
 
