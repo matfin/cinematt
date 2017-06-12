@@ -6,48 +6,55 @@ header
 	grid-column: 2 / 3
 	display: grid
 	align-items: center
+	background-color: rgba($white, 0.8)
+
+	+break(max, $break-2)
+		grid-template-columns: 1fr $units * 4
+		grid-template-rows: 1fr
+
+		button 
+			grid-column: 2 / 3
+			height: $units * 4
+
+	+break(min, $break-2)
+		button
+			display: none
 
 nav
-	grid-row: 1 / 2
-	grid-column: 2 / 3
+	+break(max, $break-2)
+		z-index: $z-over
+		grid-row: 2 / 4
+		grid-column: 2 / 4
+		background-color: rgba($white, 0.96)
 
-	display: grid
-	grid-template-columns: repeat(2, 1fr)
-	grid-template-rows: 1fr
-	align-items: center
-
-	ul
-		grid-column: 2 / 3
 		display: grid
-		grid-auto-flow: column
-		grid-gap: $units
+		grid-template-rows: minmax(auto, 75vh)
+		grid-template-columns: 1fr
 
-	// z-index: $z-over
-	// background-color: rgba($white, 0.9)
-	// height: $units * 4
-	// align-items: center
+		ul
+			grid-row: 1
+			grid-column: 1
 
-	// +break(max, $break-2)
-	// 	position: fixed
-	// 	top: 0
-	// 	left: 0
-	// 	width: 100vw
+			display: grid
+			grid-template-columns: 1fr
+			grid-template-rows: auto
+			align-items: center
+			justify-items: center
 
+	+break(min, $break-2)
+		grid-row: 1 / 2
+		grid-column: 2 / 3
 
-	// +break(min, $break-2)
-	// 	grid-row: 1 / 2
-	// 	grid-column: 2 / 3
-	// 	display: grid
-	// 	grid-template-columns: repeat(2, 1fr)
-	// 	grid-template-rows: 1fr
+		display: grid
+		grid-template-columns: repeat(2, 1fr)
+		grid-template-rows: 1fr
+		align-items: center
 
-	// 	nav
-	// 		display: grid
-	// 		align-items: center
-	// 		ul
-	// 			display: grid
-	// 			grid-auto-flow: column
-	// 			grid-gap: $units
+		ul
+			grid-column: 2 / 3
+			display: grid
+			grid-auto-flow: column
+			grid-gap: $units
 
 /**
  *	Footer
