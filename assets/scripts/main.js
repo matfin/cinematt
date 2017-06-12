@@ -5,6 +5,6 @@ if(window.cinematt == null) {
 }
 
 onload = () => {
-	const utils = cinematt.utils;
-	utils.dummy();
+	cinematt.utils.makeBars();
+	cinematt.utils.loadThumbnails();	
 };

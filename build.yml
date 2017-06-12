@@ -7,7 +7,7 @@ services:
       context: .docker/site
       dockerfile: Dockerfile
       args: 
-        hugo_version: "0.20.2"
+        hugo_version: "0.21"
     volumes:
       - ./:/opt:rw
     command: hugo -s /opt/site -b http://cinematt.build --config=./site/build.yml -d ../public

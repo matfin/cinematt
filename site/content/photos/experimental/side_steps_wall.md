@@ -1,0 +1,41 @@
+---
+title:		"side_steps_wall"
+type:		"photos"
+mediatype:		"upload"
+description:		"TBC"
+date:		"2016-01-08 15:19:51+00:00"
+album:		"experimental"
+filename:		"side-steps-wall.md"
+series:		""
+cl_public_id:		"experimental/side_steps_wall"
+cl_version:		1497004440
+format:		"tiff"
+bytes:		6734448
+width:		2158
+height:		1440
+colours:
+- "#817264"
+- "#372E24"
+- "#7A6A57"
+- "#332922"
+- "#756455"
+- "#322B27"
+- "#BBAA99"
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		"4.5"
+focal_length:		"38.0 mm"
+iso:		"250"
+shutter_speed:		"1/320"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"5950"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"24-70mm f/2.8"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

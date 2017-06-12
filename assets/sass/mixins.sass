@@ -1,0 +1,14 @@
+=break($type, $param-break-1, $param-break-2: '')
+	@if $type == min
+		@media screen and (min-width: $param-break-1)
+			@content
+	@else if $type == max
+		@media screen and (max-width: $param-break-2)
+			@content
+	@else if $type == min-max
+		@media screen and (min-width: $param-break-1) and (max-width: $param-break-2 - 0.05rem)
+			@content
+
+=transitionWithProperties($props, $ms: $transition-duration)
+	transition-property: $props
+	transition-duration: $ms
