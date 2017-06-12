@@ -2,10 +2,21 @@
  *	Header
  */
 header
+	z-index: $z-over
+	position: fixed
+	top: 0
+	left: 0
+	width: 100vw
+	height: $units * 4
+	padding: 0 $units * 4
 	display: grid
 	grid-template-columns: repeat(auto-fill, 50%)
 	grid-template-rows: 1fr
-	
+	background-color: rgba($white, 0.9)
+
+	h1 
+		line-height: $units * 4
+
 	nav
 		display: grid
 		align-items: center
@@ -13,3 +24,10 @@ header
 			display: grid
 			grid-auto-flow: column
 			grid-gap: $units
+
+/**
+ *	Footer
+ */
+footer
+	grid-row: 2 / 3
+	grid-column: 1 / 3

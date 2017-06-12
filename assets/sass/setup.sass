@@ -5,15 +5,16 @@
 
 body
 	display: grid
-	grid-template-columns: 1fr
-	grid-template-rows: 1fr
-	padding: $units / 4
-	max-width: $max-width
-	margin: 0 auto
+	grid-template-columns: 1fr minmax(auto, $max-width) 1fr
+	grid-template-rows: 3fr
+	margin: $units * 4 auto
 
-main
-	width: 100vw
-	max-width: $max-width
+	+break(max, $break-3)
+		padding: $units / 4
 
 ul
 	list-style: none
+
+a
+	text-decoration: none
+	color: currentColor
