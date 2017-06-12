@@ -74,21 +74,15 @@ window.cinematt.utils = {
 	loadThumbnails: () => {
 		let images = [...document.querySelectorAll('figure.photo-card img')];
 		images.filter(image => {
-			return cinematt.utils.inView(image, 20) && !cinematt.utils.hasLoaded(image);
+			return cinematt.utils.inView(image) && !cinematt.utils.hasLoaded(image);
 		}).forEach(cinematt.utils.primeImage);
 	},
 
-	inView: (node, offset = 0) => {
-		const {
-			top,
-			right,
-			bottom,
-			left,
-			width,
-			height
-		} = node.getBoundingClientRect();
+	inView: (node) => {
+		let top 	= node.getBoundingClientRect().top,
+			height 	= window.innerHeight;
 
-		return top + offset <= window.innerHeight;
+		return top <= height;
 	},
 
 	hasLoaded: (node) => {
