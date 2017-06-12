@@ -5,6 +5,7 @@
 	</head>
 	<body>
 		{{ partial "header" . }}
+		{{ partial "nav" . }}
 		<main class="page albums" role="main">
 			{{ $photos := where .Data.Pages "Section" "photos" }}
 			{{ range first 20 $photos }}
