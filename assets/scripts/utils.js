@@ -20,6 +20,33 @@ window.cinematt.utils = {
 		};
 	},
 
+	primeTapEvent: (selector, fn) => {
+		const items = document.querySelectorAll(selector);
+		items.forEach(item => {
+			if('onpointerdown' in window) {
+				item.addEventListener('pointerdown', fn);
+			}
+			else if('ontouchstart' in window) {
+				item.addEventListener('touchstart', fn);
+			}
+			else {
+				item.addEventListener('click', fn);
+			}
+		});
+	},
+
+	toggleMenuReveal: () => {
+		let nav 	= document.querySelector('nav'),
+			button	= document.querySelector('button');
+
+		if(nav.classList.toggle('revealed')) {
+			button.classList.add('opened');
+		}
+		else {
+			button.classList.remove('opened');
+		}
+	},
+
 	addGradients: (photo_card) => {
 		let colours = photo_card.getAttribute('data-colours').split(','),
 			step = 100 / colours.length;
@@ -47,21 +74,15 @@ window.cinematt.utils = {
 	loadThumbnails: () => {
 		let images = [...document.querySelectorAll('figure.photo-card img')];
 		images.filter(image => {
-			return cinematt.utils.inView(image, 20) && !cinematt.utils.hasLoaded(image);
+			return cinematt.utils.inView(image) && !cinematt.utils.hasLoaded(image);
 		}).forEach(cinematt.utils.primeImage);
 	},
 
-	inView: (node, offset = 0) => {
-		const {
-			top,
-			right,
-			bottom,
-			left,
-			width,
-			height
-		} = node.getBoundingClientRect();
+	inView: (node) => {
+		let top 	= node.getBoundingClientRect().top,
+			height 	= window.innerHeight;
 
-		return top + offset <= window.innerHeight;
+		return top <= height;
 	},
 
 	hasLoaded: (node) => {

@@ -1,0 +1,12 @@
+{{$albums := where .Data.Pages "Section" "albums" }}
+<nav>
+	<ul>
+		{{ range $albums }}
+			<li>
+				<a href="{{ .Permalink }}">
+					{{ .Params.title }}
+				</a>
+			</li>
+		{{ end }}
+	</ul>
+</nav>
