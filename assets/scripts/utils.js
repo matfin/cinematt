@@ -20,6 +20,33 @@ window.cinematt.utils = {
 		};
 	},
 
+	primeTapEvent: (selector, fn) => {
+		const items = document.querySelectorAll(selector);
+		items.forEach(item => {
+			if('onpointerdown' in window) {
+				item.addEventListener('pointerdown', fn);
+			}
+			else if('ontouchstart' in window) {
+				item.addEventListener('touchstart', fn);
+			}
+			else {
+				item.addEventListener('click', fn);
+			}
+		});
+	},
+
+	toggleMenuReveal: () => {
+		let nav 	= document.querySelector('nav'),
+			button	= document.querySelector('button');
+
+		if(nav.classList.toggle('revealed')) {
+			button.classList.add('opened');
+		}
+		else {
+			button.classList.remove('opened');
+		}
+	},
+
 	addGradients: (photo_card) => {
 		let colours = photo_card.getAttribute('data-colours').split(','),
 			step = 100 / colours.length;
