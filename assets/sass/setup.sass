@@ -4,10 +4,16 @@
 	box-sizing: border-box
 
 body
-	display: flex
-	justify-content: center
+	display: grid
+	grid-template-columns: 1fr
+	grid-template-rows: 1fr
 	padding: $units / 4
+	max-width: $max-width
+	margin: 0 auto
 
 main
 	width: 100vw
 	max-width: $max-width
+
+ul
+	list-style: none
