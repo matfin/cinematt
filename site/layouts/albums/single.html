@@ -5,8 +5,14 @@
 	</head>
 	<body>
 		{{ partial "header" . }}
-		<main>
-			{{ .Content }}
+		{{ partial "nav" . }}
+		<main class="page albums" role="main">
+			<section class="teaser">
+				<img src="https://res.cloudinary.com/matt-finucane-portfolio//image/upload/w_2560/v1497000103/abandoned/cite-foche-reflections.jpg">
+			</section>
+			<section class="content">
+				{{ .Content }}
+			</section>
 		</main>
 		{{ partial "footer" . }}
 		{{ partial "scripts" }}

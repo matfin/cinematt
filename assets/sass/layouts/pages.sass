@@ -1,0 +1,39 @@
+/**
+ *	The landing page
+ */
+main.landing
+	display: grid
+	grid-column: 2 / 3
+	grid-row: 2 / 3
+	grid-column-gap: $units / 4
+	grid-row-gap: $units / 4
+
+	+break(min-max, 0, $break-0)
+		grid-template-columns: 1fr
+
+	+break(min-max, $break-0, $break-2)
+		grid-template-columns: repeat(2, 1fr)
+
+	+break(min, $break-2)
+		grid-template-columns: repeat(3, 1fr)
+
+/**
+ *	Albums page
+ */
+main.albums
+	display: grid
+	grid-column: 1 / 4
+	grid-row: 2 / 3
+	grid-template-columns: 1fr minmax(auto, $max-width) 1fr
+	grid-template-rows: 1fr $units * 6 auto
+
+section.teaser
+	grid-row: 1 / 2
+	grid-column: 1 / 4
+
+	img
+		width: 100%
+
+section.content
+	grid-row: 3 / 4
+	grid-column: 2 / 3
