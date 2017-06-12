@@ -3,14 +3,13 @@
  */
 header
 	display: grid
-	grid-template-columns: 3fr
+	grid-template-columns: repeat(auto-fill, 50%)
 	grid-template-rows: 1fr
-
-	> a 
-		grid-column: 1 / 2
+	
 	nav
-		grid-column: 2 / 3
-
-/**
- *	Footer
- */
+		display: grid
+		align-items: center
+		ul
+			display: grid
+			grid-auto-flow: column
+			grid-gap: $units
