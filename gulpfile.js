@@ -5,7 +5,7 @@ const	gulp 		= require('gulp'),
 
 const dest = {
 	scripts:	process.env['SCRIPTS_DEST'],
-	svgs:		process.env['SVG_DEST'],
+	svg:		process.env['SVG_DEST'],
 	favicons:	process.env['FAVICONS_DEST'],
 	watch:		process.env['WATCH'] != null
 };
@@ -14,7 +14,7 @@ const tasks = () => {
 	let items = [
 		'debug',
 		'scripts',
-		'svgs',
+		'svg',
 		'favicons'
 	];
 
@@ -44,10 +44,10 @@ gulp.task('favicons', () => {
 	.pipe(gulp.dest(dest.favicons));
 });
 
-gulp.task('svgs', () => {
+gulp.task('svg', () => {
 	return gulp
-	.src('./assets/svgs/**/*')
-	.pipe(gulp.dest(dest.svgs));
+	.src('./assets/svg/**/*')
+	.pipe(gulp.dest(dest.svg));
 });
 
 gulp.task('watch', () => {

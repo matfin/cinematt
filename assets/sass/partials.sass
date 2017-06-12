@@ -8,6 +8,16 @@ header
 	align-items: center
 	background-color: rgba($white, 0.8)
 
+	button 
+		svg.button-close
+			display: none
+
+		&.opened
+			svg.button-menu
+				display: none
+			svg.button-close
+				display: unset
+
 	+break(max, $break-2)
 		grid-template-columns: 1fr $units * 4
 		grid-template-rows: 1fr
