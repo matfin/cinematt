@@ -6,6 +6,20 @@ if(window.cinematt == null) {
 
 window.cinematt.utils = {
 
+	throttle: (fn, limit = 200) => {
+		let waiting = false;
+		
+		return () => {
+			if(!waiting) {
+				fn.call();
+				waiting = true;
+				setTimeout(() => {
+					waiting = false;
+				}, limit);
+			}
+		};
+	},
+
 	addGradients: (photo_card) => {
 		let colours = photo_card.getAttribute('data-colours').split(','),
 			step = 100 / colours.length;
@@ -32,11 +46,31 @@ window.cinematt.utils = {
 
 	loadThumbnails: () => {
 		let images = [...document.querySelectorAll('figure img')];
-		images.forEach(cinematt.utils.primeImage);
+		images.filter(image => {
+			return cinematt.utils.inView(image) && !cinematt.utils.hasLoaded(image);
+		}).forEach(cinematt.utils.primeImage);
+	},
+
+	inView: (node) => {
+		const {
+			top,
+			right,
+			bottom,
+			left,
+			width,
+			height
+		} = node.getBoundingClientRect();
+
+		return top <= window.innerHeight;
+	},
+
+	hasLoaded: (node) => {
+		return node.getAttribute('src') != null;
 	},
 
 	imageLoaded: (evt) => {
-		let figure = evt.target.parentNode;
+		let image 	= evt.target, 
+			figure 	= image.parentNode;
 		figure.removeAttribute('data-colours');
 		figure.style.backgroundImage = 'none';
 		figure.classList.add('loaded');

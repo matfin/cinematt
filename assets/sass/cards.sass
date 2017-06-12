@@ -5,6 +5,14 @@ figure.photo-card
 	position: relative
 	min-height: $units * 20
 
+	+transitionWithProperties((transform, opacity), 700ms)
+	transform: translate3d(0, 30%, 0)
+	opacity: 0
+
+	&.loaded
+		transform: translate3d(0, 0, 0)
+		opacity: 1
+
 	&.orientation-portrait
 		grid-row-end: span 2
 
