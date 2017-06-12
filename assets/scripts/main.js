@@ -5,6 +5,8 @@ if(window.cinematt == null) {
 }
 
 onload = () => {
-	cinematt.utils.makeBars();
-	cinematt.utils.loadThumbnails();	
+	const utils = window.cinematt.utils;
+	utils.makeBars();
+	utils.loadThumbnails();
+	document.addEventListener('scroll', utils.throttle(utils.loadThumbnails));	
 };
