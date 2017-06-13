@@ -4,7 +4,6 @@ description: "Landcapes"
 identifier: "landscapes"
 title: "Landscapes"
 weight: "2"
-preview_image:	""
 ---
 
 # Landscapes

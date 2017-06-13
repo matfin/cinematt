@@ -4,7 +4,6 @@ description: "People"
 identifier: "people"
 title: "People"
 weight: "1"
-preview_image:	""
 ---
 
 # People

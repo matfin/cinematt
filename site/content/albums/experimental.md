@@ -4,7 +4,6 @@ description: "Experimental"
 identifier: "experimental"
 title: "Experimental"
 weight: "4"
-preview_image:	""
 ---
 
 # Experimental

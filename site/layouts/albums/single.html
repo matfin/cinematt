@@ -7,8 +7,13 @@
 		{{ partial "header" . }}
 		{{ partial "nav" . }}
 		<main class="page albums" role="main">
+
+			{{ $teaser := .Params.teaser_image }}
+
+			{{ .Site.GetPage "page" "photos/abandoned" $teaser }}
+
 			<section class="teaser">
-				<img src="https://res.cloudinary.com/matt-finucane-portfolio//image/upload/w_2560/v1497000103/abandoned/cite-foche-reflections.jpg">
+				<!-- <img data-src="https://res.cloudinary.com/matt-finucane-portfolio/image/upload/w_2560/v1497000103/abandoned/cite-foche-reflections.jpg"> -->
 			</section>
 			<section class="content">
 				{{ .Content }}

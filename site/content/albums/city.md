@@ -4,7 +4,6 @@ description: "City"
 identifier: "city"
 title: "City"
 weight: "3"
-preview_image:	""
 ---
 
 # City
