@@ -7,14 +7,11 @@
 		{{ partial "header" . }}
 		{{ partial "nav" . }}
 		<main class="page albums" role="main">
-
-			{{ $teaser := .Params.teaser_image }}
-
-			{{ .Site.GetPage "page" "photos/abandoned" $teaser }}
-
-			<section class="teaser">
-				<!-- <img data-src="https://res.cloudinary.com/matt-finucane-portfolio/image/upload/w_2560/v1497000103/abandoned/cite-foche-reflections.jpg"> -->
-			</section>
+			{{ if .Params.teaser_image}}
+				{{ $teaser 	:= string .Params.teaser_image }}
+				{{ $photo 	:= .Site.GetPage "page" "photos/abandoned" $teaser }}
+				{{ partial "photo_teaser" $photo }}
+			{{ end }}
 			<section class="content">
 				{{ .Content }}
 			</section>
