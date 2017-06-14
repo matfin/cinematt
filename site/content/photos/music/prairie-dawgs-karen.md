@@ -1,12 +1,12 @@
 ---
-title:		"prairie-dawgs-karen"
+title:		"Prairie Dawgs - Karen"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-05 23:41:22+00:00"
 album:		"music"
 filename:		"prairie-dawgs-karen.md"
-series:		""
+series:		"prairie-dawgs"
 cl_public_id:		"music/prairie-dawgs-karen"
 cl_version:		1497004910
 format:		"tiff"

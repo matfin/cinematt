@@ -1,12 +1,12 @@
 ---
-title:		"vantastival-guitarist"
+title:		"Guitarist"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 13:20:30+00:00"
 album:		"music"
 filename:		"vantastival-guitarist.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/vantastival-guitarist"
 cl_version:		1497004902
 format:		"tiff"

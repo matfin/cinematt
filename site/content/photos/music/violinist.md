@@ -1,12 +1,12 @@
 ---
-title:		"violinist"
+title:		"Violinist"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-01-10 21:33:35+00:00"
 album:		"music"
 filename:		"violinist.md"
-series:		""
+series:		"musicians"
 cl_public_id:		"music/violinist"
 cl_version:		1497004916
 format:		"tiff"

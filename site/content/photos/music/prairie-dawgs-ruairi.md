@@ -1,12 +1,12 @@
 ---
-title:		"prairie-dawgs-ruairi"
+title:		"Prairie Dawgs - Ruairí"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-05 23:01:14+00:00"
 album:		"music"
 filename:		"prairie-dawgs-ruairi.md"
-series:		""
+series:		"prairie-dawgs"
 cl_public_id:		"music/prairie-dawgs-ruairi"
 cl_version:		1497004922
 format:		"tiff"

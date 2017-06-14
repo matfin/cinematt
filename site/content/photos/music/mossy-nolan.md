@@ -1,12 +1,12 @@
 ---
-title:		"mossy-nolan"
+title:		"Mossy Nolan"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-25 15:26:48+00:00"
 album:		"music"
 filename:		"mossy-nolan.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"music/mossy-nolan"
 cl_version:		1497004867
 format:		"tiff"

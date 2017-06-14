@@ -1,12 +1,12 @@
 ---
-title:		"alabama-3-guitarist"
+title:		"Alabama 3 guitarist"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 23:41:18+00:00"
 album:		"music"
 filename:		"alabama-3-guitarist.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/alabama-3-guitarist"
 cl_version:		1497004864
 format:		"tiff"

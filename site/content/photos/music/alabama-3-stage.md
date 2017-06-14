@@ -1,12 +1,12 @@
 ---
-title:		"alabama-3-stage"
+title:		"Alabama 3"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 23:40:52+00:00"
 album:		"music"
 filename:		"alabama-3-stage.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/alabama-3-stage"
 cl_version:		1497004838
 format:		"tiff"

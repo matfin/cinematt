@@ -1,12 +1,12 @@
 ---
-title:		"tim-hot-sprockets-under-mic"
+title:		"The Hot Sprockets - Lead"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 18:24:58+00:00"
 album:		"music"
 filename:		"tim-hot-sprockets-under-mic.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/tim-hot-sprockets-under-mic"
 cl_version:		1497004892
 format:		"tiff"

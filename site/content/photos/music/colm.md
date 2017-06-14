@@ -1,12 +1,12 @@
 ---
-title:		"colm"
+title:		"Colm McGowan"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-25 15:27:03+00:00"
 album:		"music"
 filename:		"colm.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"music/colm"
 cl_version:		1497004816
 format:		"tiff"

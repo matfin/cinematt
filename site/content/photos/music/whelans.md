@@ -1,12 +1,12 @@
 ---
-title:		"whelans"
+title:		"Whelans"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2010-07-10 01:10:09+00:00"
 album:		"music"
 filename:		"whelans.md"
-series:		""
+series:		"musicians"
 cl_public_id:		"music/whelans"
 cl_version:		1497004923
 format:		"tiff"

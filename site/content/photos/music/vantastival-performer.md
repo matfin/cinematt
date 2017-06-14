@@ -1,12 +1,12 @@
 ---
-title:		"vantastival-performer"
+title:		"Lead singer"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-04-30 20:43:38+00:00"
 album:		"music"
 filename:		"vantastival-performer.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/vantastival-performer"
 cl_version:		1497004908
 format:		"tiff"

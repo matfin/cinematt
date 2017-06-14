@@ -1,12 +1,12 @@
 ---
-title:		"hot-sprockets-leads"
+title:		"Hot Sprockets vocalist"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-09-25 00:30:56+00:00"
 album:		"music"
 filename:		"hot-sprockets-leads.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/hot-sprockets-leads"
 cl_version:		1497004876
 format:		"tiff"

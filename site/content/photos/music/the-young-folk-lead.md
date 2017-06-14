@@ -1,12 +1,12 @@
 ---
-title:		"the-young-folk-lead"
+title:		"The Young Folk"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-30 19:33:35+00:00"
 album:		"music"
 filename:		"the-young-folk-lead.md"
-series:		""
+series:		"musicians"
 cl_public_id:		"music/the-young-folk-lead"
 cl_version:		1497004905
 format:		"tiff"
