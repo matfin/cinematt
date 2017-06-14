@@ -26,3 +26,11 @@
 
 	+break(min, $break-2)
 		grid-template-columns: repeat(3, 1fr)
+
+=photoAlbumGrid($gap: $units / 4)
+	display: grid
+	grid-column-gap: $gap
+	grid-row-gap: $gap
+
+	grid-template-columns: repeat(3, 1fr)
+	grid-template-rows: repeat(3, 33vh)

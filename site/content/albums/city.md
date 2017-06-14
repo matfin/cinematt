@@ -6,6 +6,3 @@ title: "City"
 weight: "3"
 teaser_image: "berlin-christmas-market-bar.md"
 ---
-
-# City
-This is the content for City

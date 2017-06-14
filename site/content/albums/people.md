@@ -6,6 +6,3 @@ title: "People"
 weight: "1"
 teaser_image: "viking-renactor.md"
 ---
-
-# People
-This is the content for People

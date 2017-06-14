@@ -6,6 +6,3 @@ title: "Events"
 weight: "5"
 teaser_image: "spwc-dublin-waldos.md"
 ---
-
-# Events
-This is the content for Events

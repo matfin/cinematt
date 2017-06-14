@@ -6,6 +6,3 @@ title: "Nature"
 weight: "6"
 teaser_image: "bird-poised.md"
 ---
-
-# Nature
-This is the content for Nature

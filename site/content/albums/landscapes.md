@@ -6,6 +6,3 @@ title: "Landscapes"
 weight: "2"
 teaser_image: "st-finians-beach.md"
 ---
-
-# Landscapes
-This is the content for Landscapes

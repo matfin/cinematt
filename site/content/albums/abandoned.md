@@ -6,6 +6,3 @@ title: "Abandoned"
 weight: "9"
 teaser_image: "cite-foche-reflections.md"
 ---
-
-# Abandoned
-This is the content for Abandoned

@@ -6,6 +6,3 @@ title: "Experimental"
 weight: "4"
 teaser_image: "tempelhof-floodlight.md"
 ---
-
-# Experimental
-This is the content for Experimental

@@ -6,6 +6,3 @@ title: "Music"
 weight: "8"
 teaser_image: "hot-sprockets-stage-vantastival.md"
 ---
-
-# Music
-This is the content for Music
