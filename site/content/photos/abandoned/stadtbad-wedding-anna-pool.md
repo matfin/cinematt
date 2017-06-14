@@ -1,12 +1,12 @@
 ---
-title:		"stadtbad-wedding-anna-pool"
+title:		"Empty pool"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-05-29 14:26:52+00:00"
 album:		"abandoned"
 filename:		"stadtbad-wedding-anna-pool.md"
-series:		""
+series:		"stadtbad"
 cl_public_id:		"abandoned/stadtbad-wedding-anna-pool"
 cl_version:		1497000050
 format:		"tiff"

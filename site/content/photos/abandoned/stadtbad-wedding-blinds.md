@@ -1,12 +1,12 @@
 ---
-title:		"stadtbad-wedding-blinds"
+title:		"Broken blinds"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-05-29 14:38:28+00:00"
 album:		"abandoned"
 filename:		"stadtbad-wedding-blinds.md"
-series:		""
+series:		"stadtbad"
 cl_public_id:		"abandoned/stadtbad-wedding-blinds"
 cl_version:		1497000037
 format:		"tiff"

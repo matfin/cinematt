@@ -1,12 +1,12 @@
 ---
-title:		"haus-der-statistiche-2"
+title:		"Haus der Statistische"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 15:38:19+00:00"
 album:		"abandoned"
 filename:		"haus-der-statistiche-2.md"
-series:		""
+series:		"haus-der-statistische"
 cl_public_id:		"abandoned/haus-der-statistiche-2"
 cl_version:		1497000117
 format:		"tiff"

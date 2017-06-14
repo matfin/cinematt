@@ -1,12 +1,12 @@
 ---
-title:		"cite-foche-anna-rain"
+title:		"Anna & rain"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-21 19:02:32+00:00"
 album:		"abandoned"
 filename:		"cite-foche-anna-rain.md"
-series:		""
+series:		"cite-foche"
 cl_public_id:		"abandoned/cite-foche-anna-rain"
 cl_version:		1497000062
 format:		"tiff"

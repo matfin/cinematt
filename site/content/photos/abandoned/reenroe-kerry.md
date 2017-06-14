@@ -1,12 +1,12 @@
 ---
-title:		"rian-ro-kerry"
+title:		"Reenroe Hotel"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2012-04-01 16:50:51+00:00"
 album:		"abandoned"
 filename:		"rian-ro-kerry.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"abandoned/rian-ro-kerry"
 cl_version:		1497000059
 format:		"tiff"

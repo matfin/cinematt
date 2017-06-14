@@ -1,12 +1,12 @@
 ---
-title:		"rian-ro-kerry-lobby"
+title:		"Hotel Lobby"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2012-04-01 16:53:10+00:00"
 album:		"abandoned"
 filename:		"rian-ro-kerry-lobby.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"abandoned/rian-ro-kerry-lobby"
 cl_version:		1497000113
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"cite-foche-hole-wall"
+title:		"Broken wall"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-21 18:31:57+00:00"
 album:		"abandoned"
 filename:		"cite-foche-hole-wall.md"
-series:		""
+series:		"cite-foche"
 cl_public_id:		"abandoned/cite-foche-hole-wall"
 cl_version:		1497000081
 format:		"tiff"

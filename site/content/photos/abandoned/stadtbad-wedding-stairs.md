@@ -1,12 +1,12 @@
 ---
-title:		"stadtbad-wedding-stairs"
+title:		"Stairs"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-05-29 14:37:22+00:00"
 album:		"abandoned"
 filename:		"stadtbad-wedding-stairs.md"
-series:		""
+series:		"stadtbad"
 cl_public_id:		"abandoned/stadtbad-wedding-stairs"
 cl_version:		1497000076
 format:		"tiff"

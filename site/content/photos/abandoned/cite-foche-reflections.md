@@ -1,12 +1,12 @@
 ---
-title:		"cite-foche-reflections"
+title:		"Reflections"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-21 19:05:14+00:00"
 album:		"abandoned"
 filename:		"cite-foche-reflections.md"
-series:		""
+series:		"cite-foche"
 cl_public_id:		"abandoned/cite-foche-reflections"
 cl_version:		1497000103
 format:		"tiff"

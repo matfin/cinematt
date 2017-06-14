@@ -1,12 +1,12 @@
 ---
-title:		"rian-ro-kerry-windows"
+title:		"Broken windows"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2012-04-01 17:01:30+00:00"
 album:		"abandoned"
 filename:		"rian-ro-kerry-windows.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"abandoned/rian-ro-kerry-windows"
 cl_version:		1497000115
 format:		"tiff"
