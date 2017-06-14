@@ -1,12 +1,12 @@
 ---
-title:		"kerry-sheep"
+title:		"Sheep in Kerry"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2011-03-28 15:34:54+00:00"
 album:		"landscapes"
 filename:		"kerry-sheep.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"landscapes/kerry-sheep"
 cl_version:		1497004755
 format:		"tiff"

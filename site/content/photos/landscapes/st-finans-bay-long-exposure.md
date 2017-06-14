@@ -1,12 +1,12 @@
 ---
-title:		"st-finans-bay-long-exposure"
+title:		"St Finian's Bay"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2011-12-10 01:16:36+00:00"
 album:		"landscapes"
 filename:		"st-finans-bay-long-exposure.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"landscapes/st-finans-bay-long-exposure"
 cl_version:		1497004738
 format:		"tiff"

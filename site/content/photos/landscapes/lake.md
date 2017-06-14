@@ -1,12 +1,12 @@
 ---
-title:		"lake"
+title:		"Bergwitzsee"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Bergwitzsee, Germany"
 date:		"2017-04-14 19:48:07"
 album:		"landscapes"
 filename:		"lake.md"
-series:		""
+series:		"cycle-tour"
 cl_public_id:		"landscapes/lake"
 cl_version:		1497004718
 format:		"tiff"

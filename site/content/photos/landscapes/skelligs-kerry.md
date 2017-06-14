@@ -1,12 +1,12 @@
 ---
-title:		"skelligs-kerry"
+title:		"The Skellig Rocks"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2011-12-11 16:05:55+00:00"
 album:		"landscapes"
 filename:		"skelligs-kerry.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"landscapes/skelligs-kerry"
 cl_version:		1497004744
 format:		"tiff"

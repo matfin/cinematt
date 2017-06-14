@@ -1,12 +1,12 @@
 ---
-title:		"howth-fishing-boat"
+title:		"Fishing boat"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Howth, Ireland"
 date:		"2011-10-21 22:30:20+00:00"
 album:		"landscapes"
 filename:		"howth-fishing-boat.md"
-series:		""
+series:		"howth"
 cl_public_id:		"landscapes/howth-fishing-boat"
 cl_version:		1497004699
 format:		"tiff"

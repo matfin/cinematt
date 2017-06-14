@@ -1,12 +1,12 @@
 ---
-title:		"glendalough-tower"
+title:		"Church tower"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Glendalough, Ireland"
 date:		"2014-04-08 17:19:36+00:00"
 album:		"landscapes"
 filename:		"glendalough-tower.md"
-series:		""
+series:		"glendalough"
 cl_public_id:		"landscapes/glendalough-tower"
 cl_version:		1497004712
 format:		"tiff"

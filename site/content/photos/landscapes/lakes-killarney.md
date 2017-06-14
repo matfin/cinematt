@@ -1,12 +1,12 @@
 ---
-title:		"lakes-killarney"
+title:		"Lakes of Killarney"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2012-04-01 19:23:21"
 album:		"landscapes"
 filename:		"lakes-killarney.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"landscapes/lakes-killarney"
 cl_version:		1497004733
 format:		"tiff"

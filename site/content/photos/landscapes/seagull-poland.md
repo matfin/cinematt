@@ -1,12 +1,12 @@
 ---
-title:		"seagull-poland"
+title:		"Seagull"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Swinoujscie, Poland"
 date:		"2014-03-09 14:50:47+00:00"
 album:		"landscapes"
 filename:		"seagull-poland.md"
-series:		""
+series:		"poland"
 cl_public_id:		"landscapes/seagull-poland"
 cl_version:		1497004746
 format:		"tiff"

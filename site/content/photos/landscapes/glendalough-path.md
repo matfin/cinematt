@@ -1,12 +1,12 @@
 ---
-title:		"glendalough-path"
+title:		"Path"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Glendalough, Ireland"
 date:		"2014-04-08 14:40:28+00:00"
 album:		"landscapes"
 filename:		"glendalough-path.md"
-series:		""
+series:		"glendalough"
 cl_public_id:		"landscapes/glendalough-path"
 cl_version:		1497004677
 format:		"tiff"
