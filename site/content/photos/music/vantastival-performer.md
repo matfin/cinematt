@@ -2,7 +2,7 @@
 title:		"vantastival-performer"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-04-30 20:43:38+00:00"
 album:		"music"
 filename:		"vantastival-performer.md"

@@ -2,7 +2,7 @@
 title:		"vantastival-guitarist"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-05-01 13:20:30+00:00"
 album:		"music"
 filename:		"vantastival-guitarist.md"

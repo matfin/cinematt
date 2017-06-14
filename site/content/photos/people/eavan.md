@@ -1,12 +1,12 @@
 ---
-title:		"eavan"
+title:		"Eavan"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 15:33:16+00:00"
 album:		"people"
 filename:		"eavan.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/eavan"
 cl_version:		1497005404
 format:		"tiff"

@@ -2,7 +2,7 @@
 title:		"look-beautiful-tempelhof"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-02-15 15:08:56+00:00"
 album:		"city"
 filename:		"look-beautiful-tempelhof.md"

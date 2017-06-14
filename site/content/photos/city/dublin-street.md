@@ -2,7 +2,7 @@
 title:		"dublin-street"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-04-16 20:09:10+00:00"
 album:		"city"
 filename:		"dublin-street.md"

@@ -2,7 +2,7 @@
 title:		"cite-foche-cinema"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-21 18:28:07+00:00"
 album:		"abandoned"
 filename:		"cite-foche-cinema.md"

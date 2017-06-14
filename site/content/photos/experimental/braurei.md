@@ -2,7 +2,7 @@
 title:		"braurei"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-03-11 18:33:15+00:00"
 album:		"experimental"
 filename:		"braurei.md"

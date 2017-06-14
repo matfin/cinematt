@@ -2,7 +2,7 @@
 title:		"motel-avus"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-09 13:11:57+00:00"
 album:		"city"
 filename:		"motel-avus.md"

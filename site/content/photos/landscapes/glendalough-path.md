@@ -2,7 +2,7 @@
 title:		"glendalough-path"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-04-08 14:40:28+00:00"
 album:		"landscapes"
 filename:		"glendalough-path.md"

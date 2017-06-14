@@ -2,7 +2,7 @@
 title:		"easter-prost"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-03-27 21:06:23+00:00"
 album:		"experimental"
 filename:		"easter-prost.md"

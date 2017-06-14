@@ -2,7 +2,7 @@
 title:		"karl-marx-allee"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-29 16:29:53"
 album:		"experimental"
 filename:		"karl-marx-allee.md"

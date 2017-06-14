@@ -2,7 +2,7 @@
 title:		"lakes-killarney"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2012-04-01 19:23:21"
 album:		"landscapes"
 filename:		"lakes-killarney.md"

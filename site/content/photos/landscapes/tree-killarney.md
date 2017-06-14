@@ -2,7 +2,7 @@
 title:		"tree-killarney"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-03-27 19:14:36+00:00"
 album:		"landscapes"
 filename:		"tree-killarney.md"

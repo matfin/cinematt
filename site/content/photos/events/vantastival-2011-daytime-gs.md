@@ -2,7 +2,7 @@
 title:		"vantastival-2011-daytime-gs"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-05-01 13:17:24+00:00"
 album:		"events"
 filename:		"vantastival-2011-daytime-gs.md"

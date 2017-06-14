@@ -2,7 +2,7 @@
 title:		"karneval-der-kulturen-hat"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-07 19:33:50+00:00"
 album:		"events"
 filename:		"karneval-der-kulturen-hat.md"

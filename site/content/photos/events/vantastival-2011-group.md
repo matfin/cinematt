@@ -2,7 +2,7 @@
 title:		"vantastival-2011-group"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-05-01 15:14:17+00:00"
 album:		"events"
 filename:		"vantastival-2011-group.md"

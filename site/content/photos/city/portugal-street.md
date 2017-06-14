@@ -2,7 +2,7 @@
 title:		"portugal-street"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2012-05-12 14:53:31+00:00"
 album:		"city"
 filename:		"portugal-street.md"

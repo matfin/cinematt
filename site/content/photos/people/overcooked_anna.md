@@ -1,12 +1,12 @@
 ---
-title:		"overcooked_anna"
+title:		"Anna"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-19 22:06:51+00:00"
 album:		"people"
 filename:		"overcooked-anna.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/overcooked_anna"
 cl_version:		1497005503
 format:		"tiff"

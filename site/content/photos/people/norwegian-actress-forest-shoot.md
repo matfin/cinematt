@@ -1,12 +1,12 @@
 ---
-title:		"norwegian-actress-forest-shoot"
+title:		"Malin's forest photoshoot"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 18:18:09+00:00"
 album:		"people"
 filename:		"norwegian-actress-forest-shoot.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/norwegian-actress-forest-shoot"
 cl_version:		1497005493
 format:		"tiff"

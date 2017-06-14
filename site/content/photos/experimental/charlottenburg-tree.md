@@ -2,7 +2,7 @@
 title:		"charlottenburg-tree"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-01-22 16:41:19+00:00"
 album:		"experimental"
 filename:		"charlottenburg-tree.md"

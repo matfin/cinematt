@@ -2,7 +2,7 @@
 title:		"bird-closeup"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-24 16:07:03+00:00"
 album:		"nature"
 filename:		"bird-closeup.md"

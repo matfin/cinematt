@@ -1,12 +1,12 @@
 ---
-title:		"christina-matt-berlin"
+title:		"Christina & Matt"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 15:31:31+00:00"
 album:		"people"
 filename:		"christina-matt-berlin.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"people/christina-matt-berlin"
 cl_version:		1497005362
 format:		"tiff"

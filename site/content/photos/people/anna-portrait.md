@@ -1,12 +1,12 @@
 ---
-title:		"anna-portrait"
+title:		"Anna's portrait"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-05-21 19:28:23+00:00"
 album:		"people"
 filename:		"anna-portrait.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/anna-portrait"
 cl_version:		1497005333
 format:		"tiff"

@@ -2,7 +2,7 @@
 title:		"howth_pier"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2015-12-27 16:12:23"
 album:		"landscapes"
 filename:		"howth-pier.md"

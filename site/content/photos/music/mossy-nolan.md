@@ -2,7 +2,7 @@
 title:		"mossy-nolan"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-25 15:26:48+00:00"
 album:		"music"
 filename:		"mossy-nolan.md"

@@ -2,7 +2,7 @@
 title:		"west-berlin-apartment-door"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-09 12:45:38+00:00"
 album:		"city"
 filename:		"west-berlin-apartment-door.md"

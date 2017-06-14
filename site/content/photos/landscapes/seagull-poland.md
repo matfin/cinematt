@@ -2,7 +2,7 @@
 title:		"seagull-poland"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-03-09 14:50:47+00:00"
 album:		"landscapes"
 filename:		"seagull-poland.md"

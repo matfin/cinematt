@@ -2,7 +2,7 @@
 title:		"schneedrop"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-01-18 17:18:04+00:00"
 album:		"nature"
 filename:		"schneedrop.md"

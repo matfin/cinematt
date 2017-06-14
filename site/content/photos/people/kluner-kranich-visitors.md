@@ -1,12 +1,12 @@
 ---
-title:		"kluner-kranich-visitors"
+title:		"Klunker Kranich"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-25 20:24:08+00:00"
 album:		"people"
 filename:		"kluner-kranich-visitors.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/kluner-kranich-visitors"
 cl_version:		1497005495
 format:		"tiff"

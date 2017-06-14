@@ -2,7 +2,7 @@
 title:		"casino-berlin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-10 01:45:48+00:00"
 album:		"city"
 filename:		"casino-berlin.md"

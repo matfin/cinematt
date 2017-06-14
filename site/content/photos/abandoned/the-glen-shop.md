@@ -2,7 +2,7 @@
 title:		"the-glen-shop"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"1970-01-01"
 album:		"abandoned"
 filename:		"the-glen-shop.md"

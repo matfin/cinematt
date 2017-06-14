@@ -2,7 +2,7 @@
 title:		"st-finans-bay-long-exposure"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-12-10 01:16:36+00:00"
 album:		"landscapes"
 filename:		"st-finans-bay-long-exposure.md"

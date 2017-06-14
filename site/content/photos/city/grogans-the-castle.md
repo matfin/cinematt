@@ -2,7 +2,7 @@
 title:		"grogans-the-castle"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-04-16 18:50:29+00:00"
 album:		"city"
 filename:		"grogans-the-castle.md"

@@ -2,7 +2,7 @@
 title:		"cite-foche-hole-wall"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-21 18:31:57+00:00"
 album:		"abandoned"
 filename:		"cite-foche-hole-wall.md"

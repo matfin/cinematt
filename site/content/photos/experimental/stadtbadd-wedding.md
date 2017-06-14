@@ -2,7 +2,7 @@
 title:		"stadtbadd-wedding"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-05-29 14:21:05+00:00"
 album:		"experimental"
 filename:		"stadtbadd-wedding.md"

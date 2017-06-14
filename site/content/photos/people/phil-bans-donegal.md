@@ -1,12 +1,12 @@
 ---
-title:		"phil-bans-donegal"
+title:		"Phil Bans Pub"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Donegal, Ireland"
 date:		"2010-06-06 23:56:24+00:00"
 album:		"people"
 filename:		"phil-bans-donegal.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/phil-bans-donegal"
 cl_version:		1497005521
 format:		"tiff"

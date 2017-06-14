@@ -2,7 +2,7 @@
 title:		"dublin-from-howth"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-04-06 18:52:27+00:00"
 album:		"landscapes"
 filename:		"dublin-from-howth.md"

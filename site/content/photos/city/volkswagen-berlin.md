@@ -2,7 +2,7 @@
 title:		"volkswagen-berlin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-10 01:58:42+00:00"
 album:		"city"
 filename:		"volkswagen-berlin.md"

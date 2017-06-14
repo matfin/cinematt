@@ -2,7 +2,7 @@
 title:		"cliffs-2005"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2005-02-01 18:08:42+00:00"
 album:		"experimental"
 filename:		"cliffs-2005.md"

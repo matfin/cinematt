@@ -2,7 +2,7 @@
 title:		"anna_markt"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-01-10 18:42:41+00:00"
 album:		"city"
 filename:		"anna-markt.md"

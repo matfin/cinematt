@@ -2,7 +2,7 @@
 title:		"meteor-meetup"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-11-27 22:21:41+00:00"
 album:		"events"
 filename:		"meteor-meetup.md"

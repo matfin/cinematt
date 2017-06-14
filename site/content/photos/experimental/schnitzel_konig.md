@@ -2,7 +2,7 @@
 title:		"schnitzel_konig"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2015-12-08 23:40:29+00:00"
 album:		"experimental"
 filename:		"schnitzel-konig.md"

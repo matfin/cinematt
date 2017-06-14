@@ -2,7 +2,7 @@
 title:		"st-finians-beach"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-31 13:50:29+00:00"
 album:		"landscapes"
 filename:		"st-finians-beach.md"

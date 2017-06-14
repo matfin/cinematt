@@ -1,12 +1,12 @@
 ---
-title:		"crew-camera-checking"
+title:		"Unicorn shoot film crew"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 18:08:23+00:00"
 album:		"people"
 filename:		"crew-camera-checking.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/crew-camera-checking"
 cl_version:		1497005388
 format:		"tiff"

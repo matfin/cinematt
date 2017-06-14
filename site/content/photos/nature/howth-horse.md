@@ -2,7 +2,7 @@
 title:		"howth-horse"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2004-01-28 14:31:38+00:00"
 album:		"nature"
 filename:		"howth-horse.md"

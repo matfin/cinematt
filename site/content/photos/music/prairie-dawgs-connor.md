@@ -2,7 +2,7 @@
 title:		"prairie-dawgs-connor"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-04-05 23:08:11+00:00"
 album:		"music"
 filename:		"prairie-dawgs-connor.md"

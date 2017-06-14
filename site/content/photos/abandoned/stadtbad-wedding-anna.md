@@ -2,7 +2,7 @@
 title:		"stadtbad-wedding-anna"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-05-29 13:57:52+00:00"
 album:		"abandoned"
 filename:		"stadtbad-wedding-anna.md"

@@ -2,7 +2,7 @@
 title:		"pai-cat"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2006-08-09 01:30:52+00:00"
 album:		"nature"
 filename:		"pai-cat.md"

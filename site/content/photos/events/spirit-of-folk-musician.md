@@ -2,7 +2,7 @@
 title:		"spirit-of-folk-musician"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-24 17:29:26+00:00"
 album:		"events"
 filename:		"spirit-of-folk-musician.md"

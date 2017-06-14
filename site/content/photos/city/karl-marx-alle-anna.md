@@ -2,7 +2,7 @@
 title:		"karl-marx-alle-anna"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-29 16:22:42+00:00"
 album:		"city"
 filename:		"karl-marx-alle-anna.md"

@@ -2,7 +2,7 @@
 title:		"side_steps_wall"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-01-08 15:19:51+00:00"
 album:		"experimental"
 filename:		"side-steps-wall.md"

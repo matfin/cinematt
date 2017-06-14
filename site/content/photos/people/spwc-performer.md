@@ -1,12 +1,12 @@
 ---
-title:		"spwc-performer"
+title:		"SPWC performer"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-06-18 14:04:44+00:00"
 album:		"people"
 filename:		"spwc-performer.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/spwc-performer"
 cl_version:		1497005559
 format:		"tiff"

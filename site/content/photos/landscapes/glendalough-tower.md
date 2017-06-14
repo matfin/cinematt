@@ -2,7 +2,7 @@
 title:		"glendalough-tower"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-04-08 17:19:36+00:00"
 album:		"landscapes"
 filename:		"glendalough-tower.md"

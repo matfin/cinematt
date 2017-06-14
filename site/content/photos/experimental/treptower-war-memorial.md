@@ -2,7 +2,7 @@
 title:		"treptower-war-memorial"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-31 17:37:54+00:00"
 album:		"experimental"
 filename:		"treptower-war-memorial.md"

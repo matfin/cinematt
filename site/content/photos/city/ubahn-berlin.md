@@ -2,7 +2,7 @@
 title:		"ubahn-berlin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-18 15:48:44+00:00"
 album:		"city"
 filename:		"ubahn-berlin.md"

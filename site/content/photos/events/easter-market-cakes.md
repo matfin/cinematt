@@ -2,7 +2,7 @@
 title:		"easter-market-cakes"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-04-20 17:39:05+00:00"
 album:		"events"
 filename:		"easter-market-cakes.md"

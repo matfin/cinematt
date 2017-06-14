@@ -2,7 +2,7 @@
 title:		"konigs-wusterhausen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-27 21:38:33+00:00"
 album:		"experimental"
 filename:		"konigs-wusterhausen.md"

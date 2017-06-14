@@ -2,7 +2,7 @@
 title:		"berlin-demonstration-lying-down"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-28 16:08:49+00:00"
 album:		"city"
 filename:		"berlin-demonstration-lying-down.md"

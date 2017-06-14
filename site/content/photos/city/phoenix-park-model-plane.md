@@ -2,7 +2,7 @@
 title:		"phoenix-park-model-plane"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-01-26 12:33:45+00:00"
 album:		"city"
 filename:		"phoenix-park-model-plane.md"

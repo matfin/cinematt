@@ -2,7 +2,7 @@
 title:		"adac-building"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-09 10:49:50+00:00"
 album:		"experimental"
 filename:		"adac-building.md"

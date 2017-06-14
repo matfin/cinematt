@@ -2,7 +2,7 @@
 title:		"spirit-of-folk-bird"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-24 16:00:49+00:00"
 album:		"nature"
 filename:		"spirit-of-folk-bird.md"

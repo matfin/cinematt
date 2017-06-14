@@ -2,7 +2,7 @@
 title:		"berlin-5k-ruairi"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-07-26 20:16:40+00:00"
 album:		"events"
 filename:		"berlin-5k-ruairi.md"

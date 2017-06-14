@@ -1,12 +1,12 @@
 ---
-title:		"grogans-finger-chomp"
+title:		"Grogans Guinness"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-16 17:35:41+00:00"
 album:		"people"
 filename:		"grogans-finger-chomp.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/grogans-finger-chomp"
 cl_version:		1497005450
 format:		"tiff"

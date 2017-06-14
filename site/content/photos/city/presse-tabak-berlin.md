@@ -2,7 +2,7 @@
 title:		"presse-tabak-berlin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-09 23:39:37+00:00"
 album:		"city"
 filename:		"presse-tabak-berlin.md"

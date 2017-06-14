@@ -1,12 +1,12 @@
 ---
-title:		"unicorns"
+title:		"Dschng & Malin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 18:57:58+00:00"
 album:		"people"
 filename:		"unicorns.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/unicorns"
 cl_version:		1497005585
 format:		"tiff"

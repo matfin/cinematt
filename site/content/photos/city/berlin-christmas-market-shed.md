@@ -2,7 +2,7 @@
 title:		"berlin-christmas-market-shed"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2015-12-05 18:02:19+00:00"
 album:		"city"
 filename:		"berlin-christmas-market-shed.md"

@@ -2,7 +2,7 @@
 title:		"leaves-water"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-04-01 15:23:22+00:00"
 album:		"nature"
 filename:		"leaves-water.md"

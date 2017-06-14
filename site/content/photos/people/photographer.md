@@ -1,12 +1,12 @@
 ---
-title:		"photographer"
+title:		"Photographer"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Phoenix Park, Ireland"
 date:		"2013-01-26 12:59:49+00:00"
 album:		"people"
 filename:		"photographer.md"
-series:		""
+series:		"candid"
 cl_public_id:		"people/photographer"
 cl_version:		1497005559
 format:		"tiff"

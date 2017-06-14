@@ -2,7 +2,7 @@
 title:		"spree-statue"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-01-18 16:52:40+00:00"
 album:		"city"
 filename:		"spree-statue.md"

@@ -2,7 +2,7 @@
 title:		"refeshments"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-11-27 21:25:45+00:00"
 album:		"events"
 filename:		"refeshments.md"

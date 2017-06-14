@@ -2,7 +2,7 @@
 title:		"fernsehturm"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-02-09 17:33:12+00:00"
 album:		"city"
 filename:		"fernsehturm.md"

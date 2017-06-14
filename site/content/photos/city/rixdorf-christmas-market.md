@@ -2,7 +2,7 @@
 title:		"rixdorf-christmas-market"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2015-12-05 18:07:03+00:00"
 album:		"city"
 filename:		"rixdorf-christmas-market.md"

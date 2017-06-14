@@ -2,7 +2,7 @@
 title:		"tempelhof-floodlight"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-02-15 15:42:17+00:00"
 album:		"experimental"
 filename:		"tempelhof-floodlight.md"

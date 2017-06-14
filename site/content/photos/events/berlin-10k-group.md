@@ -2,7 +2,7 @@
 title:		"berlin-10k-group"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-05-14 12:12:56+00:00"
 album:		"events"
 filename:		"berlin-10k-group.md"

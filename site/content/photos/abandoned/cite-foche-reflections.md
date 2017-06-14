@@ -2,7 +2,7 @@
 title:		"cite-foche-reflections"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-21 19:05:14+00:00"
 album:		"abandoned"
 filename:		"cite-foche-reflections.md"

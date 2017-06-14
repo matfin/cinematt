@@ -2,7 +2,7 @@
 title:		"greifswaler_apartments"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-01-21 21:08:51+00:00"
 album:		"city"
 filename:		"greifswaler-apartments.md"

@@ -2,7 +2,7 @@
 title:		"praater"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-11 00:03:34+00:00"
 album:		"events"
 filename:		"praater.md"

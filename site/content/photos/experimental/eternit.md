@@ -2,7 +2,7 @@
 title:		"eternit"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-02-09 16:04:51+00:00"
 album:		"experimental"
 filename:		"eternit.md"

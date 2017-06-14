@@ -1,12 +1,12 @@
 ---
-title:		"dad-lauren"
+title:		"Lauren & Dad"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Athlone, Ireland"
 date:		"2017-02-19 14:04:33+00:00"
 album:		"people"
 filename:		"dad-lauren.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/dad-lauren"
 cl_version:		1497005386
 format:		"tiff"

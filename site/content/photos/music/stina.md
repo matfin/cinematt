@@ -2,7 +2,7 @@
 title:		"stina"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-24 20:57:02+00:00"
 album:		"music"
 filename:		"stina.md"

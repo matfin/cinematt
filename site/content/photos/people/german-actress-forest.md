@@ -1,12 +1,12 @@
 ---
-title:		"german-actress-forest"
+title:		"Malin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 18:37:23+00:00"
 album:		"people"
 filename:		"german-actress-forest.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/german-actress-forest"
 cl_version:		1497005412
 format:		"tiff"

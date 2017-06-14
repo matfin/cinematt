@@ -2,7 +2,7 @@
 title:		"northwest-200"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2012-05-19 16:50:39+00:00"
 album:		"events"
 filename:		"northwest-200.md"

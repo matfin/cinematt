@@ -2,7 +2,7 @@
 title:		"whelans"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2010-07-10 01:10:09+00:00"
 album:		"music"
 filename:		"whelans.md"

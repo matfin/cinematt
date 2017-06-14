@@ -2,7 +2,7 @@
 title:		"eagle-tempelhof"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-02-15 15:34:29+00:00"
 album:		"city"
 filename:		"eagle-tempelhof.md"

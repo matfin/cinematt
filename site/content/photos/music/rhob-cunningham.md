@@ -2,7 +2,7 @@
 title:		"rhob-cunningham"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-28 19:06:45+00:00"
 album:		"music"
 filename:		"rhob-cunningham.md"

@@ -2,7 +2,7 @@
 title:		"phoenix-park-deer"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-01-26 12:08:33+00:00"
 album:		"nature"
 filename:		"phoenix-park-deer.md"

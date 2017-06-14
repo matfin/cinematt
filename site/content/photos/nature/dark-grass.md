@@ -2,7 +2,7 @@
 title:		"dark-grass"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2003-11-28 17:35:53+00:00"
 album:		"nature"
 filename:		"dark-grass.md"

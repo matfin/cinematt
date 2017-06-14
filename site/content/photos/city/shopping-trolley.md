@@ -2,7 +2,7 @@
 title:		"shopping-trolley"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-02-09 15:33:25+00:00"
 album:		"city"
 filename:		"shopping-trolley.md"

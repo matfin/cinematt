@@ -2,7 +2,7 @@
 title:		"kitesurfer-tempelhof"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-01-25 16:29:28+00:00"
 album:		"experimental"
 filename:		"kitesurfer-tempelhof.md"

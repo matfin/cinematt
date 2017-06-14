@@ -1,12 +1,12 @@
 ---
-title:		"dan_and_luke_kitchen"
+title:		"Dan & Luke"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2015-12-25 15:07:07+00:00"
 album:		"people"
 filename:		"dan-and-luke-kitchen.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/dan_and_luke_kitchen"
 cl_version:		1497005420
 format:		"tiff"

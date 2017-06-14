@@ -1,12 +1,12 @@
 ---
-title:		"vantastival-vin"
+title:		"Vin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-04-30 19:50:50+00:00"
 album:		"people"
 filename:		"vantastival-vin.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"people/vantastival-vin"
 cl_version:		1497005601
 format:		"tiff"

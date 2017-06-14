@@ -2,7 +2,7 @@
 title:		"escalator"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-18 16:49:56+00:00"
 album:		"experimental"
 filename:		"escalator.md"

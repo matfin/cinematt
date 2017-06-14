@@ -2,7 +2,7 @@
 title:		"wittenberg"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-04-14 16:50:51"
 album:		"experimental"
 filename:		"wittenberg.md"

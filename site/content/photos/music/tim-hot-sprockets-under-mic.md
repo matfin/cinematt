@@ -2,7 +2,7 @@
 title:		"tim-hot-sprockets-under-mic"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-05-01 18:24:58+00:00"
 album:		"music"
 filename:		"tim-hot-sprockets-under-mic.md"

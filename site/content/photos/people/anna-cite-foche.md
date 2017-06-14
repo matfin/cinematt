@@ -1,12 +1,12 @@
 ---
-title:		"anna-cite-foche"
+title:		"Cité Foche"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-21 18:56:23+00:00"
 album:		"people"
 filename:		"anna-cite-foche.md"
-series:		""
+series:		"cite-foche"
 cl_public_id:		"people/anna-cite-foche"
 cl_version:		1497005320
 format:		"tiff"

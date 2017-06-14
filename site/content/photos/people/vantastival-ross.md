@@ -1,12 +1,12 @@
 ---
-title:		"vantastival-ross"
+title:		"Ross"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-04-30 19:50:44+00:00"
 album:		"people"
 filename:		"vantastival-ross.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"people/vantastival-ross"
 cl_version:		1497005607
 format:		"tiff"

@@ -2,7 +2,7 @@
 title:		"orb"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2004-01-29 15:53:40+00:00"
 album:		"experimental"
 filename:		"orb.md"

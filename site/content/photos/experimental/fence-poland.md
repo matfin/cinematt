@@ -2,7 +2,7 @@
 title:		"fence-poland"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-03-09 16:24:51+00:00"
 album:		"experimental"
 filename:		"fence-poland.md"

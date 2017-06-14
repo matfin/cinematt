@@ -2,7 +2,7 @@
 title:		"berlin-expo-messe-nord"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-09 13:01:11+00:00"
 album:		"city"
 filename:		"berlin-expo-messe-nord.md"

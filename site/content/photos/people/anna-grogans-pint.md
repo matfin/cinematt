@@ -1,12 +1,12 @@
 ---
-title:		"anna-grogans-pint"
+title:		"Grogans"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2014-04-07 18:29:47+00:00"
 album:		"people"
 filename:		"anna-grogans-pint.md"
-series:		""
+series:		"ireland-2014"
 cl_public_id:		"people/anna-grogans-pint"
 cl_version:		1497005308
 format:		"tiff"

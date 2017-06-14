@@ -2,7 +2,7 @@
 title:		"stoplerstein"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-02-14 15:08:23+00:00"
 album:		"city"
 filename:		"stoplerstein.md"

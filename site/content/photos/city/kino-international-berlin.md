@@ -2,7 +2,7 @@
 title:		"kino-international-berlin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-29 16:28:05+00:00"
 album:		"city"
 filename:		"kino-international-berlin.md"

@@ -2,7 +2,7 @@
 title:		"gluwein-christmas-market"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2015-12-05 18:08:13+00:00"
 album:		"city"
 filename:		"gluwein-christmas-market.md"

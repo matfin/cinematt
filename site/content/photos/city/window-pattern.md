@@ -2,7 +2,7 @@
 title:		"window-pattern"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-09 12:46:06+00:00"
 album:		"city"
 filename:		"window-pattern.md"

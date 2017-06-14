@@ -2,7 +2,7 @@
 title:		"messe-nord-race-terrace"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-09 13:15:08+00:00"
 album:		"city"
 filename:		"messe-nord-race-terrace.md"

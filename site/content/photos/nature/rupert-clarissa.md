@@ -2,7 +2,7 @@
 title:		"rupert-clarissa"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-04-07 14:05:12+00:00"
 album:		"nature"
 filename:		"rupert-clarissa.md"

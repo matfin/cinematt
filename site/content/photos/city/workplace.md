@@ -2,7 +2,7 @@
 title:		"workplace"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-27 23:30:02+00:00"
 album:		"city"
 filename:		"workplace.md"

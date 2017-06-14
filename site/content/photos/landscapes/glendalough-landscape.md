@@ -2,7 +2,7 @@
 title:		"glendalough-landscape"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-04-08 15:05:46+00:00"
 album:		"landscapes"
 filename:		"glendalough-landscape.md"

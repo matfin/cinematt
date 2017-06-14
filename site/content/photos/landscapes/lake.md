@@ -2,7 +2,7 @@
 title:		"lake"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-04-14 19:48:07"
 album:		"landscapes"
 filename:		"lake.md"

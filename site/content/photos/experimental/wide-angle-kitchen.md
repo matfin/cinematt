@@ -2,7 +2,7 @@
 title:		"wide-angle-kitchen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-17 20:16:15+00:00"
 album:		"experimental"
 filename:		"wide-angle-kitchen.md"

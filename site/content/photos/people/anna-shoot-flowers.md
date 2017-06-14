@@ -1,12 +1,12 @@
 ---
-title:		"anna-shoot-flowers"
+title:		"Flowers Bokeh"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-03-30 15:42:00+00:00"
 album:		"people"
 filename:		"anna-shoot-flowers.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/anna-shoot-flowers"
 cl_version:		1497005343
 format:		"tiff"

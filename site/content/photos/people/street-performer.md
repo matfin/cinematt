@@ -1,12 +1,12 @@
 ---
-title:		"street-performer"
+title:		"Street performer"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-03-20 22:23:11+00:00"
 album:		"people"
 filename:		"street-performer.md"
-series:		""
+series:		"candid"
 cl_public_id:		"people/street-performer"
 cl_version:		1497005562
 format:		"tiff"

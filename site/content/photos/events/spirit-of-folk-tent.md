@@ -2,7 +2,7 @@
 title:		"spirit-of-folk-tent"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-24 21:17:10+00:00"
 album:		"events"
 filename:		"spirit-of-folk-tent.md"

@@ -2,7 +2,7 @@
 title:		"cite-foche-offices"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-21 18:43:21+00:00"
 album:		"abandoned"
 filename:		"cite-foche-offices.md"

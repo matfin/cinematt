@@ -1,12 +1,12 @@
 ---
-title:		"lakeside-konigs-wusterhausen"
+title:		"Pier party"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Brandenburg, Germany"
 date:		"2016-08-27 20:13:48+00:00"
 album:		"people"
 filename:		"lakeside-konigs-wusterhausen.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/lakeside-konigs-wusterhausen"
 cl_version:		1497005463
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"singer"
+title:		"Singer"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2012-05-05 21:36:13+00:00"
 album:		"people"
 filename:		"singer.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/singer"
 cl_version:		1497005551
 format:		"tiff"

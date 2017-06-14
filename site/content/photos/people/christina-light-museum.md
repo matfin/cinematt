@@ -1,12 +1,12 @@
 ---
-title:		"christina-light-museum"
+title:		"Museum of Signs"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 17:00:35+00:00"
 album:		"people"
 filename:		"christina-light-museum.md"
-series:		""
+series:		"signs-museum"
 cl_public_id:		"people/christina-light-museum"
 cl_version:		1497005406
 format:		"tiff"

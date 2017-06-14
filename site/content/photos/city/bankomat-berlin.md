@@ -2,7 +2,7 @@
 title:		"bankomat-berlin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-17 02:54:02+00:00"
 album:		"city"
 filename:		"bankomat-berlin.md"

@@ -2,7 +2,7 @@
 title:		"tree"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-01-26 13:12:45+00:00"
 album:		"experimental"
 filename:		"tree.md"

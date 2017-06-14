@@ -2,7 +2,7 @@
 title:		"anna-pearse-station"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-04-07 19:02:37+00:00"
 album:		"city"
 filename:		"anna-pearse-station.md"

@@ -2,7 +2,7 @@
 title:		"greifswalder-tunnel"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2015-12-09 00:15:08+00:00"
 album:		"city"
 filename:		"greifswalder-tunnel.md"

@@ -2,7 +2,7 @@
 title:		"stadtbad-wedding-blinds"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-05-29 14:38:28+00:00"
 album:		"abandoned"
 filename:		"stadtbad-wedding-blinds.md"

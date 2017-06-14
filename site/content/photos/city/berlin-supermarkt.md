@@ -2,7 +2,7 @@
 title:		"berlin-supermarkt"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-17 02:57:36+00:00"
 album:		"city"
 filename:		"berlin-supermarkt.md"

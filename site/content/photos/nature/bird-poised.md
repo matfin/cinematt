@@ -2,7 +2,7 @@
 title:		"bird-poised"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-24 16:01:53+00:00"
 album:		"nature"
 filename:		"bird-poised.md"

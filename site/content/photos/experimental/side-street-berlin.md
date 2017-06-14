@@ -2,7 +2,7 @@
 title:		"side-street-berlin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-17 02:48:12+00:00"
 album:		"experimental"
 filename:		"side-street-berlin.md"

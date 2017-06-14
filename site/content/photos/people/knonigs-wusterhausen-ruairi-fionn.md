@@ -1,12 +1,12 @@
 ---
-title:		"knonigs-wusterhausen-ruairi-fionn"
+title:		"Ruairí & Fionn"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Brandenburg, Germany"
 date:		"2016-08-27 19:33:21+00:00"
 album:		"people"
 filename:		"knonigs-wusterhausen-ruairi-fionn.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/knonigs-wusterhausen-ruairi-fionn"
 cl_version:		1497005474
 format:		"tiff"

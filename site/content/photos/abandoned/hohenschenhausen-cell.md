@@ -2,7 +2,7 @@
 title:		"hohenschenhausen-cell"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-02-16 16:01:38+00:00"
 album:		"abandoned"
 filename:		"hohenschenhausen-cell.md"

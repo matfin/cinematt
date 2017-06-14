@@ -2,7 +2,7 @@
 title:		"alabama-3-guitarist"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-05-01 23:41:18+00:00"
 album:		"music"
 filename:		"alabama-3-guitarist.md"

@@ -2,7 +2,7 @@
 title:		"frosted-leaves"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-30 15:36:32+00:00"
 album:		"nature"
 filename:		"frosted-leaves.md"

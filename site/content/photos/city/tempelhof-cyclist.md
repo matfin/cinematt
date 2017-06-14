@@ -2,7 +2,7 @@
 title:		"tempelhof-cyclist"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-01-25 16:14:02+00:00"
 album:		"city"
 filename:		"tempelhof-cyclist.md"

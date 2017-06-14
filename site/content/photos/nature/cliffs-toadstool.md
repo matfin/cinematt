@@ -2,7 +2,7 @@
 title:		"cliffs-toadstool"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2003-11-28 17:31:28+00:00"
 album:		"nature"
 filename:		"cliffs-toadstool.md"

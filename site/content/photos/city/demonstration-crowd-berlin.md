@@ -2,7 +2,7 @@
 title:		"demonstration-crowd-berlin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-28 16:02:55+00:00"
 album:		"city"
 filename:		"demonstration-crowd-berlin.md"

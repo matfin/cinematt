@@ -2,7 +2,7 @@
 title:		"klunkerkranich"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-25 19:56:49+00:00"
 album:		"experimental"
 filename:		"klunkerkranich.md"

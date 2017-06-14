@@ -1,12 +1,12 @@
 ---
-title:		"jonathan-mum"
+title:		"Mum & Jonathan"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2016-08-01 18:47:48+00:00"
 album:		"people"
 filename:		"jonathan-mum.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/jonathan-mum"
 cl_version:		1497005451
 format:		"tiff"

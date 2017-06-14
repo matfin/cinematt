@@ -2,7 +2,7 @@
 title:		"mixing-desk"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2012-01-26 18:49:27+00:00"
 album:		"music"
 filename:		"mixing-desk.md"

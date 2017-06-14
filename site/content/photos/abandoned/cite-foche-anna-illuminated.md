@@ -2,7 +2,7 @@
 title:		"cite-foche-anna-illuminated"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-21 19:07:18+00:00"
 album:		"abandoned"
 filename:		"cite-foche-anna-illuminated.md"

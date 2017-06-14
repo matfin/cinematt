@@ -2,7 +2,7 @@
 title:		"charlottenburg-lake-fisheye"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-01-22 16:39:09+00:00"
 album:		"city"
 filename:		"charlottenburg-lake-fisheye.md"

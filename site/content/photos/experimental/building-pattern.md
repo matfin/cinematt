@@ -2,7 +2,7 @@
 title:		"building-pattern"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-09 10:47:01+00:00"
 album:		"experimental"
 filename:		"building-pattern.md"

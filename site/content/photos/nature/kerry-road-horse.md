@@ -2,7 +2,7 @@
 title:		"kerry-road-horse"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-12-10 17:06:47+00:00"
 album:		"nature"
 filename:		"kerry-road-horse.md"

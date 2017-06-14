@@ -1,12 +1,12 @@
 ---
-title:		"anna-portfolio-desk"
+title:		"Portfolio desk shot"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-05-26 18:04:33+00:00"
 album:		"people"
 filename:		"anna-portfolio-desk.md"
-series:		""
+series:		"portfolio"
 cl_public_id:		"people/anna-portfolio-desk"
 cl_version:		1497005354
 format:		"tiff"

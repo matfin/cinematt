@@ -2,7 +2,7 @@
 title:		"plant-labels"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-04-01 15:33:03+00:00"
 album:		"nature"
 filename:		"plant-labels.md"

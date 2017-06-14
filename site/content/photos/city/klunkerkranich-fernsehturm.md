@@ -2,7 +2,7 @@
 title:		"klunkerkranich-fernsehturm"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-25 20:07:36+00:00"
 album:		"city"
 filename:		"klunkerkranich-fernsehturm.md"

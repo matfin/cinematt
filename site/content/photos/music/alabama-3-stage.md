@@ -2,7 +2,7 @@
 title:		"alabama-3-stage"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-05-01 23:40:52+00:00"
 album:		"music"
 filename:		"alabama-3-stage.md"

@@ -1,12 +1,12 @@
 ---
-title:		"model-airplane"
+title:		"Model Airplane"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Phoenix Park, Ireland"
 date:		"2013-01-26 12:33:28+00:00"
 album:		"people"
 filename:		"model-airplane.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"people/model-airplane"
 cl_version:		1497005510
 format:		"tiff"

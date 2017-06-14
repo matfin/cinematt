@@ -2,7 +2,7 @@
 title:		"channel-tunnel"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-06-07 20:06:24+00:00"
 album:		"experimental"
 filename:		"channel-tunnel.md"

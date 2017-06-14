@@ -2,7 +2,7 @@
 title:		"karneval-der-kulturen-people"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-07 19:27:02+00:00"
 album:		"events"
 filename:		"karneval-der-kulturen-people.md"

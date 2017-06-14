@@ -2,7 +2,7 @@
 title:		"phi-phi-monkey"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2006-08-02 23:52:10+00:00"
 album:		"nature"
 filename:		"phi-phi-monkey.md"

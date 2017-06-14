@@ -2,7 +2,7 @@
 title:		"kerry-sheep"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-03-28 15:34:54+00:00"
 album:		"landscapes"
 filename:		"kerry-sheep.md"

@@ -1,12 +1,12 @@
 ---
-title:		"anna-shoot-facing-camera"
+title:		"Spring shoot"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-03-30 19:03:08+00:00"
 album:		"people"
 filename:		"anna-shoot-facing-camera.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/anna-shoot-facing-camera"
 cl_version:		1497005353
 format:		"tiff"

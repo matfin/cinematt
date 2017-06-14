@@ -2,7 +2,7 @@
 title:		"polizei"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-28 21:55:54+00:00"
 album:		"city"
 filename:		"polizei.md"

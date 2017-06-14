@@ -2,7 +2,7 @@
 title:		"the-young-folk-lead"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-04-30 19:33:35+00:00"
 album:		"music"
 filename:		"the-young-folk-lead.md"

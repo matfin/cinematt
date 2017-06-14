@@ -2,7 +2,7 @@
 title:		"skelligs-kerry"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-12-11 16:05:55+00:00"
 album:		"landscapes"
 filename:		"skelligs-kerry.md"

@@ -2,7 +2,7 @@
 title:		"spirit-of-folk-shield"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-24 16:42:14+00:00"
 album:		"events"
 filename:		"spirit-of-folk-shield.md"

@@ -2,7 +2,7 @@
 title:		"marienfeld-church"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-03-27 13:42:25+00:00"
 album:		"city"
 filename:		"marienfeld-church.md"

@@ -2,7 +2,7 @@
 title:		"cite-foche-exterior"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-21 18:13:05+00:00"
 album:		"abandoned"
 filename:		"cite-foche-exterior.md"

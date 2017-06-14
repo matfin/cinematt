@@ -2,7 +2,7 @@
 title:		"kunst-museum"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2013-02-17 16:36:32+00:00"
 album:		"experimental"
 filename:		"kunst-museum.md"

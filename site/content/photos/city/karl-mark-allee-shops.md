@@ -2,7 +2,7 @@
 title:		"karl-mark-allee-shops"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-29 16:18:06+00:00"
 album:		"city"
 filename:		"karl-mark-allee-shops.md"

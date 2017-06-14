@@ -2,7 +2,7 @@
 title:		"ice-lake-charlottenburg"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2017-01-22 16:37:11+00:00"
 album:		"city"
 filename:		"ice-lake-charlottenburg.md"

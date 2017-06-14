@@ -2,7 +2,7 @@
 title:		"spreepark-ferris-wheel"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-01-18 17:33:47+00:00"
 album:		"experimental"
 filename:		"spreepark-ferris-wheel.md"

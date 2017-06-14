@@ -2,7 +2,7 @@
 title:		"redline-film-take-dublin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2012-01-13 15:26:38+00:00"
 album:		"city"
 filename:		"redline-film-take-dublin.md"

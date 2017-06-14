@@ -2,7 +2,7 @@
 title:		"barcelona-ship"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-06-09 18:20:44+00:00"
 album:		"city"
 filename:		"barcelona-ship.md"

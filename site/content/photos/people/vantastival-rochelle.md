@@ -1,12 +1,12 @@
 ---
-title:		"vantastival-rochelle"
+title:		"Rochelle"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-04-30 19:51:04+00:00"
 album:		"people"
 filename:		"vantastival-rochelle.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"people/vantastival-rochelle"
 cl_version:		1497005586
 format:		"tiff"

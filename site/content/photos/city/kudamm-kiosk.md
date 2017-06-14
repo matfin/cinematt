@@ -2,7 +2,7 @@
 title:		"kudamm-kiosk"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-18 18:31:44+00:00"
 album:		"city"
 filename:		"kudamm-kiosk.md"

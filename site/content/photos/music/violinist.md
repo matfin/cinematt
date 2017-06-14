@@ -2,7 +2,7 @@
 title:		"violinist"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-01-10 21:33:35+00:00"
 album:		"music"
 filename:		"violinist.md"

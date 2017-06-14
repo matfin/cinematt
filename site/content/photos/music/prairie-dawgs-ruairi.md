@@ -2,7 +2,7 @@
 title:		"prairie-dawgs-ruairi"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-04-05 23:01:14+00:00"
 album:		"music"
 filename:		"prairie-dawgs-ruairi.md"

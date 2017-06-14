@@ -2,7 +2,7 @@
 title:		"treehouse-klunkerkranich"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-25 19:57:10+00:00"
 album:		"city"
 filename:		"treehouse-klunkerkranich.md"

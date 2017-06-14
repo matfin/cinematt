@@ -2,7 +2,7 @@
 title:		"kaisers"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-07-19 22:17:57+00:00"
 album:		"experimental"
 filename:		"kaisers.md"

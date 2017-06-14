@@ -2,7 +2,7 @@
 title:		"spirit-of-folk-people"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-25 00:36:51+00:00"
 album:		"events"
 filename:		"spirit-of-folk-people.md"

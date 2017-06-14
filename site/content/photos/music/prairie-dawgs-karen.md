@@ -2,7 +2,7 @@
 title:		"prairie-dawgs-karen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-04-05 23:41:22+00:00"
 album:		"music"
 filename:		"prairie-dawgs-karen.md"

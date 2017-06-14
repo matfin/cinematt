@@ -2,7 +2,7 @@
 title:		"haus-der-statistiche-2"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-02-09 15:38:19+00:00"
 album:		"abandoned"
 filename:		"haus-der-statistiche-2.md"

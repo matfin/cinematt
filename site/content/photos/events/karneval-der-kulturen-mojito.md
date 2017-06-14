@@ -2,7 +2,7 @@
 title:		"karneval-der-kulturen-mojito"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-07 16:56:16+00:00"
 album:		"events"
 filename:		"karneval-der-kulturen-mojito.md"

@@ -2,7 +2,7 @@
 title:		"fontane_trevi"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-01-08 16:34:29+00:00"
 album:		"city"
 filename:		"fontane-trevi.md"

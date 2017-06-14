@@ -2,7 +2,7 @@
 title:		"ballinskelligs-cottage"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2012-04-01 16:51:48+00:00"
 album:		"abandoned"
 filename:		"ballinskelligs-cottage.md"

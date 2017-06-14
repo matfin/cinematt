@@ -2,7 +2,7 @@
 title:		"klunkerkranich-chairs"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-08-25 20:03:18+00:00"
 album:		"city"
 filename:		"klunkerkranich-chairs.md"

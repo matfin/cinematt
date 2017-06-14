@@ -1,12 +1,12 @@
 ---
-title:		"phoenix-park-training"
+title:		"Phoenix Park"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Phoenix Park, Ireland"
 date:		"2013-01-26 11:34:55+00:00"
 album:		"people"
 filename:		"phoenix-park-training.md"
-series:		""
+series:		"candid"
 cl_public_id:		"people/phoenix-park-training"
 cl_version:		1497005559
 format:		"tiff"

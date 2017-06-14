@@ -2,7 +2,7 @@
 title:		"kerry-cottage-long-exposure"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-12-10 00:53:56+00:00"
 album:		"landscapes"
 filename:		"kerry-cottage-long-exposure.md"

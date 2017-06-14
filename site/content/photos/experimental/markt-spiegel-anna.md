@@ -2,7 +2,7 @@
 title:		"markt-spiegel-anna"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-04-20 15:54:33+00:00"
 album:		"experimental"
 filename:		"markt-spiegel-anna.md"

@@ -2,7 +2,7 @@
 title:		"kudamm-christmas"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2016-12-18 18:23:54+00:00"
 album:		"city"
 filename:		"kudamm-christmas.md"

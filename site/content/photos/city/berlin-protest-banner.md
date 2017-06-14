@@ -2,7 +2,7 @@
 title:		"berlin-protest-banner"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2014-06-28 16:06:45+00:00"
 album:		"city"
 filename:		"berlin-protest-banner.md"

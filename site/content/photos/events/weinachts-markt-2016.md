@@ -2,7 +2,7 @@
 title:		"weinachts-markt-2016"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2015-12-05 17:45:26+00:00"
 album:		"events"
 filename:		"weinachts-markt-2016.md"

@@ -2,7 +2,7 @@
 title:		"dublin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-04-16 20:10:51+00:00"
 album:		"experimental"
 filename:		"dublin.md"

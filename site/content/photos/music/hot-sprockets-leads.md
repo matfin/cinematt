@@ -2,7 +2,7 @@
 title:		"hot-sprockets-leads"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"TBC"
 date:		"2011-09-25 00:30:56+00:00"
 album:		"music"
 filename:		"hot-sprockets-leads.md"

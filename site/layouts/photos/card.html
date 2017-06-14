@@ -4,7 +4,6 @@
 {{ $height 		:= .Params.height }}
 {{ $portrait 	:= ( lt $width $height) }}
 <figure class="photo-card orientation-{{ if $portrait }}portrait{{ else }}landscape{{end}}" data-colours="{{ delimit $colours "," }}">
-
 	{{ if $portrait }}
 		<img 
 			data-src="{{ $base }}/image/upload/w_480/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg"
