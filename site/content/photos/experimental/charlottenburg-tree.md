@@ -1,12 +1,12 @@
 ---
-title:		"charlottenburg-tree"
+title:		"Tree in Charlottenburg"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-01-22 16:41:19+00:00"
 album:		"experimental"
 filename:		"charlottenburg-tree.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"experimental/charlottenburg-tree"
 cl_version:		1497004489
 format:		"tiff"

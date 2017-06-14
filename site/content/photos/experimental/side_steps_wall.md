@@ -1,12 +1,12 @@
 ---
-title:		"side_steps_wall"
+title:		"Sidestep"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Rome, Italy"
 date:		"2016-01-08 15:19:51+00:00"
 album:		"experimental"
 filename:		"side-steps-wall.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/side_steps_wall"
 cl_version:		1497004440
 format:		"tiff"

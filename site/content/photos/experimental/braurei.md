@@ -1,12 +1,12 @@
 ---
-title:		"braurei"
+title:		"Old brewery"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-03-11 18:33:15+00:00"
 album:		"experimental"
 filename:		"braurei.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/braurei"
 cl_version:		1497004468
 format:		"tiff"

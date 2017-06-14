@@ -1,12 +1,12 @@
 ---
-title:		"kunst-museum"
+title:		"Kunstmuseum"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-02-17 16:36:32+00:00"
 album:		"experimental"
 filename:		"kunst-museum.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/kunst-museum"
 cl_version:		1497004571
 format:		"tiff"

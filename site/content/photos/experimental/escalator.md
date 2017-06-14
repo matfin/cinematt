@@ -1,12 +1,12 @@
 ---
-title:		"escalator"
+title:		"Escalator"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-18 16:49:56+00:00"
 album:		"experimental"
 filename:		"escalator.md"
-series:		""
+series:		"friends"
 cl_public_id:		"experimental/escalator"
 cl_version:		1497004520
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"cliffs-2005"
+title:		"Howth Cliffs"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Howth, Ireland"
 date:		"2005-02-01 18:08:42+00:00"
 album:		"experimental"
 filename:		"cliffs-2005.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/cliffs-2005"
 cl_version:		1497004501
 format:		"tiff"

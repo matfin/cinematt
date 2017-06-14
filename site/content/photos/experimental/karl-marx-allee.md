@@ -1,12 +1,12 @@
 ---
-title:		"karl-marx-allee"
+title:		"Moskau"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-29 16:29:53"
 album:		"experimental"
 filename:		"karl-marx-allee.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/karl-marx-allee"
 cl_version:		1497004567
 format:		"tiff"

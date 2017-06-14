@@ -1,12 +1,12 @@
 ---
-title:		"schnitzel_konig"
+title:		"Schnitzel König"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2015-12-08 23:40:29+00:00"
 album:		"experimental"
 filename:		"schnitzel-konig.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/schnitzel_konig"
 cl_version:		1497004420
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"spreepark-ferris-wheel"
+title:		"Spreepark"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-01-18 17:33:47+00:00"
 album:		"experimental"
 filename:		"spreepark-ferris-wheel.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/spreepark-ferris-wheel"
 cl_version:		1497004477
 format:		"tiff"

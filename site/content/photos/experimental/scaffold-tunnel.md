@@ -1,12 +1,12 @@
 ---
-title:		"scaffold-tunnel"
+title:		"Scaffolding"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-09 23:41:37+00:00"
 album:		"experimental"
 filename:		"scaffold-tunnel.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/scaffold-tunnel"
 cl_version:		1497004396
 format:		"tiff"

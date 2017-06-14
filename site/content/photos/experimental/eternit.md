@@ -1,12 +1,12 @@
 ---
-title:		"eternit"
+title:		"Eternit"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 16:04:51+00:00"
 album:		"experimental"
 filename:		"eternit.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/eternit"
 cl_version:		1497004518
 format:		"tiff"

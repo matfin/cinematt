@@ -1,12 +1,12 @@
 ---
-title:		"adac-building"
+title:		"ADAC building"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 10:49:50+00:00"
 album:		"experimental"
 filename:		"adac-building.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/adac-building"
 cl_version:		1497004405
 format:		"tiff"

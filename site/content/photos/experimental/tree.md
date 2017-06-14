@@ -1,12 +1,12 @@
 ---
-title:		"tree"
+title:		"Tree"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-01-26 13:12:45+00:00"
 album:		"experimental"
 filename:		"tree.md"
-series:		""
+series:		"plants"
 cl_public_id:		"experimental/tree"
 cl_version:		1497004528
 format:		"tiff"

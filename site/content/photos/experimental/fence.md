@@ -1,12 +1,12 @@
 ---
-title:		"fence"
+title:		"Kerry fence"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2016-07-31 13:41:36+00:00"
 album:		"experimental"
 filename:		"fence.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"experimental/fence"
 cl_version:		1497004539
 format:		"tiff"

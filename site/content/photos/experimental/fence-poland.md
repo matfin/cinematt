@@ -1,12 +1,12 @@
 ---
-title:		"fence-poland"
+title:		"Fence in Poland"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Swinoujscie, Poland"
 date:		"2014-03-09 16:24:51+00:00"
 album:		"experimental"
 filename:		"fence-poland.md"
-series:		""
+series:		"poland"
 cl_public_id:		"experimental/fence-poland"
 cl_version:		1497004536
 format:		"tiff"

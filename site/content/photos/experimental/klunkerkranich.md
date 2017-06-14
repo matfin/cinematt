@@ -1,12 +1,12 @@
 ---
-title:		"klunkerkranich"
+title:		"Klunkerkranich cat"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-25 19:56:49+00:00"
 album:		"experimental"
 filename:		"klunkerkranich.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/klunkerkranich"
 cl_version:		1497004562
 format:		"tiff"

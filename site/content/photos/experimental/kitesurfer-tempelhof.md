@@ -1,12 +1,12 @@
 ---
-title:		"kitesurfer-tempelhof"
+title:		"Tempelhof kitesurfer"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-01-25 16:29:28+00:00"
 album:		"experimental"
 filename:		"kitesurfer-tempelhof.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/kitesurfer-tempelhof"
 cl_version:		1497004563
 format:		"tiff"

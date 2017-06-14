@@ -1,12 +1,12 @@
 ---
-title:		"kaisers"
+title:		"Kaisers"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-19 22:17:57+00:00"
 album:		"experimental"
 filename:		"kaisers.md"
-series:		""
+series:		"candid"
 cl_public_id:		"experimental/kaisers"
 cl_version:		1497004538
 format:		"tiff"

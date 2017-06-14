@@ -1,12 +1,12 @@
 ---
-title:		"easter-prost"
+title:		"Easter beers"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Marienfeld, Germany"
 date:		"2016-03-27 21:06:23+00:00"
 album:		"experimental"
 filename:		"easter-prost.md"
-series:		""
+series:		"friends"
 cl_public_id:		"experimental/easter-prost"
 cl_version:		1497004522
 format:		"tiff"
