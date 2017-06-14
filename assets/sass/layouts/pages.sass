@@ -22,8 +22,8 @@ main.albums
 		grid-row: 1
 		grid-column: 1
 		display: grid
-		grid-template-columns: ($units * 4) auto ($units * 4)
-		grid-template-rows: repeat(2, auto) $units * 4
+		grid-template-columns: 1fr
+		grid-template-rows: auto auto
 
 		figure
 			grid-row: 1 / 4
@@ -58,33 +58,18 @@ main.albums
 						opacity: 1
 
 		figcaption
-			grid-row: 2 / 3
-			grid-column: 2 / 3
+			z-index: 1
+			grid-row: 3 / 4
+			grid-column: 1 / 4
+			background-color: rgba($black, 0.75)
+			color: $white
 
-
-
-	// section.teaser
-	// 	grid-row: 1
-	// 	display: grid
-	// 	grid-template-rows: auto ($units * 4) ($units * 4)
-	// 	grid-template-columns: ($units * 4) auto ($units * 4)
-
-	// 	h1,
-	// 	p	
-	// 		grid-column: 2 / 3
-		
-	// 	h1
-	// 		grid-row: 2 / 3
-
-	// 	p
-	// 		grid-row: 3 / 4
-
-
-	// 	picture.photo
-	// 		grid-row: 1 / 4
-	// 		grid-column: 1 / 4
-
-	
+			+break(min-max, 0, $break-1)
+				padding: $units / 2
+			+break(min-max, $break-1, $break-2)
+				padding: $units
+			+break(min, $break-2)
+				padding: $units * 1.5
 
 	section.photos
 		grid-row: 3
