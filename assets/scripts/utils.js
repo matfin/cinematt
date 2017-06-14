@@ -55,8 +55,8 @@ window.cinematt.utils = {
 		photo_card.style.backgroundImage = `linear-gradient(to right, ${gradient})`;
 	},
 
-	makeBars: () => {
-		let cards = [...document.querySelectorAll('figure.photo-card')];
+	makeBars: (selector) => {
+		let cards = [...document.querySelectorAll(selector)];
 		cards.forEach(window.cinematt.utils.addGradients);
 	},
 
@@ -66,16 +66,15 @@ window.cinematt.utils = {
 
 		img.removeAttribute('data-src');
 		img.removeAttribute('data-srcset');
-		img.setAttribute('src', src);
-		img.setAttribute('srcset', srcset);
-		img.addEventListener('load', cinematt.utils.imageLoaded);
-	},
 
-	loadThumbnails: () => {
-		let images = [...document.querySelectorAll('figure.photo-card img')];
-		images.filter(image => {
-			return cinematt.utils.inView(image) && !cinematt.utils.hasLoaded(image);
-		}).forEach(cinematt.utils.primeImage);
+		if(img.tagName === 'SOURCE') {
+			img.setAttribute('srcset', srcset);
+		}
+		else {
+			img.setAttribute('src', src);
+		}
+
+		img.addEventListener('load', cinematt.utils.imageLoaded);
 	},
 
 	inView: (node) => {
@@ -89,12 +88,18 @@ window.cinematt.utils = {
 		return node.getAttribute('src') != null;
 	},
 
+	lazyLoadImages: (selector) => {
+		let images = [...document.querySelectorAll(selector)];
+		images.filter(image => {
+			return cinematt.utils.inView(image) && !cinematt.utils.hasLoaded(image);
+		}).forEach(cinematt.utils.primeImage);
+	},
+
 	imageLoaded: (evt) => {
 		let image 	= evt.target, 
-			figure 	= image.parentNode;
-		figure.removeAttribute('data-colours');
-		// figure.style.backgroundImage = 'none';
-		figure.classList.add('loaded');
+			parent 	= image.parentNode;
+		parent.removeAttribute('data-colours');
+		parent.classList.add('loaded');
 	}
 
 };

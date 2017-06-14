@@ -6,8 +6,8 @@ if(window.cinematt == null) {
 
 onload = () => {
 	const utils = window.cinematt.utils;
-	utils.makeBars();
-	utils.loadThumbnails();
+	utils.makeBars('figure.photo-card, picture.photo');
+	utils.lazyLoadImages('figure.photo-card img, picture.photo source');
 	utils.primeTapEvent('button', utils.toggleMenuReveal);
-	document.addEventListener('scroll', utils.throttle(utils.loadThumbnails));
+	document.addEventListener('scroll', utils.throttle(utils.lazyLoadImages.bind(null, 'figure.photo-card img, picture.photo source')));
 };

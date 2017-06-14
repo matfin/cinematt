@@ -1,5 +1,5 @@
 {{ $photo			:= . }}
-{{ $colours 		:= first 1 $photo.Params.colours }}
+{{ $colours 		:= first 5 $photo.Params.colours }}
 {{ $base 			:= .Site.Params.cl_media_base }}
 {{ $cl_public_id 	:= string $photo.Params.cl_public_id }}
 {{ $cl_version		:= string $photo.Params.cl_version }}
@@ -7,28 +7,28 @@
 <picture class="photo" data-colours="{{ delimit $colours "," }}">
 	<source
 		media="(min-width: 1280px)"
-		srcset="{{ $base }}image/upload/w_1440/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
+		data-srcset="{{ $base }}image/upload/w_1440/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
 				{{ $base }}image/upload/w_2560/v{{ $cl_version }}/{{ $cl_public_id }}.jpg 2x">
 
 	<source 
 		media="(min-width: 1024px) and (max-width: 1280px)"
-		srcset="{{ $base }}image/upload/w_1280/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
+		data-srcset="{{ $base }}image/upload/w_1280/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
 				{{ $base }}image/upload/w_2560/v{{ $cl_version }}/{{ $cl_public_id }}.jpg 2x">
 
 	<source 
 		media="(min-width: 768px) and (max-width: 1024px)"
-		srcset="{{ $base }}image/upload/w_1024/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
+		data-srcset="{{ $base }}image/upload/w_1024/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
 				{{ $base }}image/upload/w_2048/v{{ $cl_version }}/{{ $cl_public_id }}.jpg 2x">
 
 	<source 
 		media="(min-width: 640px) and (max-width: 768px)"
-		srcset="{{ $base }}image/upload/w_768/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
+		data-srcset="{{ $base }}image/upload/w_768/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
 				{{ $base }}image/upload/w_1536/v{{ $cl_version }}/{{ $cl_public_id }}.jpg 2x">
 
 	<source 
-		media="(min-width: 320px) and (max-width: 640px)"
-		srcset="{{ $base }}image/upload/w_480/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
+		media="(min-width: 0px) and (max-width: 640px)"
+		data-srcset="{{ $base }}image/upload/w_480/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,
 				{{ $base }}image/upload/w_960/v{{ $cl_version }}/{{ $cl_public_id }}.jpg 2x">
 
-	<img src="{{ $base }}image/upload/w_1280/v{{ $cl_version }}/{{ $cl_public_id }}.jpg">
+	<img data-src="{{ $base }}image/upload/w_1280/v{{ $cl_version }}/{{ $cl_public_id }}.jpg">
 </picture>

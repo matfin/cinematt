@@ -21,20 +21,21 @@ main.landing
  *	Albums page
  */
 main.albums
-	display: grid
 	grid-column: 2 / 3
 	grid-row: 2 / 3
+	display: grid
 	grid-template-columns: 1fr
-	grid-template-rows: minmax(40vh, auto) 64px auto
+	grid-template-rows: auto $units * 4 auto
+	align-content: start
 
 	section.teaser
 		grid-row: 1
-		grid-column: 1
-		display: grid
-
-	picture.photo
-		img
-			display: block
 
 	section.content
 		grid-row: 3
+
+	picture.photo
+		display: block
+		img
+			width: 100%
+			height: auto
