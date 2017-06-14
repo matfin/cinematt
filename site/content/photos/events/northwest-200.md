@@ -1,12 +1,12 @@
 ---
-title:		"northwest-200"
+title:		"Northwest 200"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Portrush, Northern Ireland"
 date:		"2012-05-19 16:50:39+00:00"
 album:		"events"
 filename:		"northwest-200.md"
-series:		""
+series:		"sport"
 cl_public_id:		"events/northwest-200"
 cl_version:		1497002610
 format:		"tiff"

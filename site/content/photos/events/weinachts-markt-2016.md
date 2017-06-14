@@ -1,12 +1,12 @@
 ---
-title:		"weinachts-markt-2016"
+title:		"Weinachtsmarkt"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2015-12-05 17:45:26+00:00"
 album:		"events"
 filename:		"weinachts-markt-2016.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"events/weinachts-markt-2016"
 cl_version:		1497002573
 format:		"tiff"

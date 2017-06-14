@@ -1,12 +1,12 @@
 ---
-title:		"refeshments"
+title:		"Refeshments"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-11-27 21:25:45+00:00"
 album:		"events"
 filename:		"refeshments.md"
-series:		""
+series:		"meetups"
 cl_public_id:		"events/refeshments"
 cl_version:		1497002647
 format:		"tiff"

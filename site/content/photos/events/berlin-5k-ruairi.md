@@ -1,12 +1,12 @@
 ---
-title:		"berlin-5k-ruairi"
+title:		"Ruairi"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-07-26 20:16:40+00:00"
 album:		"events"
 filename:		"berlin-5k-ruairi.md"
-series:		""
+series:		"berlin-run"
 cl_public_id:		"events/berlin-5k-ruairi"
 cl_version:		1497002563
 format:		"tiff"

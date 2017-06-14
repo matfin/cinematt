@@ -1,12 +1,12 @@
 ---
-title:		"spirit-of-folk-tent"
+title:		"Audience"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-24 21:17:10+00:00"
 album:		"events"
 filename:		"spirit-of-folk-tent.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"events/spirit-of-folk-tent"
 cl_version:		1497002642
 format:		"tiff"

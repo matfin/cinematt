@@ -1,12 +1,12 @@
 ---
-title:		"spirit-of-folk-musician"
+title:		"Spirit of Folk"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-24 17:29:26+00:00"
 album:		"events"
 filename:		"spirit-of-folk-musician.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"events/spirit-of-folk-musician"
 cl_version:		1497002642
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"vantastival-2011-group"
+title:		"Gig"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 15:14:17+00:00"
 album:		"events"
 filename:		"vantastival-2011-group.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"events/vantastival-2011-group"
 cl_version:		1497002567
 format:		"tiff"
