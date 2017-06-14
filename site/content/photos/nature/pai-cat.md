@@ -1,12 +1,12 @@
 ---
-title:		"pai-cat"
+title:		"Kitten"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Pai, Thailand"
 date:		"2006-08-09 01:30:52+00:00"
 album:		"nature"
 filename:		"pai-cat.md"
-series:		""
+series:		"Animals"
 cl_public_id:		"nature/pai-cat"
 cl_version:		1497005056
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"cliffs-toadstool"
+title:		"Toadstool"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Howth, Ireland"
 date:		"2003-11-28 17:31:28+00:00"
 album:		"nature"
 filename:		"cliffs-toadstool.md"
-series:		""
+series:		"plants"
 cl_public_id:		"nature/cliffs-toadstool"
 cl_version:		1497005029
 format:		"jpg"

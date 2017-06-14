@@ -1,12 +1,12 @@
 ---
-title:		"bird-closeup"
+title:		"Bird of prey"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-24 16:07:03+00:00"
 album:		"nature"
 filename:		"bird-closeup.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"nature/bird-closeup"
 cl_version:		1497005059
 format:		"tiff"

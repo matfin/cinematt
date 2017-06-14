@@ -1,12 +1,12 @@
 ---
-title:		"dark-grass"
+title:		"Evening grass"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Howth, Dublin"
 date:		"2003-11-28 17:35:53+00:00"
 album:		"nature"
 filename:		"dark-grass.md"
-series:		""
+series:		"plants"
 cl_public_id:		"nature/dark-grass"
 cl_version:		1497005032
 format:		"jpg"

@@ -1,12 +1,12 @@
 ---
-title:		"kerry-road-horse"
+title:		"Road horse"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2011-12-10 17:06:47+00:00"
 album:		"nature"
 filename:		"kerry-road-horse.md"
-series:		""
+series:		"animals"
 cl_public_id:		"nature/kerry-road-horse"
 cl_version:		1497005046
 format:		"tiff"

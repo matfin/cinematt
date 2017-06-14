@@ -1,12 +1,12 @@
 ---
-title:		"howth-horse"
+title:		"Horse"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Howth, Ireland"
 date:		"2004-01-28 14:31:38+00:00"
 album:		"nature"
 filename:		"howth-horse.md"
-series:		""
+series:		"animals"
 cl_public_id:		"nature/howth-horse"
 cl_version:		1497005067
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"plant-labels"
+title:		"Labelled plants"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-04-01 15:33:03+00:00"
 album:		"nature"
 filename:		"plant-labels.md"
-series:		""
+series:		"plants"
 cl_public_id:		"nature/plant-labels"
 cl_version:		1497005105
 format:		"tiff"
