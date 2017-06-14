@@ -4,6 +4,7 @@ description: "Nature"
 identifier: "nature"
 title: "Nature"
 weight: "6"
+teaser_image: "bird-poised.md"
 ---
 
 # Nature

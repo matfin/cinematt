@@ -8,8 +8,9 @@
 		{{ partial "nav" . }}
 		<main class="page albums" role="main">
 			{{ if .Params.teaser_image}}
-				{{ $teaser 	:= string .Params.teaser_image }}
-				{{ $photo 	:= .Site.GetPage "page" "photos/abandoned" $teaser }}
+				{{ $teaser 		:= string .Params.teaser_image }}
+				{{ $category 	:= printf "%s/%s" "photos" .Params.identifier }}
+				{{ $photo 		:= .Site.GetPage "page" $category $teaser }}
 				{{ partial "photo_teaser" $photo }}
 			{{ end }}
 			<section class="content">

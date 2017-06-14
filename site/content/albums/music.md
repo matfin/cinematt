@@ -4,6 +4,7 @@ description: "Music"
 identifier: "music"
 title: "Music"
 weight: "8"
+teaser_image: "hot-sprockets-stage-vantastival.md"
 ---
 
 # Music
