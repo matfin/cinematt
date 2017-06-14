@@ -3,11 +3,30 @@
  */
 figure.photo-card
 	position: relative
-	min-height: $units * 30
 	+transitionWithProperties((transform, background-position), 250ms)
 	transform: translate3d(0, 30%, 0)
 	background-position: 0px 0px
 	background-repeat: no-repeat
+
+	+break(max, $break-1)
+		min-height: $units * 12
+		&.orientation-portrait
+			min-height: $units * 30
+
+	+break(min-max, $break-1, $break-2)
+		min-height: $units * 15
+		&.orientation-portrait
+			min-height: $units * 36
+
+	+break(min-max, $break-2, $break-3)
+		min-height: $units * 12
+		&.orientation-portrait
+			min-height: $units * 30
+
+	+break(min, $break-3)
+		min-height: $units * 18
+		&.orientation-portrait
+			min-height: $units * 42
 
 	img
 		+transitionWithProperties(opacity, 250ms)
