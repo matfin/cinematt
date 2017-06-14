@@ -1,5 +1,5 @@
 ---
-title:		"Polen - Nimecy"
+title:		"Frontier"
 type:		"photos"
 mediatype:		"upload"
 location:		"Ahlbeck, German - Polish border"
