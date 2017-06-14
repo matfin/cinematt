@@ -62,19 +62,20 @@ window.cinematt.utils = {
 
 	primeImage: (img) => {
 		let src 	= img.getAttribute('data-src'),
-			srcset	= img.getAttribute('data-srcset');
+			srcset	= img.getAttribute('data-srcset'),
+			parent  = img.parentNode;
 
 		img.removeAttribute('data-src');
 		img.removeAttribute('data-srcset');
 
 		if(img.tagName === 'SOURCE') {
 			img.setAttribute('srcset', srcset);
+			parent.querySelector('img').addEventListener('load', cinematt.utils.imageLoaded);
 		}
 		else {
 			img.setAttribute('src', src);
+			img.addEventListener('load', cinematt.utils.imageLoaded);
 		}
-
-		img.addEventListener('load', cinematt.utils.imageLoaded);
 	},
 
 	inView: (node) => {
@@ -85,7 +86,7 @@ window.cinematt.utils = {
 	},
 
 	hasLoaded: (node) => {
-		return node.getAttribute('src') != null;
+		return node.getAttribute('src') != null || node.getAttribute('srcset') != null;
 	},
 
 	lazyLoadImages: (selector) => {
