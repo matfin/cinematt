@@ -1,12 +1,12 @@
 ---
-title:		"poland-house"
+title:		"Poland"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Swinoujscie, Poland"
 date:		"2014-03-09 16:30:31+00:00"
 album:		"city"
 filename:		"poland-house.md"
-series:		""
+series:		"poland"
 cl_public_id:		"city/poland-house"
 cl_version:		1497000370
 format:		"tiff"

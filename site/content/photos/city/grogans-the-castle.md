@@ -1,12 +1,12 @@
 ---
-title:		"grogans-the-castle"
+title:		"Grogans"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-16 18:50:29+00:00"
 album:		"city"
 filename:		"grogans-the-castle.md"
-series:		""
+series:		"dublin"
 cl_public_id:		"city/grogans-the-castle"
 cl_version:		1497000323
 format:		"tiff"

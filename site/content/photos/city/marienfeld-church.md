@@ -1,12 +1,12 @@
 ---
-title:		"marienfeld-church"
+title:		"Pews"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Marienfeld, Germany"
 date:		"2016-03-27 13:42:25+00:00"
 album:		"city"
 filename:		"marienfeld-church.md"
-series:		""
+series:		"marienfeld"
 cl_public_id:		"city/marienfeld-church"
 cl_version:		1497000338
 format:		"tiff"

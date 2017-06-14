@@ -1,12 +1,12 @@
 ---
-title:		"tempelhof-cyclist"
+title:		"Cyclist"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-01-25 16:14:02+00:00"
 album:		"city"
 filename:		"tempelhof-cyclist.md"
-series:		""
+series:		"tempelhof"
 cl_public_id:		"city/tempelhof-cyclist"
 cl_version:		1497000441
 format:		"tiff"

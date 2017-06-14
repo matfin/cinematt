@@ -1,12 +1,12 @@
 ---
-title:		"fernsehturm"
+title:		"Fernsehturm"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 17:33:12+00:00"
 album:		"city"
 filename:		"fernsehturm.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/fernsehturm"
 cl_version:		1497000251
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"brandenburger-tor"
+title:		"Brandenburger Tor"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 11:30:25+00:00"
 album:		"city"
 filename:		"brandenburger-tor.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/brandenburger-tor"
 cl_version:		1497000221
 format:		"tiff"

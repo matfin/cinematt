@@ -1,12 +1,12 @@
 ---
-title:		"klunkerkranich-chairs"
+title:		"Chairs"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-25 20:03:18+00:00"
 album:		"city"
 filename:		"klunkerkranich-chairs.md"
-series:		""
+series:		"klunkerkranich"
 cl_public_id:		"city/klunkerkranich-chairs"
 cl_version:		1497000323
 format:		"tiff"

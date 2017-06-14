@@ -1,12 +1,12 @@
 ---
-title:		"demonstration-crowd-berlin"
+title:		"Demonstrators"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-28 16:02:55+00:00"
 album:		"city"
 filename:		"demonstration-crowd-berlin.md"
-series:		""
+series:		"demonstrations"
 cl_public_id:		"city/demonstration-crowd-berlin"
 cl_version:		1497000243
 format:		"tiff"

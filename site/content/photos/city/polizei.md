@@ -1,12 +1,12 @@
 ---
-title:		"polizei"
+title:		"Polizei"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-28 21:55:54+00:00"
 album:		"city"
 filename:		"polizei.md"
-series:		""
+series:		"demonstrations"
 cl_public_id:		"city/polizei"
 cl_version:		1497000357
 format:		"tiff"

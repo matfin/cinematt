@@ -1,12 +1,12 @@
 ---
-title:		"berlin-christmas-market"
+title:		"Christmas market"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2015-12-05 17:59:44+00:00"
 album:		"city"
 filename:		"berlin-christmas-market.md"
-series:		""
+series:		"christmas-market"
 cl_public_id:		"city/berlin-christmas-market"
 cl_version:		1497000187
 format:		"tiff"

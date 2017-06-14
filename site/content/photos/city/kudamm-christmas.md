@@ -1,12 +1,12 @@
 ---
-title:		"kudamm-christmas"
+title:		"Kufurstendamm"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-18 18:23:54+00:00"
 album:		"city"
 filename:		"kudamm-christmas.md"
-series:		""
+series:		"kudamm"
 cl_public_id:		"city/kudamm-christmas"
 cl_version:		1497000346
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"west-berlin-apartment-door"
+title:		"Apartment"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 12:45:38+00:00"
 album:		"city"
 filename:		"west-berlin-apartment-door.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/west-berlin-apartment-door"
 cl_version:		1497000470
 format:		"tiff"

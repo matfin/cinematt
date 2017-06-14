@@ -1,12 +1,12 @@
 ---
-title:		"marienfield-church-ceiling"
+title:		"Church ceiling"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Marienfeld, Germany"
 date:		"2016-03-27 13:43:10+00:00"
 album:		"city"
 filename:		"marienfield-church-ceiling.md"
-series:		""
+series:		"marienfeld"
 cl_public_id:		"city/marienfield-church-ceiling"
 cl_version:		1497000360
 format:		"tiff"

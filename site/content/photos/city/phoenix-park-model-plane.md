@@ -1,12 +1,12 @@
 ---
-title:		"phoenix-park-model-plane"
+title:		"Model airplane"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2013-01-26 12:33:45+00:00"
 album:		"city"
 filename:		"phoenix-park-model-plane.md"
-series:		""
+series:		"dublin"
 cl_public_id:		"city/phoenix-park-model-plane"
 cl_version:		1497000364
 format:		"tiff"

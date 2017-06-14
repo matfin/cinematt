@@ -1,12 +1,12 @@
 ---
-title:		"berlin-demonstration-lying-down"
+title:		"Demonstrator"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-28 16:08:49+00:00"
 album:		"city"
 filename:		"berlin-demonstration-lying-down.md"
-series:		""
+series:		"demonstrations"
 cl_public_id:		"city/berlin-demonstration-lying-down"
 cl_version:		1497000190
 format:		"tiff"

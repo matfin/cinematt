@@ -1,12 +1,12 @@
 ---
-title:		"table-tennis-berlin"
+title:		"Table tennis"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 11:57:54+00:00"
 album:		"city"
 filename:		"table-tennis-berlin.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/table-tennis-berlin"
 cl_version:		1497000446
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"ubahn-berlin"
+title:		"Ubahn"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-18 15:48:44+00:00"
 album:		"city"
 filename:		"ubahn-berlin.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/ubahn-berlin"
 cl_version:		1497000460
 format:		"tiff"

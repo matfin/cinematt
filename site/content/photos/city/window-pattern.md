@@ -1,12 +1,12 @@
 ---
-title:		"window-pattern"
+title:		"Pattern"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 12:46:06+00:00"
 album:		"city"
 filename:		"window-pattern.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/window-pattern"
 cl_version:		1497000466
 format:		"tiff"

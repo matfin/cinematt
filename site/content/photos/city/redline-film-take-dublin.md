@@ -1,12 +1,12 @@
 ---
-title:		"redline-film-take-dublin"
+title:		"Redline"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2012-01-13 15:26:38+00:00"
 album:		"city"
 filename:		"redline-film-take-dublin.md"
-series:		""
+series:		"dublin"
 cl_public_id:		"city/redline-film-take-dublin"
 cl_version:		1497000398
 format:		"tiff"

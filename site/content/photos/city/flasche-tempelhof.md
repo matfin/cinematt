@@ -1,12 +1,12 @@
 ---
-title:		"flasche-tempelhof"
+title:		"Flasche Tempelhof"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-02-15 15:02:35+00:00"
 album:		"city"
 filename:		"flasche-tempelhof.md"
-series:		""
+series:		"tempelhof"
 cl_public_id:		"city/flasche-tempelhof"
 cl_version:		1497000265
 format:		"tiff"

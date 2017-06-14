@@ -1,12 +1,12 @@
 ---
-title:		"stoplerstein"
+title:		"Stoplerstein"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-02-14 15:08:23+00:00"
 album:		"city"
 filename:		"stoplerstein.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/stoplerstein"
 cl_version:		1497000456
 format:		"tiff"

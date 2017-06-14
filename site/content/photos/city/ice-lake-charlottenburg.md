@@ -1,12 +1,12 @@
 ---
-title:		"ice-lake-charlottenburg"
+title:		"Charlottenburg"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-01-22 16:37:11+00:00"
 album:		"city"
 filename:		"ice-lake-charlottenburg.md"
-series:		""
+series:		"charlottenburg"
 cl_public_id:		"city/ice-lake-charlottenburg"
 cl_version:		1497000307
 format:		"tiff"

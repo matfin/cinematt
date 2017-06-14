@@ -6,7 +6,7 @@ location:		"TBC"
 date:		"2014-02-09 15:22:21+00:00"
 album:		"city"
 filename:		"city-lamp-posters.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/city-lamp-posters"
 cl_version:		1497000228
 format:		"tiff"

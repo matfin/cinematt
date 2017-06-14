@@ -1,12 +1,12 @@
 ---
-title:		"casino-berlin"
+title:		"Casino"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-10 01:45:48+00:00"
 album:		"city"
 filename:		"casino-berlin.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/casino-berlin"
 cl_version:		1497000282
 format:		"tiff"

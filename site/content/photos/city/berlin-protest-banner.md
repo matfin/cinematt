@@ -1,12 +1,12 @@
 ---
-title:		"berlin-protest-banner"
+title:		"Protest banner"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-28 16:06:45+00:00"
 album:		"city"
 filename:		"berlin-protest-banner.md"
-series:		""
+series:		"demonstrations"
 cl_public_id:		"city/berlin-protest-banner"
 cl_version:		1497000221
 format:		"tiff"

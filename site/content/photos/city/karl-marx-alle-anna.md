@@ -1,12 +1,12 @@
 ---
-title:		"karl-marx-alle-anna"
+title:		"Anna"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-29 16:22:42+00:00"
 album:		"city"
 filename:		"karl-marx-alle-anna.md"
-series:		""
+series:		"karl-marx-allee"
 cl_public_id:		"city/karl-marx-alle-anna"
 cl_version:		1497000313
 format:		"tiff"

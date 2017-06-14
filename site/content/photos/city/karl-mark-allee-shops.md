@@ -1,12 +1,12 @@
 ---
-title:		"karl-mark-allee-shops"
+title:		"Karl Marx Allee"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-29 16:18:06+00:00"
 album:		"city"
 filename:		"karl-mark-allee-shops.md"
-series:		""
+series:		"karl-marx-allee"
 cl_public_id:		"city/karl-mark-allee-shops"
 cl_version:		1497000321
 format:		"tiff"

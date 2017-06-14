@@ -1,12 +1,12 @@
 ---
-title:		"greifswalder-tunnel"
+title:		"Greifswalder Strasse"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2015-12-09 00:15:08+00:00"
 album:		"city"
 filename:		"greifswalder-tunnel.md"
-series:		""
+series:		"greifswalder"
 cl_public_id:		"city/greifswalder-tunnel"
 cl_version:		1497000301
 format:		"tiff"

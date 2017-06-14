@@ -1,12 +1,12 @@
 ---
-title:		"bankomat-berlin"
+title:		"Bankomat"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-17 02:54:02+00:00"
 album:		"city"
 filename:		"bankomat-berlin.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/bankomat-berlin"
 cl_version:		1497000177
 format:		"tiff"

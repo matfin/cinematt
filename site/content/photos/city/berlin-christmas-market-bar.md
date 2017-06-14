@@ -1,12 +1,12 @@
 ---
-title:		"berlin-christmas-market-bar"
+title:		"Weinachtsmarkt bar"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2015-12-05 18:25:10+00:00"
 album:		"city"
 filename:		"berlin-christmas-market-bar.md"
-series:		""
+series:		"christmas-market"
 cl_public_id:		"city/berlin-christmas-market-bar"
 cl_version:		1497000190
 format:		"tiff"

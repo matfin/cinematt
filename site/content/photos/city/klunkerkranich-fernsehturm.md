@@ -1,12 +1,12 @@
 ---
-title:		"klunkerkranich-fernsehturm"
+title:		"Fernsehturm"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-25 20:07:36+00:00"
 album:		"city"
 filename:		"klunkerkranich-fernsehturm.md"
-series:		""
+series:		"klunkerkranich"
 cl_public_id:		"city/klunkerkranich-fernsehturm"
 cl_version:		1497000318
 format:		"tiff"

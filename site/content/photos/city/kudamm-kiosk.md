@@ -1,12 +1,12 @@
 ---
-title:		"kudamm-kiosk"
+title:		"Kiosk"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-18 18:31:44+00:00"
 album:		"city"
 filename:		"kudamm-kiosk.md"
-series:		""
+series:		"kudamm"
 cl_public_id:		"city/kudamm-kiosk"
 cl_version:		1497000333
 format:		"tiff"

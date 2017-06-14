@@ -1,12 +1,12 @@
 ---
-title:		"rixdorf-christmas-market"
+title:		"Rixdorf"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2015-12-05 18:07:03+00:00"
 album:		"city"
 filename:		"rixdorf-christmas-market.md"
-series:		""
+series:		"christmas-market"
 cl_public_id:		"city/rixdorf-christmas-market"
 cl_version:		1497000414
 format:		"tiff"

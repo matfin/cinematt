@@ -1,12 +1,12 @@
 ---
-title:		"presse-tabak-berlin"
+title:		"Presse Tabak"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-09 23:39:37+00:00"
 album:		"city"
 filename:		"presse-tabak-berlin.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/presse-tabak-berlin"
 cl_version:		1497000399
 format:		"tiff"

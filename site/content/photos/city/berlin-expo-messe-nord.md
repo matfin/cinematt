@@ -1,12 +1,12 @@
 ---
-title:		"berlin-expo-messe-nord"
+title:		"Messe Expo"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 13:01:11+00:00"
 album:		"city"
 filename:		"berlin-expo-messe-nord.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/berlin-expo-messe-nord"
 cl_version:		1497000191
 format:		"tiff"
