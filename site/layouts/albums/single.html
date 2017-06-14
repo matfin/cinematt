@@ -17,7 +17,7 @@
 				{{ $photos 		:= where .Site.Pages "Section" "photos" }}
 				{{ $album 		:= string .Params.identifier }}
 				{{ $filtered 	:= where $photos ".Params.album" $album }}
-				{{ range $filtered }}
+				{{ range ($filtered.ByParam "series") }}
 					{{ .Render "card" }}
 				{{ end }}
 			</section>

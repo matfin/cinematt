@@ -3,10 +3,14 @@
  */
 figure.photo-card
 	position: relative
+	overflow: hidden
+	display: grid
+	grid-template-columns: 1fr
+	grid-template-rows: 1fr
+
+
 	+transitionWithProperties((transform, background-position), 250ms)
 	transform: translate3d(0, 30%, 0)
-	background-position: 0px 0px
-	background-repeat: no-repeat
 
 	+break(max, $break-1)
 		min-height: $units * 12
@@ -32,9 +36,13 @@ figure.photo-card
 		+transitionWithProperties(opacity, 250ms)
 		opacity: 0
 
+
+	&:hover
+		figcaption
+			transform: translate3d(0, 0, 0)
+
 	&.loaded
 		transform: translate3d(0, 0, 0)
-		background-position: 0px $units * 20
 		img
 			opacity: 1.0
 
@@ -47,4 +55,15 @@ figure.photo-card
 		left: 0
 		width: 100%
 		height: 100%
+		grid-row: 1 / 3
 		object-fit: cover
+
+	figcaption
+		z-index: $z-over
+		grid-row: 2
+		padding: $units
+		color: $white
+		background-color: rgba($black, 0.75)
+
+		transform: translate3d(0, 100%, 0)
+		+transitionWithProperties(transform, 250ms)

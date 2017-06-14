@@ -1,5 +1,5 @@
 ---
-title:		"Phoenix Park"
+title:		"Training"
 type:		"photos"
 mediatype:		"upload"
 location:		"Phoenix Park, Ireland"

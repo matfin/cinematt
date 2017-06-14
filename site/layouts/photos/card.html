@@ -15,4 +15,9 @@
 			data-srcset="{{ $base }}/image/upload/h_480/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 1x, {{ $base }}/image/upload/h_960/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 2x"
 		/>
 	{{ end }}
+	<figcaption>
+		<h3>
+			{{ .Params.title }} &ndash; {{ .Params.location }}
+		</h3>
+	</figcaption>
 </figure>
