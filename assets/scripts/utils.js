@@ -69,8 +69,11 @@ window.cinematt.utils = {
 		img.removeAttribute('data-srcset');
 
 		if(img.tagName === 'SOURCE') {
+			let image = parent.querySelector('img');
 			img.setAttribute('srcset', srcset);
-			parent.querySelector('img').addEventListener('load', cinematt.utils.imageLoaded);
+			image.onprogress = cinematt.utils.imageProgress;
+			image.addEventListener('load', cinematt.utils.imageLoaded);
+
 		}
 		else {
 			img.setAttribute('src', src);
@@ -96,11 +99,18 @@ window.cinematt.utils = {
 		}).forEach(cinematt.utils.primeImage);
 	},
 
+	imageProgress: (evt) => {
+		console.log({
+			progress: evt
+		});
+	},
+
 	imageLoaded: (evt) => {
 		let image 	= evt.target, 
 			parent 	= image.parentNode;
 		parent.removeAttribute('data-colours');
 		parent.classList.add('loaded');
+		setTimeout(() => parent.style.background = 'none', 400);
 	}
 
 };

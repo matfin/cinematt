@@ -5,17 +5,7 @@ main.landing
 	display: grid
 	grid-column: 2 / 3
 	grid-row: 2 / 3
-	grid-column-gap: $units / 4
-	grid-row-gap: $units / 4
-
-	+break(min-max, 0, $break-0)
-		grid-template-columns: 1fr
-
-	+break(min-max, $break-0, $break-2)
-		grid-template-columns: repeat(2, 1fr)
-
-	+break(min, $break-2)
-		grid-template-columns: repeat(3, 1fr)
+	+photoThumbnailGrid
 
 /**
  *	Albums page
@@ -25,15 +15,17 @@ main.albums
 	grid-row: 2 / 3
 	display: grid
 	grid-template-columns: 1fr
-	grid-template-rows: auto $units * 4 auto
+	grid-template-rows: auto $units / 4 auto
 	align-content: start
 
 	section.teaser
 		grid-row: 1
 		display: grid
 
-	section.content
+	section.photos
 		grid-row: 3
+		display: grid
+		+photoThumbnailGrid
 
 	picture.photo
 

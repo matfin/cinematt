@@ -13,8 +13,13 @@
 				{{ $photo 		:= .Site.GetPage "page" $category $teaser }}
 				{{ partial "photo_teaser" $photo }}
 			{{ end }}
-			<section class="content">
-				{{ .Content }}
+			<section class="photos">
+				{{ $photos 		:= where .Site.Pages "Section" "photos" }}
+				{{ $album 		:= string .Params.identifier }}
+				{{ $filtered 	:= where $photos ".Params.album" $album }}
+				{{ range $filtered }}
+					{{ .Render "card" }}
+				{{ end }}
 			</section>
 		</main>
 		{{ partial "footer" . }}
