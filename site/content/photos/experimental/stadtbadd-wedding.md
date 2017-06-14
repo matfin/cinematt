@@ -1,12 +1,12 @@
 ---
-title:		"stadtbadd-wedding"
+title:		"Stadtbad Wedding"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-05-29 14:21:05+00:00"
 album:		"experimental"
 filename:		"stadtbadd-wedding.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/stadtbadd-wedding"
 cl_version:		1497004455
 format:		"tiff"

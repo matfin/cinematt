@@ -1,12 +1,12 @@
 ---
-title:		"look-beautiful-tempelhof"
+title:		"Look beautiful"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-02-15 15:08:56+00:00"
 album:		"city"
 filename:		"look-beautiful-tempelhof.md"
-series:		""
+series:		"tempelhof"
 cl_public_id:		"city/look-beautiful-tempelhof"
 cl_version:		1497000456
 format:		"tiff"

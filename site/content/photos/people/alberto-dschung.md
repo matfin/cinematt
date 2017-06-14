@@ -1,12 +1,12 @@
 ---
-title:		"alberto-dschung"
+title:		"Alberto & Dschung"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 09:33:21+00:00"
 album:		"people"
 filename:		"alberto-dschung.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/alberto-dschung"
 cl_version:		1497005318
 format:		"tiff"

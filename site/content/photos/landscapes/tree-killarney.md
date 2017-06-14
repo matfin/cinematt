@@ -1,12 +1,12 @@
 ---
-title:		"tree-killarney"
+title:		"Killarney tree"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2011-03-27 19:14:36+00:00"
 album:		"landscapes"
 filename:		"tree-killarney.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"landscapes/tree-killarney"
 cl_version:		1497004743
 format:		"tiff"

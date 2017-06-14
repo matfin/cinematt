@@ -1,12 +1,12 @@
 ---
-title:		"film-palast"
+title:		"Film Palast"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 16:25:44+00:00"
 album:		"city"
 filename:		"film-palast.md"
-series:		""
+series:		"karl-marx-allee"
 cl_public_id:		"city/film-palast"
 cl_version:		1497000277
 format:		"tiff"

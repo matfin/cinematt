@@ -1,12 +1,12 @@
 ---
-title:		"alberto-david-unicorns"
+title:		"Alberto & David"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 19:44:29+00:00"
 album:		"people"
 filename:		"alberto-david-unicorns.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/alberto-david-unicorns"
 cl_version:		1497005320
 format:		"tiff"

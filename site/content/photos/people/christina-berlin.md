@@ -1,12 +1,12 @@
 ---
-title:		"christina-berlin"
+title:		"Haus Der Statistiche"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 15:29:32+00:00"
 album:		"people"
 filename:		"christina-berlin.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/christina-berlin"
 cl_version:		1497005363
 format:		"tiff"

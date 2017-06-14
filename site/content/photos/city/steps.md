@@ -1,12 +1,12 @@
 ---
-title:		"steps"
+title:		"Steps"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Rome, Italy"
 date:		"2016-01-08 15:18:27+00:00"
 album:		"city"
 filename:		"steps.md"
-series:		""
+series:		"rome"
 cl_public_id:		"city/steps"
 cl_version:		1497000416
 format:		"tiff"

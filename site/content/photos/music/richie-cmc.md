@@ -1,12 +1,12 @@
 ---
-title:		"richie-cmc"
+title:		"Richie Martin"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2012-05-25 22:01:11+00:00"
 album:		"music"
 filename:		"richie-cmc.md"
-series:		""
+series:		"musicians"
 cl_public_id:		"music/richie-cmc"
 cl_version:		1497004862
 format:		"tiff"

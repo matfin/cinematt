@@ -1,12 +1,12 @@
 ---
-title:		"pai-parrot"
+title:		"Parrot"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Pai, Thailand"
 date:		"2006-07-29 00:26:23+00:00"
 album:		"nature"
 filename:		"pai-parrot.md"
-series:		""
+series:		"animals"
 cl_public_id:		"nature/pai-parrot"
 cl_version:		1497005080
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"expo-center-veb-berlin"
+title:		"Expo center"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 12:10:58+00:00"
 album:		"city"
 filename:		"expo-center-veb-berlin.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/expo-center-veb-berlin"
 cl_version:		1497000264
 format:		"tiff"

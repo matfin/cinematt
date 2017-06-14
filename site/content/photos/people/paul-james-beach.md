@@ -1,12 +1,12 @@
 ---
-title:		"paul-james-beach"
+title:		"Paul & James"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2016-07-31 13:45:33+00:00"
 album:		"people"
 filename:		"paul-james-beach.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/paul-james-beach"
 cl_version:		1497005513
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"dschung-nori"
+title:		"Dschung & Nori"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 19:17:39+00:00"
 album:		"people"
 filename:		"dschung-nori.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/dschung-nori"
 cl_version:		1497005420
 format:		"tiff"

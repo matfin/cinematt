@@ -1,12 +1,12 @@
 ---
-title:		"anna_markt"
+title:		"Anna in Rome"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Rome, Italy"
 date:		"2016-01-10 18:42:41+00:00"
 album:		"city"
 filename:		"anna-markt.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/anna_markt"
 cl_version:		1497000193
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"cite-foche-exterior"
+title:		"Cite Foche"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-21 18:13:05+00:00"
 album:		"abandoned"
 filename:		"cite-foche-exterior.md"
-series:		""
+series:		"cite-foche"
 cl_public_id:		"abandoned/cite-foche-exterior"
 cl_version:		1497000082
 format:		"tiff"

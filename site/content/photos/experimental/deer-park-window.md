@@ -1,12 +1,12 @@
 ---
-title:		"deer-park-window"
+title:		"Deer Park Hotel"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2014-04-06 20:03:06+00:00"
 album:		"experimental"
 filename:		"deer-park-window.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/deer-park-window"
 cl_version:		1497004506
 format:		"tiff"

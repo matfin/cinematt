@@ -1,12 +1,12 @@
 ---
-title:		"portugal-guitarist"
+title:		"Portuguese guitarist"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Portimao, Portugal"
 date:		"2012-05-15 19:30:52+00:00"
 album:		"people"
 filename:		"portugal-guitarist.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/portugal-guitarist"
 cl_version:		1497005530
 format:		"tiff"

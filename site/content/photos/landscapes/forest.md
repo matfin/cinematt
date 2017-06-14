@@ -1,12 +1,12 @@
 ---
-title:		"forest"
+title:		"A forest"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 18:28:31+00:00"
 album:		"landscapes"
 filename:		"forest.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"landscapes/forest"
 cl_version:		1497004673
 format:		"tiff"

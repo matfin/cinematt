@@ -1,12 +1,12 @@
 ---
-title:		"motel-avus"
+title:		"Hotel Avus"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 13:11:57+00:00"
 album:		"city"
 filename:		"motel-avus.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/motel-avus"
 cl_version:		1497000363
 format:		"tiff"

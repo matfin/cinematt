@@ -1,12 +1,12 @@
 ---
-title:		"charlottenburg-lake-fisheye"
+title:		"Frozen lake"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-01-22 16:39:09+00:00"
 album:		"city"
 filename:		"charlottenburg-lake-fisheye.md"
-series:		""
+series:		"charlottenburg"
 cl_public_id:		"city/charlottenburg-lake-fisheye"
 cl_version:		1497000243
 format:		"tiff"

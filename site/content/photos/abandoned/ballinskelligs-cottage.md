@@ -1,12 +1,12 @@
 ---
-title:		"ballinskelligs-cottage"
+title:		"Ballinskelligs Cottage"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2012-04-01 16:51:48+00:00"
 album:		"abandoned"
 filename:		"ballinskelligs-cottage.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"abandoned/ballinskelligs-cottage"
 cl_version:		1497000047
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"stina"
+title:		"Stina"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-09-24 20:57:02+00:00"
 album:		"music"
 filename:		"stina.md"
-series:		""
+series:		"musicians"
 cl_public_id:		"music/stina"
 cl_version:		1497004878
 format:		"tiff"

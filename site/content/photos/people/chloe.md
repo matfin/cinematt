@@ -1,12 +1,12 @@
 ---
-title:		"chloe"
+title:		"Chloe"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2015-12-25 15:02:26+00:00"
 album:		"people"
 filename:		"chloe.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/chloe"
 cl_version:		1497005372
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"karneval-der-kulturen-mojito"
+title:		"Mojitos"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-07 16:56:16+00:00"
 album:		"events"
 filename:		"karneval-der-kulturen-mojito.md"
-series:		""
+series:		"karneval"
 cl_public_id:		"events/karneval-der-kulturen-mojito"
 cl_version:		1497002606
 format:		"tiff"

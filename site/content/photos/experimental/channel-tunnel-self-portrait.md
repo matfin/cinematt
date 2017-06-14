@@ -1,12 +1,12 @@
 ---
-title:		"channel-tunnel-self-portrait"
+title:		"Channel Tunnel self portrait"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Folkestone, England"
 date:		"2011-06-07 20:20:20+00:00"
 album:		"experimental"
 filename:		"channel-tunnel-self-portrait.md"
-series:		""
+series:		"channel-tunnel"
 cl_public_id:		"experimental/channel-tunnel-self-portrait"
 cl_version:		1497004478
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"mossy-laura"
+title:		"Mossy & Laura"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-24 15:39:11+00:00"
 album:		"people"
 filename:		"mossy-laura.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"people/mossy-laura"
 cl_version:		1497005488
 format:		"tiff"

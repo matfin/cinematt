@@ -1,12 +1,12 @@
 ---
-title:		"orb"
+title:		"Orb"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2004-01-29 15:53:40+00:00"
 album:		"experimental"
 filename:		"orb.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/orb"
 cl_version:		1497004642
 format:		"tiff"

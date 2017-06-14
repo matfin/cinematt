@@ -1,12 +1,12 @@
 ---
-title:		"jonathan"
+title:		"Jonathan's portrait"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2016-08-01 18:03:00+00:00"
 album:		"people"
 filename:		"jonathan.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/jonathan"
 cl_version:		1497005446
 format:		"tiff"

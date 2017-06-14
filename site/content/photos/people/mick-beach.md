@@ -1,12 +1,12 @@
 ---
-title:		"mick-beach"
+title:		"St Finian's Bay"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2016-07-31 13:47:33+00:00"
 album:		"people"
 filename:		"mick-beach.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/mick-beach"
 cl_version:		1497005475
 format:		"tiff"

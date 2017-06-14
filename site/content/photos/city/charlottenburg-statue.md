@@ -1,12 +1,12 @@
 ---
-title:		"charlottenburg-statue"
+title:		"Statue"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-03-30 16:18:48+00:00"
 album:		"city"
 filename:		"charlottenburg-statue.md"
-series:		""
+series:		"charlottenburg"
 cl_public_id:		"city/charlottenburg-statue"
 cl_version:		1497000221
 format:		"tiff"

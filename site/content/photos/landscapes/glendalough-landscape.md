@@ -1,12 +1,12 @@
 ---
-title:		"glendalough-landscape"
+title:		"Glendalough hills"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Glendalough, Ireland"
 date:		"2014-04-08 15:05:46+00:00"
 album:		"landscapes"
 filename:		"glendalough-landscape.md"
-series:		""
+series:		"glendalough"
 cl_public_id:		"landscapes/glendalough-landscape"
 cl_version:		1497004696
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"canal"
+title:		"The Canal"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-20 18:19:34+00:00"
 album:		"people"
 filename:		"canal.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"people/canal"
 cl_version:		1497005369
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"norwegian-actress-profile"
+title:		"Malin's profile"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 18:52:22+00:00"
 album:		"people"
 filename:		"norwegian-actress-profile.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/norwegian-actress-profile"
 cl_version:		1497005500
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"bird-poised"
+title:		"Bird poised"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-24 16:01:53+00:00"
 album:		"nature"
 filename:		"bird-poised.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"nature/bird-poised"
 cl_version:		1497005045
 format:		"tiff"

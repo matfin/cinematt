@@ -1,12 +1,12 @@
 ---
-title:		"dschung-hand"
+title:		"Dschungs hand"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 09:45:27+00:00"
 album:		"people"
 filename:		"dschung-hand.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/dschung-hand"
 cl_version:		1497005378
 format:		"tiff"

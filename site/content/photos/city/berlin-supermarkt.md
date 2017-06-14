@@ -1,12 +1,12 @@
 ---
-title:		"berlin-supermarkt"
+title:		"Supermarkt"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-17 02:57:36+00:00"
 album:		"city"
 filename:		"berlin-supermarkt.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/berlin-supermarkt"
 cl_version:		1497000214
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"tim-hot-sprockets"
+title:		"The Hot Sprockets - Tim"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 18:24:45+00:00"
 album:		"music"
 filename:		"tim-hot-sprockets.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/tim-hot-sprockets"
 cl_version:		1497004910
 format:		"tiff"

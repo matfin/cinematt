@@ -1,12 +1,12 @@
 ---
-title:		"balcony-plants"
+title:		"Bokehed plants"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-05-29 20:59:38+00:00"
 album:		"nature"
 filename:		"balcony-plants.md"
-series:		""
+series:		"plants"
 cl_public_id:		"nature/balcony-plants"
 cl_version:		1497005030
 format:		"tiff"

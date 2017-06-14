@@ -1,12 +1,12 @@
 ---
-title:		"yves"
+title:		"DJ Easy Yves"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2012-01-01 01:00:04+00:00"
 album:		"people"
 filename:		"yves.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/yves"
 cl_version:		1497005608
 format:		"tiff"

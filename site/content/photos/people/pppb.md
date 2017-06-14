@@ -1,12 +1,12 @@
 ---
-title:		"pppb"
+title:		"Charity Pitch & Putt"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2005-08-13 20:08:07+00:00"
 album:		"people"
 filename:		"pppb.md"
-series:		""
+series:		"candid"
 cl_public_id:		"people/pppb"
 cl_version:		1497005530
 format:		"tiff"

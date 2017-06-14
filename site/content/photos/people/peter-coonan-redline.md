@@ -1,12 +1,12 @@
 ---
-title:		"peter-coonan-redline"
+title:		"Redline shoot"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2012-01-13 15:33:03+00:00"
 album:		"people"
 filename:		"peter-coonan-redline.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/peter-coonan-redline"
 cl_version:		1497005524
 format:		"tiff"

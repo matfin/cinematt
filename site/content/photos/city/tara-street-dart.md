@@ -1,12 +1,12 @@
 ---
-title:		"tara-street-dart"
+title:		"Dart Station"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-16 20:15:12+00:00"
 album:		"city"
 filename:		"tara-street-dart.md"
-series:		""
+series:		"dublin"
 cl_public_id:		"city/tara-street-dart"
 cl_version:		1497000452
 format:		"tiff"

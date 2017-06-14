@@ -1,12 +1,12 @@
 ---
-title:		"david-oliveira"
+title:		"David preparing a shot"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 18:45:21+00:00"
 album:		"people"
 filename:		"david-oliveira.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/david-oliveira"
 cl_version:		1497005411
 format:		"tiff"

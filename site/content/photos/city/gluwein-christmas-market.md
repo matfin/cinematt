@@ -1,12 +1,12 @@
 ---
-title:		"gluwein-christmas-market"
+title:		"Glüwein"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2015-12-05 18:08:13+00:00"
 album:		"city"
 filename:		"gluwein-christmas-market.md"
-series:		""
+series:		"christmas-market"
 cl_public_id:		"city/gluwein-christmas-market"
 cl_version:		1497000304
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"spirit-of-folk-shield"
+title:		"Viking reenactment"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-24 16:42:14+00:00"
 album:		"events"
 filename:		"spirit-of-folk-shield.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"events/spirit-of-folk-shield"
 cl_version:		1497002647
 format:		"tiff"

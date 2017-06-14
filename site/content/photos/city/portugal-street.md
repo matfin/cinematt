@@ -1,12 +1,12 @@
 ---
-title:		"portugal-street"
+title:		"Street"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Portimao, Portugal"
 date:		"2012-05-12 14:53:31+00:00"
 album:		"city"
 filename:		"portugal-street.md"
-series:		""
+series:		"portugal"
 cl_public_id:		"city/portugal-street"
 cl_version:		1497000380
 format:		"tiff"

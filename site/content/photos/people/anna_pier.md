@@ -1,12 +1,12 @@
 ---
-title:		"anna_pier"
+title:		"The lake"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Bergwitzsee, Germany"
 date:		"2017-04-14 20:14:24"
 album:		"people"
 filename:		"anna-pier.md"
-series:		""
+series:		"cycle-tour"
 cl_public_id:		"people/anna_pier"
 cl_version:		1497005358
 format:		"tiff"

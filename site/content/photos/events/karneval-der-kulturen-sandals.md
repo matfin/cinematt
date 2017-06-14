@@ -1,12 +1,12 @@
 ---
-title:		"karneval-der-kulturen-sandals"
+title:		"Karneval Der Kulturen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-07 19:29:26+00:00"
 album:		"events"
 filename:		"karneval-der-kulturen-sandals.md"
-series:		""
+series:		"karneval"
 cl_public_id:		"events/karneval-der-kulturen-sandals"
 cl_version:		1497002608
 format:		"tiff"

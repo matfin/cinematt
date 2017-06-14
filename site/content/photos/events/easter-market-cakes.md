@@ -1,12 +1,12 @@
 ---
-title:		"easter-market-cakes"
+title:		"Easter"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-20 17:39:05+00:00"
 album:		"events"
 filename:		"easter-market-cakes.md"
-series:		""
+series:		"markets"
 cl_public_id:		"events/easter-market-cakes"
 cl_version:		1497002584
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"volkswagen-berlin"
+title:		"Volkswagen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-10 01:58:42+00:00"
 album:		"city"
 filename:		"volkswagen-berlin.md"
-series:		""
+series:		"greifswalder"
 cl_public_id:		"city/volkswagen-berlin"
 cl_version:		1497000475
 format:		"tiff"

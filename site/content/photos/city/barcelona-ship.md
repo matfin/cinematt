@@ -1,12 +1,12 @@
 ---
-title:		"barcelona-ship"
+title:		"Car ferry"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Barcelona, Spain"
 date:		"2011-06-09 18:20:44+00:00"
 album:		"city"
 filename:		"barcelona-ship.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"city/barcelona-ship"
 cl_version:		1497000391
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"rhob-cunningham"
+title:		"Rhob Cunningham"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-28 19:06:45+00:00"
 album:		"music"
 filename:		"rhob-cunningham.md"
-series:		""
+series:		"musicians"
 cl_public_id:		"music/rhob-cunningham"
 cl_version:		1497004874
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"stadtbad-wedding-anna"
+title:		"Diving board"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-05-29 13:57:52+00:00"
 album:		"abandoned"
 filename:		"stadtbad-wedding-anna.md"
-series:		""
+series:		"stadtbad"
 cl_public_id:		"abandoned/stadtbad-wedding-anna"
 cl_version:		1497000049
 format:		"tiff"

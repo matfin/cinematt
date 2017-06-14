@@ -1,12 +1,12 @@
 ---
-title:		"lahu-village-cat"
+title:		"Lahu wild cat"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Pai, Thailand"
 date:		"2006-07-24 07:48:46+00:00"
 album:		"nature"
 filename:		"lahu-village-cat.md"
-series:		""
+series:		"animals"
 cl_public_id:		"nature/lahu-village-cat"
 cl_version:		1497005082
 format:		"tiff"

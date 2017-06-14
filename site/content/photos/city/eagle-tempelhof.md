@@ -1,12 +1,12 @@
 ---
-title:		"eagle-tempelhof"
+title:		"Tempehol eagle"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-02-15 15:34:29+00:00"
 album:		"city"
 filename:		"eagle-tempelhof.md"
-series:		""
+series:		"tempelhof"
 cl_public_id:		"city/eagle-tempelhof"
 cl_version:		1497000262
 format:		"tiff"

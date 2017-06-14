@@ -1,12 +1,12 @@
 ---
-title:		"paul-and-luke"
+title:		"Paul & Luke"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2015-12-25 15:04:08+00:00"
 album:		"people"
 filename:		"paul-and-luke.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/paul-and-luke"
 cl_version:		1497005511
 format:		"tiff"

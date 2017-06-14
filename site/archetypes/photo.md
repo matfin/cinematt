@@ -1,7 +1,7 @@
 ---
 title:			""
 mediatype:		""
-description:	""
+location:		""
 date:			""
 album:			""
 filename:		""

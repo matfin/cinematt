@@ -1,4 +1,4 @@
-{{$albums := where .Data.Pages "Section" "albums" }}
+{{$albums := where .Site.Pages "Section" "albums" }}
 <nav>
 	<ul>
 		{{ range $albums }}

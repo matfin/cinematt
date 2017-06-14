@@ -1,12 +1,12 @@
 ---
-title:		"church_interior"
+title:		"Church"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Marienfeld, Germany"
 date:		"2016-01-08 16:10:34+00:00"
 album:		"city"
 filename:		"church-interior.md"
-series:		""
+series:		"easter"
 cl_public_id:		"city/church_interior"
 cl_version:		1497000246
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"workplace"
+title:		"Workplace"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-27 23:30:02+00:00"
 album:		"city"
 filename:		"workplace.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/workplace"
 cl_version:		1497000467
 format:		"jpg"

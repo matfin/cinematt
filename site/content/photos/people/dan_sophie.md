@@ -1,12 +1,12 @@
 ---
-title:		"dan_sophie"
+title:		"Dan & Sophie"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2016-08-01 14:07:46+00:00"
 album:		"people"
 filename:		"dan-sophie.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/dan_sophie"
 cl_version:		1497005391
 format:		"tiff"

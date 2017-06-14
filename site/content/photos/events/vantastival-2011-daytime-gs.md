@@ -1,12 +1,12 @@
 ---
-title:		"vantastival-2011-daytime-gs"
+title:		"Vantastival"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 13:17:24+00:00"
 album:		"events"
 filename:		"vantastival-2011-daytime-gs.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"events/vantastival-2011-daytime-gs"
 cl_version:		1497002561
 format:		"tiff"

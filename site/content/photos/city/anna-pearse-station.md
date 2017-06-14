@@ -1,12 +1,12 @@
 ---
-title:		"anna-pearse-station"
+title:		"Pearse Station"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2014-04-07 19:02:37+00:00"
 album:		"city"
 filename:		"anna-pearse-station.md"
-series:		""
+series:		"dublin"
 cl_public_id:		"city/anna-pearse-station"
 cl_version:		1497000176
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"leaves-water"
+title:		"Water droplet"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2017-04-01 15:23:22+00:00"
 album:		"nature"
 filename:		"leaves-water.md"
-series:		""
+series:		"plants"
 cl_public_id:		"nature/leaves-water"
 cl_version:		1497005082
 format:		"tiff"

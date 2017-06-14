@@ -1,12 +1,12 @@
 ---
-title:		"treehouse-klunkerkranich"
+title:		"Treehouses"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-25 19:57:10+00:00"
 album:		"city"
 filename:		"treehouse-klunkerkranich.md"
-series:		""
+series:		"klunkerkranich"
 cl_public_id:		"city/treehouse-klunkerkranich"
 cl_version:		1497000461
 format:		"tiff"

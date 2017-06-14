@@ -1,12 +1,12 @@
 ---
-title:		"praater"
+title:		"Fruit market"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin"
 date:		"2016-07-11 00:03:34+00:00"
 album:		"events"
 filename:		"praater.md"
-series:		""
+series:		"markets"
 cl_public_id:		"events/praater"
 cl_version:		1497002637
 format:		"tiff"

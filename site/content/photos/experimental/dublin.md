@@ -1,12 +1,12 @@
 ---
-title:		"dublin"
+title:		"Tara Street"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-16 20:10:51+00:00"
 album:		"experimental"
 filename:		"dublin.md"
-series:		""
+series:		"hdr"
 cl_public_id:		"experimental/dublin"
 cl_version:		1497004555
 format:		"tiff"

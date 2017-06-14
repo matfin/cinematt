@@ -1,12 +1,12 @@
 ---
-title:		"schneedrop"
+title:		"Schneedrop"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-01-18 17:18:04+00:00"
 album:		"nature"
 filename:		"schneedrop.md"
-series:		""
+series:		"plants"
 cl_public_id:		"nature/schneedrop"
 cl_version:		1497005109
 format:		"tiff"

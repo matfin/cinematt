@@ -1,12 +1,12 @@
 ---
-title:		"karneval-der-kulturen-hat"
+title:		"Karneval Der Kulturen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-07 19:33:50+00:00"
 album:		"events"
 filename:		"karneval-der-kulturen-hat.md"
-series:		""
+series:		"karneval"
 cl_public_id:		"events/karneval-der-kulturen-hat"
 cl_version:		1497002589
 format:		"tiff"

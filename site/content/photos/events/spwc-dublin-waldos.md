@@ -1,12 +1,12 @@
 ---
-title:		"spwc-dublin-waldos"
+title:		"Where's Waldo day"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-06-18 13:02:38+00:00"
 album:		"events"
 filename:		"spwc-dublin-waldos.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"events/spwc-dublin-waldos"
 cl_version:		1497002577
 format:		"tiff"

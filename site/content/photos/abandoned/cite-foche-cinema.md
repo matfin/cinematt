@@ -1,12 +1,12 @@
 ---
-title:		"cite-foche-cinema"
+title:		"Cinema"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-21 18:28:07+00:00"
 album:		"abandoned"
 filename:		"cite-foche-cinema.md"
-series:		""
+series:		"cite-foche"
 cl_public_id:		"abandoned/cite-foche-cinema"
 cl_version:		1497000077
 format:		"tiff"

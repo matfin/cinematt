@@ -1,12 +1,12 @@
 ---
-title:		"channel-tunnel"
+title:		"Channel Tunnel"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Folkestone, England"
 date:		"2011-06-07 20:06:24+00:00"
 album:		"experimental"
 filename:		"channel-tunnel.md"
-series:		""
+series:		"channel-tunnel"
 cl_public_id:		"experimental/channel-tunnel"
 cl_version:		1497004490
 format:		"tiff"

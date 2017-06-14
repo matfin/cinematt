@@ -1,12 +1,12 @@
 ---
-title:		"side-street-berlin"
+title:		"Berlin side street"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-17 02:48:12+00:00"
 album:		"experimental"
 filename:		"side-street-berlin.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"experimental/side-street-berlin"
 cl_version:		1497004452
 format:		"tiff"

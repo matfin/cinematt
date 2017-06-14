@@ -1,12 +1,12 @@
 ---
-title:		"hohenschenhausen-cell"
+title:		"Hohenschenhausen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-02-16 16:01:38+00:00"
 album:		"abandoned"
 filename:		"hohenschenhausen-cell.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"abandoned/hohenschenhausen-cell"
 cl_version:		1497000119
 format:		"tiff"

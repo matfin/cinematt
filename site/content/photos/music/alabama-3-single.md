@@ -1,12 +1,12 @@
 ---
-title:		"alabama-3-single"
+title:		"Alabama 3 guitarist"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 23:31:27+00:00"
 album:		"music"
 filename:		"alabama-3-single.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/alabama-3-single"
 cl_version:		1497004847
 format:		"tiff"

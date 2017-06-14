@@ -1,12 +1,12 @@
 ---
-title:		"the-glen-shop"
+title:		"The Glen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
-date:		"1970-01-01"
+location:		"Kerry, Ireland"
+date:		"2016-08-04"
 album:		"abandoned"
 filename:		"the-glen-shop.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"abandoned/the-glen-shop"
 cl_version:		1497000075
 format:		"jpg"

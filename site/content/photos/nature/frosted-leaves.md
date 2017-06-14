@@ -1,12 +1,12 @@
 ---
-title:		"frosted-leaves"
+title:		"January leaves"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-30 15:36:32+00:00"
 album:		"nature"
 filename:		"frosted-leaves.md"
-series:		""
+series:		"closeups"
 cl_public_id:		"nature/frosted-leaves"
 cl_version:		1497005057
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"building-pattern"
+title:		"Building pattern"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 10:47:01+00:00"
 album:		"experimental"
 filename:		"building-pattern.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/building-pattern"
 cl_version:		1497004427
 format:		"tiff"

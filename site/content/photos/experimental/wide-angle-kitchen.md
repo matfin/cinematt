@@ -1,12 +1,12 @@
 ---
-title:		"wide-angle-kitchen"
+title:		"Kitchen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-17 20:16:15+00:00"
 album:		"experimental"
 filename:		"wide-angle-kitchen.md"
-series:		""
+series:		"friends"
 cl_public_id:		"experimental/wide-angle-kitchen"
 cl_version:		1497004502
 format:		"tiff"

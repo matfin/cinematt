@@ -1,12 +1,12 @@
 ---
-title:		"karneval-der-kulturen-dress"
+title:		"Karneval Der Kulturen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-07 17:29:11+00:00"
 album:		"events"
 filename:		"karneval-der-kulturen-dress.md"
-series:		""
+series:		"karneval"
 cl_public_id:		"events/karneval-der-kulturen-dress"
 cl_version:		1497002574
 format:		"tiff"

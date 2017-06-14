@@ -1,12 +1,12 @@
 ---
-title:		"hot-sprockets-stage-vantastival"
+title:		"The Hot Sprockets"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 18:31:13+00:00"
 album:		"music"
 filename:		"hot-sprockets-stage-vantastival.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/hot-sprockets-stage-vantastival"
 cl_version:		1497004848
 format:		"tiff"

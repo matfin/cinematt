@@ -1,12 +1,12 @@
 ---
-title:		"wittenberg"
+title:		"Town Square"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Witternberg, Germany"
 date:		"2017-04-14 16:50:51"
 album:		"experimental"
 filename:		"wittenberg.md"
-series:		""
+series:		"cycle-tour"
 cl_public_id:		"experimental/wittenberg"
 cl_version:		1497004520
 format:		"tiff"

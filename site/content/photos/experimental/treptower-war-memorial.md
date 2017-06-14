@@ -1,12 +1,12 @@
 ---
-title:		"treptower-war-memorial"
+title:		"Soviet War Memorial"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-31 17:37:54+00:00"
 album:		"experimental"
 filename:		"treptower-war-memorial.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/treptower-war-memorial"
 cl_version:		1497004512
 format:		"tiff"

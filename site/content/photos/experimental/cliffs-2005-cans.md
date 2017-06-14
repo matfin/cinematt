@@ -1,12 +1,12 @@
 ---
-title:		"cliffs-2005-cans"
+title:		"Derelict beer cans"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"howth, Ireland"
 date:		"2005-02-01 18:17:16+00:00"
 album:		"experimental"
 filename:		"cliffs-2005-cans.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"experimental/cliffs-2005-cans"
 cl_version:		1497004491
 format:		"tiff"

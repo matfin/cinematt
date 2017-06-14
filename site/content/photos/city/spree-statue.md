@@ -1,12 +1,12 @@
 ---
-title:		"spree-statue"
+title:		"Spree statue"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-01-18 16:52:40+00:00"
 album:		"city"
 filename:		"spree-statue.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/spree-statue"
 cl_version:		1497000413
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"kino-international-berlin"
+title:		"Kino International"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-29 16:28:05+00:00"
 album:		"city"
 filename:		"kino-international-berlin.md"
-series:		""
+series:		"karl-marx-allee"
 cl_public_id:		"city/kino-international-berlin"
 cl_version:		1497000398
 format:		"tiff"

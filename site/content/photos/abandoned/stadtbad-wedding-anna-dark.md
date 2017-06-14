@@ -1,12 +1,12 @@
 ---
-title:		"stadtbad-wedding-anna-dark"
+title:		"Darkness"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-05-29 14:34:35+00:00"
 album:		"abandoned"
 filename:		"stadtbad-wedding-anna-dark.md"
-series:		""
+series:		"stadtbad"
 cl_public_id:		"abandoned/stadtbad-wedding-anna-dark"
 cl_version:		1497000033
 format:		"tiff"

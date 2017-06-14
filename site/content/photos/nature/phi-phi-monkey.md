@@ -1,12 +1,12 @@
 ---
-title:		"phi-phi-monkey"
+title:		"Monkey's Bay"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Koh Phi Phi, Thailand"
 date:		"2006-08-02 23:52:10+00:00"
 album:		"nature"
 filename:		"phi-phi-monkey.md"
-series:		""
+series:		"animals"
 cl_public_id:		"nature/phi-phi-monkey"
 cl_version:		1497005102
 format:		"tiff"

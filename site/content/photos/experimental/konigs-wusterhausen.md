@@ -1,12 +1,12 @@
 ---
-title:		"konigs-wusterhausen"
+title:		"Königs Wusterhausen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Brandenburg, Germany"
 date:		"2016-08-27 21:38:33+00:00"
 album:		"experimental"
 filename:		"konigs-wusterhausen.md"
-series:		""
+series:		"friends"
 cl_public_id:		"experimental/konigs-wusterhausen"
 cl_version:		1497004570
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"dublin-from-howth"
+title:		"Howth Head"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2014-04-06 18:52:27+00:00"
 album:		"landscapes"
 filename:		"dublin-from-howth.md"
-series:		""
+series:		"howth"
 cl_public_id:		"landscapes/dublin-from-howth"
 cl_version:		1497004709
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"ruairi-fionn"
+title:		"Ruairi & Fionn"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Brandenburg, Germany"
 date:		"2016-08-27 19:34:22+00:00"
 album:		"people"
 filename:		"ruairi-fionn.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/ruairi-fionn"
 cl_version:		1497005542
 format:		"tiff"

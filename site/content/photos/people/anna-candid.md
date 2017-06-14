@@ -1,12 +1,12 @@
 ---
-title:		"anna-candid"
+title:		"Candid shot"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-20 15:54:51+00:00"
 album:		"people"
 filename:		"anna-candid.md"
-series:		""
+series:		"candid"
 cl_public_id:		"people/anna-candid"
 cl_version:		1497005311
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"phoenix-park-deer"
+title:		"Wild deer"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Phoenix Park, Ireland"
 date:		"2013-01-26 12:08:33+00:00"
 album:		"nature"
 filename:		"phoenix-park-deer.md"
-series:		""
+series:		"animals"
 cl_public_id:		"nature/phoenix-park-deer"
 cl_version:		1497005102
 format:		"tiff"

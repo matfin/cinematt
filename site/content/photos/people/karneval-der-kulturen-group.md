@@ -1,12 +1,12 @@
 ---
-title:		"karneval-der-kulturen-group"
+title:		"Karneval Der Kulturen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-07 17:27:55+00:00"
 album:		"people"
 filename:		"karneval-der-kulturen-group.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"people/karneval-der-kulturen-group"
 cl_version:		1497005458
 format:		"tiff"

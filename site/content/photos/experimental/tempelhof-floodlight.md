@@ -1,12 +1,12 @@
 ---
-title:		"tempelhof-floodlight"
+title:		"Tempelhof Floodlight"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-02-15 15:42:17+00:00"
 album:		"experimental"
 filename:		"tempelhof-floodlight.md"
-series:		""
+series:		"architecture"
 cl_public_id:		"experimental/tempelhof-floodlight"
 cl_version:		1497004474
 format:		"tiff"

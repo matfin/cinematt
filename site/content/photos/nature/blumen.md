@@ -1,12 +1,12 @@
 ---
-title:		"blumen"
+title:		"Blumen"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-03-30 15:50:48+00:00"
 album:		"nature"
 filename:		"blumen.md"
-series:		""
+series:		"plants"
 cl_public_id:		"nature/blumen"
 cl_version:		1497005026
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"mixing-desk"
+title:		"Mixing desk"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2012-01-26 18:49:27+00:00"
 album:		"music"
 filename:		"mixing-desk.md"
-series:		""
+series:		"closeups"
 cl_public_id:		"music/mixing-desk"
 cl_version:		1497004854
 format:		"tiff"

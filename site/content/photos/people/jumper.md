@@ -1,12 +1,12 @@
 ---
-title:		"jumper"
+title:		"Pier jump"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Brandenburg, Germany"
 date:		"2016-08-27 19:48:57+00:00"
 album:		"people"
 filename:		"jumper.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/jumper"
 cl_version:		1497005446
 format:		"tiff"

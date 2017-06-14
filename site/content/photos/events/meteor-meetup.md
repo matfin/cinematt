@@ -1,12 +1,12 @@
 ---
-title:		"meteor-meetup"
+title:		"Meteor Meetup"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-11-27 22:21:41+00:00"
 album:		"events"
 filename:		"meteor-meetup.md"
-series:		""
+series:		"meetups"
 cl_public_id:		"events/meteor-meetup"
 cl_version:		1497002599
 format:		"tiff"

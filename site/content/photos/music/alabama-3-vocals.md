@@ -1,12 +1,12 @@
 ---
-title:		"alabama-3-vocals"
+title:		"Alabama 3 vocalist"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Louth, Ireland"
 date:		"2011-05-01 23:41:23+00:00"
 album:		"music"
 filename:		"alabama-3-vocals.md"
-series:		""
+series:		"vantastival"
 cl_public_id:		"music/alabama-3-vocals"
 cl_version:		1497004827
 format:		"tiff"

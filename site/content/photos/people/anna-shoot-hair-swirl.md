@@ -1,12 +1,12 @@
 ---
-title:		"anna-shoot-hair-swirl"
+title:		"Air swirl"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-03-30 19:05:26+00:00"
 album:		"people"
 filename:		"anna-shoot-hair-swirl.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/anna-shoot-hair-swirl"
 cl_version:		1497005344
 format:		"tiff"

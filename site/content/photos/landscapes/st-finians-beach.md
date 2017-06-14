@@ -1,12 +1,12 @@
 ---
-title:		"st-finians-beach"
+title:		"St Finian's Beach"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2016-07-31 13:50:29+00:00"
 album:		"landscapes"
 filename:		"st-finians-beach.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"landscapes/st-finians-beach"
 cl_version:		1497004750
 format:		"tiff"

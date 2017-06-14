@@ -1,12 +1,12 @@
 ---
-title:		"spirit-of-folk-people"
+title:		"Festival goers"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-25 00:36:51+00:00"
 album:		"events"
 filename:		"spirit-of-folk-people.md"
-series:		""
+series:		"spirit-of-folk"
 cl_public_id:		"events/spirit-of-folk-people"
 cl_version:		1497002631
 format:		"tiff"

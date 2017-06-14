@@ -1,12 +1,12 @@
 ---
-title:		"border"
+title:		"Frontier"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Ahlbeck, German - Polish border"
 date:		"2014-03-08 17:37:55+00:00"
 album:		"city"
 filename:		"border.md"
-series:		""
+series:		"abstract"
 cl_public_id:		"city/border"
 cl_version:		1497000213
 format:		"tiff"

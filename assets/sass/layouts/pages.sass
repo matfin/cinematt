@@ -1,0 +1,76 @@
+/**
+ *	The landing page
+ */
+main.landing
+	display: grid
+	grid-column: 2 / 3
+	grid-row: 2 / 3
+	+photoThumbnailGrid
+
+/**
+ *	Albums page
+ */
+main.albums
+	grid-column: 2 / 3
+	grid-row: 2 / 3
+	display: grid
+	grid-template-columns: 1fr
+	grid-template-rows: auto $units / 4 auto
+	align-content: start
+
+	section.teaser
+		grid-row: 1
+		grid-column: 1
+		display: grid
+		grid-template-columns: 1fr
+		grid-template-rows: auto auto
+
+		figure
+			grid-row: 1 / 4
+			grid-column: 1 / 4
+			display: grid
+			grid-template-rows: 1fr
+			grid-template-columns: 1fr
+
+			picture.photo
+				grid-row: 1
+				grid-column: 1
+
+				+break(min-max, 0, $break-0)
+					height: 25vh
+				+break(min-max, $break-0, $break-1)
+					height: 30vh
+				+break(min-max, $break-1, $break-2)
+					height: 40vh
+				+break(min, $break-2)
+					height: 50vh
+
+				img
+					display: block
+					width: 100%
+					height: auto
+					opacity: 0
+					+transitionWithProperties(opacity, 400ms)
+
+				&.loaded
+					height: unset
+					img
+						opacity: 1
+
+		figcaption
+			z-index: 1
+			grid-row: 3 / 4
+			grid-column: 1 / 4
+			background-color: rgba($black, 0.75)
+			color: $white
+
+			+break(min-max, 0, $break-1)
+				padding: $units / 2
+			+break(min-max, $break-1, $break-2)
+				padding: $units
+			+break(min, $break-2)
+				padding: $units * 1.5
+
+	section.photos
+		grid-row: 3
+		+photoThumbnailGrid

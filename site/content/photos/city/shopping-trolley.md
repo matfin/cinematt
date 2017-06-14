@@ -1,12 +1,12 @@
 ---
-title:		"shopping-trolley"
+title:		"Shopping trolley"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 15:33:25+00:00"
 album:		"city"
 filename:		"shopping-trolley.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/shopping-trolley"
 cl_version:		1497000412
 format:		"tiff"

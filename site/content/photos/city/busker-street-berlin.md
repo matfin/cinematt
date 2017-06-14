@@ -1,12 +1,12 @@
 ---
-title:		"busker-street-berlin"
+title:		"Street music"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-07-11 00:06:00+00:00"
 album:		"city"
 filename:		"busker-street-berlin.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/busker-street-berlin"
 cl_version:		1497000217
 format:		"tiff"

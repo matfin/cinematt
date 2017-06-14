@@ -1,12 +1,12 @@
 ---
-title:		"dublin-street"
+title:		"Shops"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-16 20:09:10+00:00"
 album:		"city"
 filename:		"dublin-street.md"
-series:		""
+series:		"dublin"
 cl_public_id:		"city/dublin-street"
 cl_version:		1497000282
 format:		"tiff"

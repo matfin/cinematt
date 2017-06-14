@@ -1,12 +1,12 @@
 ---
-title:		"messe-nord-race-terrace"
+title:		"Race terrace"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin"
 date:		"2016-12-09 13:15:08+00:00"
 album:		"city"
 filename:		"messe-nord-race-terrace.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/messe-nord-race-terrace"
 cl_version:		1497000340
 format:		"tiff"

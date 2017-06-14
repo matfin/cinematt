@@ -1,12 +1,12 @@
 ---
-title:		"fontane_trevi"
+title:		"Fontane Trevi"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Rome, Italy"
 date:		"2016-01-08 16:34:29+00:00"
 album:		"city"
 filename:		"fontane-trevi.md"
-series:		""
+series:		"rome"
 cl_public_id:		"city/fontane_trevi"
 cl_version:		1497000306
 format:		"tiff"

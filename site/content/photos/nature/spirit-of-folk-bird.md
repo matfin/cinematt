@@ -1,12 +1,12 @@
 ---
-title:		"spirit-of-folk-bird"
+title:		"Spirit of Folk"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dunderry, Ireland"
 date:		"2011-09-24 16:00:49+00:00"
 album:		"nature"
 filename:		"spirit-of-folk-bird.md"
-series:		""
+series:		"animals"
 cl_public_id:		"nature/spirit-of-folk-bird"
 cl_version:		1497005117
 format:		"tiff"

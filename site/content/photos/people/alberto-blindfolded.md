@@ -1,12 +1,12 @@
 ---
-title:		"alberto-blindfolded"
+title:		"Alberto blindfolded"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-04-19 09:45:55+00:00"
 album:		"people"
 filename:		"alberto-blindfolded.md"
-series:		""
+series:		"unicorns"
 cl_public_id:		"people/alberto-blindfolded"
 cl_version:		1497005300
 format:		"tiff"

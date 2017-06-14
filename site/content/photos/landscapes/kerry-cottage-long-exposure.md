@@ -1,12 +1,12 @@
 ---
-title:		"kerry-cottage-long-exposure"
+title:		"Kerry Cottage"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2011-12-10 00:53:56+00:00"
 album:		"landscapes"
 filename:		"kerry-cottage-long-exposure.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"landscapes/kerry-cottage-long-exposure"
 cl_version:		1497004700
 format:		"tiff"

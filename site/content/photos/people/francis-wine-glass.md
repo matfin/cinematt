@@ -1,12 +1,12 @@
 ---
-title:		"francis-wine-glass"
+title:		"Wine glass"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"howth, Ireland"
 date:		"2015-12-20 01:34:34+00:00"
 album:		"people"
 filename:		"francis-wine-glass.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/francis-wine-glass"
 cl_version:		1497005427
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"rian-ro-kerry-bar"
+title:		"Reenroe Hotel Bar"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Kerry, Ireland"
 date:		"2012-04-01 17:08:38+00:00"
 album:		"abandoned"
 filename:		"rian-ro-kerry-bar.md"
-series:		""
+series:		"kerry"
 cl_public_id:		"abandoned/rian-ro-kerry-bar"
 cl_version:		1497000108
 format:		"tiff"

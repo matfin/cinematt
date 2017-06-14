@@ -1,12 +1,12 @@
 ---
-title:		"cite-foche-offices"
+title:		"Offices"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-08-21 18:43:21+00:00"
 album:		"abandoned"
 filename:		"cite-foche-offices.md"
-series:		""
+series:		"cite-foche"
 cl_public_id:		"abandoned/cite-foche-offices"
 cl_version:		1497000068
 format:		"tiff"

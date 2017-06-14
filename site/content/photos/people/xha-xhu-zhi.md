@@ -1,12 +1,12 @@
 ---
-title:		"xha-xhu-zhi"
+title:		"Xha xhu zhi"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Pai, Thailand"
 date:		"2006-07-24 08:43:08+00:00"
 album:		"people"
 filename:		"xha-xhu-zhi.md"
-series:		""
+series:		"portraits"
 cl_public_id:		"people/xha-xhu-zhi"
 cl_version:		1497005604
 format:		"tiff"

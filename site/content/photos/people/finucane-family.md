@@ -1,12 +1,12 @@
 ---
-title:		"finucane-family"
+title:		"The Finucane family"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Athlone, Ireland"
 date:		"2017-02-19 14:25:31+00:00"
 album:		"people"
 filename:		"finucane-family.md"
-series:		""
+series:		"family"
 cl_public_id:		"people/finucane-family"
 cl_version:		1497005427
 format:		"tiff"

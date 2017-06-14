@@ -1,12 +1,12 @@
 ---
-title:		"mossy-drums"
+title:		"Mossy on drums"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Kilkenny, Ireland"
 date:		"2013-03-02 15:22:06+00:00"
 album:		"experimental"
 filename:		"mossy-drums.md"
-series:		""
+series:		"candid"
 cl_public_id:		"experimental/mossy-drums"
 cl_version:		1497004402
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"prairie-dawgs-connor"
+title:		"Prairie Dawgs - Connor"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Dublin, Ireland"
 date:		"2011-04-05 23:08:11+00:00"
 album:		"music"
 filename:		"prairie-dawgs-connor.md"
-series:		""
+series:		"prairie-dawgs"
 cl_public_id:		"music/prairie-dawgs-connor"
 cl_version:		1497004878
 format:		"tiff"

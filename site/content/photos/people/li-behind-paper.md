@@ -1,12 +1,12 @@
 ---
-title:		"li-behind-paper"
+title:		"Li's newspaper"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2013-02-15 14:05:50+00:00"
 album:		"people"
 filename:		"li-behind-paper.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/li-behind-paper"
 cl_version:		1497005506
 format:		"tiff"

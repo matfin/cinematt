@@ -1,12 +1,12 @@
 ---
-title:		"aideens-rock-anna"
+title:		"Aideen's Grave"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2014-04-06 20:22:54+00:00"
 album:		"people"
 filename:		"aideens-rock-anna.md"
-series:		""
+series:		"outdoors"
 cl_public_id:		"people/aideens-rock-anna"
 cl_version:		1497005298
 format:		"tiff"

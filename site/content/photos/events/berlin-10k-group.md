@@ -1,12 +1,12 @@
 ---
-title:		"berlin-10k-group"
+title:		"Berlin 10k participants"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-05-14 12:12:56+00:00"
 album:		"events"
 filename:		"berlin-10k-group.md"
-series:		""
+series:		"berlin-run"
 cl_public_id:		"events/berlin-10k-group"
 cl_version:		1497002554
 format:		"tiff"

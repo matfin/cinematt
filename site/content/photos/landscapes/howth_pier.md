@@ -1,12 +1,12 @@
 ---
-title:		"howth_pier"
+title:		"Howth Pier"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2015-12-27 16:12:23"
 album:		"landscapes"
 filename:		"howth-pier.md"
-series:		""
+series:		"howth"
 cl_public_id:		"landscapes/howth_pier"
 cl_version:		1497004696
 format:		"tiff"

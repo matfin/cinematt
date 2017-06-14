@@ -1,12 +1,12 @@
 ---
-title:		"anna-portfolio-closeup"
+title:		"Portfolio shot"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2017-05-26 20:25:56+00:00"
 album:		"people"
 filename:		"anna-portfolio-closeup.md"
-series:		""
+series:		"portfolio"
 cl_public_id:		"people/anna-portfolio-closeup"
 cl_version:		1497005335
 format:		"tiff"

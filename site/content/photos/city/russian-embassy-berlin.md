@@ -1,12 +1,12 @@
 ---
-title:		"russian-embassy-berlin"
+title:		"Russian Embassy"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2016-12-09 11:24:15+00:00"
 album:		"city"
 filename:		"russian-embassy-berlin.md"
-series:		""
+series:		"berlin"
 cl_public_id:		"city/russian-embassy-berlin"
 cl_version:		1497000393
 format:		"tiff"

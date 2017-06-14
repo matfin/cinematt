@@ -1,12 +1,12 @@
 ---
-title:		"li"
+title:		"Li"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-06-28 18:21:16+00:00"
 album:		"people"
 filename:		"li.md"
-series:		""
+series:		"friends"
 cl_public_id:		"people/li"
 cl_version:		1497005501
 format:		"tiff"

@@ -1,12 +1,12 @@
 ---
-title:		"anna-light-museum"
+title:		"Museum of Signs"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 16:55:50+00:00"
 album:		"people"
 filename:		"anna-light-museum.md"
-series:		""
+series:		"signs-museum"
 cl_public_id:		"people/anna-light-museum"
 cl_version:		1497005347
 format:		"tiff"

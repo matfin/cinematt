@@ -1,12 +1,12 @@
 ---
-title:		"howth-harbour-lighthouse"
+title:		"Howth Harbour lighthouse"
 type:		"photos"
 mediatype:		"upload"
-description:		"TBC"
+location:		"Howth, Ireland"
 date:		"2011-10-21 23:10:23+00:00"
 album:		"landscapes"
 filename:		"howth-harbour-lighthouse.md"
-series:		""
+series:		"howth"
 cl_public_id:		"landscapes/howth-harbour-lighthouse"
 cl_version:		1497004697
 format:		"tiff"
