@@ -8,6 +8,9 @@ header
 	align-items: center
 	background-color: rgba($white, 0.8)
 
+	h1
+		margin-left: $units
+
 	button 
 		svg.button-close
 			display: none
@@ -73,14 +76,6 @@ nav
 			display: grid
 			grid-auto-flow: column
 			grid-gap: $units
-
-			li
-				&:after
-					content: '/'
-
-				&:last-of-type
-					&:after
-						content: none
 
 /**
  *	Teaser photo
