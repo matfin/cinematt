@@ -10,7 +10,44 @@
 			<figure>
 				{{ partial "picture_wide" . }}
 				<figcaption>
-					{{ .Params.title }} - {{ .Params.location }}
+					<h2>
+						{{ .Params.title }} &ndash; {{ .Params.location }} &ndash; {{ dateFormat "January 2006" .Params.date }}
+					</h2>
+					<ul>
+						<li>
+							<b>Aperture:</b><span>{{ .Params.aperture }}</span>
+						</li>
+						<li>
+							<b>ISO:</b><span>{{ .Params.iso }}</span>
+						</li>
+						<li>
+							<b>Shutter speed:</b><span>{{ .Params.shutter_speed }}</span>
+						</li>
+						<li>
+							<b>White balance:</b><span>{{ .Params.white_balance }}</span>
+						</li>
+						<li>
+							<b>Colour temperature:</b><span>{{ .Params.colour_temp }}k</span>
+						</li>
+						<li>
+							<b>Program:</b><span>{{ .Params.program }}</span>
+						</li>
+						<li>
+							<b>Exposure mode:</b><span>{{ .Params.exposure_mode }}</span>
+						</li>
+						<li>
+							<b>Metering:</b><span>{{ .Params.metering }}</span>
+						</li>
+						<li>
+							<b>Flash:</b><span>{{ .Params.flash }}</span>
+						</li>
+						<li>
+							<b>Camera:</b><span>{{ .Params.camera_model }}</span>
+						</li>
+						<li>
+							<b>Lens:</b><span>{{ .Params.lens_info }}</span>
+						</li>
+					</ul>
 				</figcaption>
 			</figure>
 		</main>
