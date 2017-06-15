@@ -1,4 +1,5 @@
 {{ $base 		:= .Site.Params.cl_media_base }}
+{{ $date 		:= string .Params.date}}
 {{ $colours 	:= first 5 .Params.colours }}
 {{ $width 		:= .Params.width }}
 {{ $height 		:= .Params.height }}
@@ -18,7 +19,7 @@
 		{{ end }}
 		<figcaption>
 			<h3>
-				{{ .Params.title }} &ndash; {{ .Params.location }}
+				{{ .Params.title }} &ndash; {{ .Params.location }} - {{ dateFormat "2006" $date }}
 			</h3>
 		</figcaption>
 	</figure>

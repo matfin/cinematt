@@ -29,12 +29,14 @@ header
 	+break(min, $break-2)
 		button
 			display: none
-
+/**
+ *	navigation
+ */
 nav
 	+break(max, $break-2)
 		z-index: $z-top
-		grid-row: 2 / 4
-		grid-column: 2 / 4
+		grid-row: 2 / 5
+		grid-column: 2 / 3
 		background-color: rgba($white, 0.96)
 
 		display: grid
@@ -73,14 +75,70 @@ nav
 			grid-gap: $units
 
 /**
+ *	Teaser photo
+ */
+section.teaser
+	grid-row: 1
+	grid-column: 1
+	display: grid
+	grid-template-columns: 1fr
+	grid-template-rows: auto auto
+
+	figure
+		grid-row: 1 / 4
+		grid-column: 1 / 4
+		display: grid
+		grid-template-rows: 1fr
+		grid-template-columns: 1fr
+
+		picture.photo
+			grid-row: 1
+			grid-column: 1
+
+			+break(min-max, 0, $break-0)
+				height: 25vh
+			+break(min-max, $break-0, $break-1)
+				height: 30vh
+			+break(min-max, $break-1, $break-2)
+				height: 40vh
+			+break(min, $break-2)
+				height: 50vh
+
+			img
+				display: block
+				width: 100%
+				height: auto
+				opacity: 0
+				+transitionWithProperties(opacity, 400ms)
+
+			&.loaded
+				height: unset
+				img
+					opacity: 1
+
+	figcaption
+		z-index: 1
+		grid-row: 3 / 4
+		grid-column: 1 / 4
+		background-color: rgba($black, 0.75)
+		color: $white
+
+		+break(min-max, 0, $break-1)
+			padding: $units / 2
+		+break(min-max, $break-1, $break-2)
+			padding: $units
+		+break(min, $break-2)
+			padding: $units * 1.5
+
+
+/**
  *	Footer
  */
 footer
-	grid-row: 3 / 4
+	grid-row: 4 / 5
 	grid-column: 2 / 3
 
 	display: grid
-	// grid-template-rows: $units * 4 1fr $units * 4
 	grid-template-columns: 1fr
 	align-items: center
 	justify-items: center

@@ -18,59 +18,83 @@ main.albums
 	grid-template-rows: auto $units / 4 auto
 	align-content: start
 
-	section.teaser
-		grid-row: 1
-		grid-column: 1
-		display: grid
-		grid-template-columns: 1fr
-		grid-template-rows: auto auto
-
-		figure
-			grid-row: 1 / 4
-			grid-column: 1 / 4
-			display: grid
-			grid-template-rows: 1fr
-			grid-template-columns: 1fr
-
-			picture.photo
-				grid-row: 1
-				grid-column: 1
-
-				+break(min-max, 0, $break-0)
-					height: 25vh
-				+break(min-max, $break-0, $break-1)
-					height: 30vh
-				+break(min-max, $break-1, $break-2)
-					height: 40vh
-				+break(min, $break-2)
-					height: 50vh
-
-				img
-					display: block
-					width: 100%
-					height: auto
-					opacity: 0
-					+transitionWithProperties(opacity, 400ms)
-
-				&.loaded
-					height: unset
-					img
-						opacity: 1
-
-		figcaption
-			z-index: 1
-			grid-row: 3 / 4
-			grid-column: 1 / 4
-			background-color: rgba($black, 0.75)
-			color: $white
-
-			+break(min-max, 0, $break-1)
-				padding: $units / 2
-			+break(min-max, $break-1, $break-2)
-				padding: $units
-			+break(min, $break-2)
-				padding: $units * 1.5
-
 	section.photos
 		grid-row: 3
 		+photoThumbnailGrid
+
+/**
+ *	Photo detail page
+ */
+main.photo
+	grid-column: 1 / 4
+	grid-row: 2 / 3
+
+	figure
+		display: grid
+		grid-template-columns: 1fr minmax(auto, $max-width) 1fr
+		grid-template-rows: auto auto
+		grid-row-gap: $units * 2
+
+		picture
+			grid-row: 1 / 2
+			grid-column: 1 / 4
+
+			+break(max, $break-0)
+				height: 20vh
+			+break(min-max, $break-0, $break-1)
+				height: 25vh
+			+break(min-max, $break-1, $break-2)
+				height: 30vh
+			+break(min-max, $break-2, $break-3)
+				height: 40vh
+			+break(min, $break-3)
+				height: 60vh
+
+			&.loaded
+				height: unset
+				img
+					opacity: 1
+
+			&.orientation-portrait
+				img
+					margin: 0 auto
+					+break(min, $break-1)
+						width: auto
+						height: 75vh
+
+
+		img
+			display: block
+			width: 100%
+			height: auto
+			opacity: 0
+			+transitionWithProperties(opacity, 400ms)
+
+		figcaption
+			grid-row: 2 / 3
+			grid-column: 2 / 3
+			display: grid
+			grid-template-rows: repeat(2, auto)
+			grid-template-columns: $units 1fr $units
+			grid-row-gap: $units * 2
+
+			h2
+				grid-row: 1 / 2
+				grid-column: 2 / 3
+
+			ul
+				grid-row: 2 / 3
+				grid-column: 2 / 3
+				display: grid
+				grid-template-columns: 1fr
+				grid-template-rows: 1fr
+				grid-row-gap: $units
+
+				+break(min, $break-0)
+					grid-template-columns: repeat(2, 1fr)
+
+				li
+					display: grid
+					grid-template-columns: 1fr
+					grid-template-rows: repeat(2, 1fr)
+					grid-row-gap: $units / 2
