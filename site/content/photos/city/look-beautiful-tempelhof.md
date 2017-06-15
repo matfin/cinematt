@@ -1,5 +1,5 @@
 ---
-title:		"Look beautiful"
+title:		"Beautiful"
 type:		"photos"
 mediatype:		"upload"
 location:		"Berlin, Germany"

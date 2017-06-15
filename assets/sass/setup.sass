@@ -6,8 +6,9 @@
 body
 	display: grid
 	grid-template-columns: 1fr minmax(auto, $max-width) 1fr
-	grid-template-rows: $units * 4 1fr $units * 6
+	grid-template-rows: ($units * 4) 1fr ($units * 2) ($units * 6)
 	overflow-x: hidden
+	height: 100vh
 	+break(max, $break-3)
 		padding: $units / 4
 

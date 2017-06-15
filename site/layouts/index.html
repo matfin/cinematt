@@ -6,7 +6,7 @@
 	<body>
 		{{ partial "header" . }}
 		{{ partial "nav" . }}
-		<main class="page landing" role="main">
+		<main class="page landing">
 			{{ $photos := where .Data.Pages "Section" "photos" }}
 			{{ range ($photos.ByParam "series") }}
 				{{ .Render "card" }}

@@ -1,5 +1,5 @@
 ---
-title:		"Tempelhof Floodlight"
+title:		"Tempelhof floodlight"
 type:		"photos"
 mediatype:		"upload"
 location:		"Berlin, Germany"

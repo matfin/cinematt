@@ -61,6 +61,7 @@ window.cinematt.utils = {
 	},
 
 	primeImage: (img) => {
+
 		let src 	= img.getAttribute('data-src'),
 			srcset	= img.getAttribute('data-srcset'),
 			parent  = img.parentNode;

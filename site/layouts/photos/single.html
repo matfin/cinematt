@@ -5,8 +5,18 @@
 	</head>
 	<body>
 		{{ partial "header" . }}
-		<main>
-			{{ .Content }}
+		{{ partial "nav" . }}
+		<main class="page photo">
+			<figure>
+				{{ partial "picture_wide" . }}
+				<figcaption>
+					<ul>
+						<li>
+							Testing this
+						</li>
+					</ul>
+				</figcaption>
+			</figure>
 		</main>
 		{{ partial "footer" . }}
 		{{ partial "scripts" }}

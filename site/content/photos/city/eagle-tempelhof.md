@@ -1,5 +1,5 @@
 ---
-title:		"Tempehol eagle"
+title:		"Tempehof eagle"
 type:		"photos"
 mediatype:		"upload"
 location:		"Berlin, Germany"
