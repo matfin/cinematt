@@ -31,12 +31,12 @@ main.photo
 
 	figure
 		display: grid
-		grid-template-columns: 1fr
-		grid-template-rows: repeat(2, 1fr)
+		grid-template-columns: 1fr minmax(auto, $max-width) 1fr
+		grid-template-rows: minmax(40vh, auto) auto
 
 		picture
 			grid-row: 1 / 2
-			grid-column: 1 / 2
+			grid-column: 1 / 4
 
 		img
 			display: block
@@ -45,4 +45,4 @@ main.photo
 
 		figcaption
 			grid-row: 2 / 3
-			grid-column: 1 / 2
+			grid-column: 2 / 3

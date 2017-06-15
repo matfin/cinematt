@@ -10,11 +10,7 @@
 			<figure>
 				{{ partial "picture_wide" . }}
 				<figcaption>
-					<ul>
-						<li>
-							Testing this
-						</li>
-					</ul>
+					{{ .Params.title }} - {{ .Params.location }}
 				</figcaption>
 			</figure>
 		</main>
