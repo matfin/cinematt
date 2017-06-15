@@ -20,10 +20,10 @@ colours:
 - "#7F7F7E"
 exposure_mode:		"Auto"
 program:		"Aperture-priority AE"
-aperture:		undefined
+aperture:		"No info"
 focal_length:		"24.0 mm"
 iso:		"320"
-shutter_speed:		undefined
+shutter_speed:		"No info"
 metering:		"Multi-segment"
 flash:		"Off, Did not fire"
 white_balance:		"Manual"
