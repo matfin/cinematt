@@ -74,6 +74,14 @@ nav
 			grid-auto-flow: column
 			grid-gap: $units
 
+			li
+				&:after
+					content: '/'
+
+				&:last-of-type
+					&:after
+						content: none
+
 /**
  *	Teaser photo
  */
