@@ -24,10 +24,10 @@ colours:
 - "#C0AFA3"
 exposure_mode:		"Manual"
 program:		"Manual"
-aperture:		undefined
+aperture:		"No info"
 focal_length:		"11.0 mm"
 iso:		"200"
-shutter_speed:		undefined
+shutter_speed:		"No info"
 metering:		"Center-weighted average"
 flash:		"No Flash"
 white_balance:		"Manual"

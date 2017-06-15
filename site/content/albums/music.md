@@ -1,6 +1,6 @@
 ---
 date: 2017-05-31T13:47:34Z
-description: "Music"
+description: "Musicians are the engineers of the soul."
 identifier: "music"
 title: "Music"
 weight: "8"

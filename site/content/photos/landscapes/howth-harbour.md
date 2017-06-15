@@ -1,5 +1,5 @@
 ---
-title:		"Howth Harbout"
+title:		"Howth Harbour"
 type:		"photos"
 mediatype:		"upload"
 location:		"Howth, Ireland"

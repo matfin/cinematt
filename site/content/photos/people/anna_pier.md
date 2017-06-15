@@ -35,10 +35,10 @@ colours:
 - "#192C1B"
 exposure_mode:		"Auto"
 program:		"Aperture-priority AE"
-aperture:		undefined
+aperture:		"No info"
 focal_length:		"16.0 mm"
 iso:		"1250"
-shutter_speed:		undefined
+shutter_speed:		"No info"
 metering:		"Multi-segment"
 flash:		"Off, Did not fire"
 white_balance:		"Auto"

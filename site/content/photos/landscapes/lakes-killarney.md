@@ -31,10 +31,10 @@ colours:
 - "#2E3745"
 exposure_mode:		"Manual"
 program:		"Manual"
-aperture:		undefined
+aperture:		"No info"
 focal_length:		"35.0 mm"
 iso:		"200"
-shutter_speed:		undefined
+shutter_speed:		"No info"
 metering:		"Multi-segment"
 flash:		"Off, Did not fire"
 white_balance:		"Manual"
