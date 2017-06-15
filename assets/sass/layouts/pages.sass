@@ -32,7 +32,8 @@ main.photo
 	figure
 		display: grid
 		grid-template-columns: 1fr minmax(auto, $max-width) 1fr
-		grid-template-rows: auto $units * 4 auto
+		grid-template-rows: auto auto
+		grid-row-gap: $units * 4
 
 		picture
 			grid-row: 1 / 2
@@ -52,6 +53,13 @@ main.photo
 			&.loaded
 				height: unset
 
+			&.orientation-portrait
+				img
+					margin: 0 auto
+					+break(min, $break-1)
+						width: auto
+						height: 75vh
+
 
 		img
 			display: block
@@ -59,5 +67,5 @@ main.photo
 			height: auto
 
 		figcaption
-			grid-row: 3 / 4
+			grid-row: 2 / 3
 			grid-column: 2 / 3
