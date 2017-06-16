@@ -37,12 +37,15 @@ window.cinematt.utils = {
 
 	toggleMenuReveal: () => {
 		let nav 	= document.querySelector('nav'),
+			body	= document.querySelector('body'),
 			button	= document.querySelector('button');
 
 		if(nav.classList.toggle('revealed')) {
+			body.classList.add('nav-revealed');
 			button.classList.add('opened');
 		}
 		else {
+			body.classList.remove('nav-revealed');
 			button.classList.remove('opened');
 		}
 	},
