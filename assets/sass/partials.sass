@@ -38,8 +38,11 @@ header
 nav
 	+break(max, $break-2)
 		z-index: $z-top
-		grid-row: 2 / 5
-		grid-column: 2 / 3
+		position: fixed
+		top: $units * 4
+		left: 0
+		width: 100vw
+		height: calc(100vh - #{$units * 4})
 		background-color: rgba($white, 0.96)
 
 		display: grid
@@ -48,9 +51,6 @@ nav
 
 		+transitionWithProperties(transform)
 		transform: translate3d(calc(100% + 4px), 0, 0)
-
-		&.revealed
-			transform: translate3d(0, 0, 0)
 
 		ul
 			grid-row: 1
@@ -61,6 +61,9 @@ nav
 			grid-template-rows: auto
 			align-items: center
 			justify-items: center
+
+		&.revealed
+			transform: translate3d(0, 0, 0)
 
 	+break(min, $break-2)
 		grid-row: 1 / 2
@@ -76,6 +79,7 @@ nav
 			display: grid
 			grid-auto-flow: column
 			grid-gap: $units
+			margin-right: $units
 
 /**
  *	Teaser photo
