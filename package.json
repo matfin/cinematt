@@ -4,7 +4,7 @@
   "description": "Photography website",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Tests are coming soon!\" && exit 1",
+    "test": "echo \"Tests are coming soon!\" && exit 0",
     "start": "./node_modules/.bin/gulp"
   },
   "repository": {
