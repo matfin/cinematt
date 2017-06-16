@@ -1,0 +1,52 @@
+version: '3'
+
+services:
+  cinematt-site-build:
+    container_name: cinematt_site_build
+    build:
+      context: .docker/site
+      dockerfile: Dockerfile
+      args: 
+        hugo_version: "0.22"
+    volumes:
+      - ./:/opt:rw
+    command: hugo -s /opt/site -b http://cinematt.build --config=./site/build.yml -d ../public
+
+  cinematt-nginx-build:
+    container_name: cinematt_nginx_build
+    build:
+      context: .docker/nginx
+      dockerfile: Dockerfile
+      args:
+        nginx_conf: nginx.build.conf
+    volumes:
+      - ./public:/opt/public:ro
+    links:
+      - cinematt-site-build
+    ports: 
+      - "80:80"
+    command: nginx -g "daemon off;"
+
+  cinematt-js-build:
+    container_name: cinematt_js_build
+    environment:
+      - SCRIPTS_DEST=./public/js
+      - SVG_DEST=./public/svg
+      - FAVICONS_DEST=./public/favicons
+    image: node:7.10.0-alpine
+    volumes:
+      - ./:/opt:rw
+    links:
+      - cinematt-site-build
+    depends_on:
+      - cinematt-site-build
+    command: sh -c "cd /opt && npm install && npm start"
+
+  cinemat-sass-build:
+    container_name: cinematt_sass_build
+    image: ruby:2.1-alpine
+    volumes:
+      - ./:/opt:rw
+    links:
+      - cinematt-site-build
+    command: sh -c "gem install sass && sass /opt/assets/sass/main.sass:/opt/public/css/main.css --style compressed"

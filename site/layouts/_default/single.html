@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+	<head>
+		{{ partial "head" . }}
+	</head>
+	<body>
+		{{ partial "header" . }}
+		{{ partial "nav" . }}
+		<main class="page {{ .Params.title | urlize }}">
+			<article>
+				{{ .Content }}
+			</article>
+			<aside>
+				{{ $photo_id := string .Params.photo }}
+				{{ $photo := .Site.GetPage "page" $photo_id }}
+				{{ with $photo }}
+					{{ partial "picture_wide" $photo }}
+				{{ end }}
+			</aside>
+		</main>
+		{{ partial "footer" . }}
+		{{ partial "scripts" }}
+	</body>
+</html>

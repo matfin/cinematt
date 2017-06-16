@@ -1,0 +1,36 @@
+=break($type, $param-break-1, $param-break-2: '')
+	@if $type == min
+		@media screen and (min-width: $param-break-1)
+			@content
+	@else if $type == max
+		@media screen and (max-width: $param-break-1)
+			@content
+	@else if $type == min-max
+		@media screen and (min-width: $param-break-1) and (max-width: $param-break-2 - 0.05rem)
+			@content
+
+=transitionWithProperties($props, $ms: $transition-duration)
+	transition-property: $props
+	transition-duration: $ms
+
+=photoThumbnailGrid($gap: $units / 4)
+	display: grid
+	grid-column-gap: $gap
+	grid-row-gap: $gap
+
+	+break(min-max, 0, $break-0)
+		grid-template-columns: 1fr
+
+	+break(min-max, $break-0, $break-2)
+		grid-template-columns: repeat(2, 1fr)
+
+	+break(min, $break-2)
+		grid-template-columns: repeat(3, 1fr)
+
+=photoAlbumGrid($gap: $units / 4)
+	display: grid
+	grid-column-gap: $gap
+	grid-row-gap: $gap
+
+	grid-template-columns: repeat(3, 1fr)
+	grid-template-rows: repeat(3, 33vh)

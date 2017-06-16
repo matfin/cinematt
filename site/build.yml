@@ -1,0 +1,23 @@
+---
+baseUrl:                "http://cinematt.build"
+languageCode:           "en-ie"
+title:                  "[BUILD] Cinematt"
+disableLiveReload:      true
+watch:                  false
+preservetaxonomynames:  true
+
+params:
+  description:          "Photography website"
+  author:               "Matt Finucane"
+  cl_media_base:        "https://res.cloudinary.com/matt-finucane-portfolio/"
+  intro_photo:          "berlin-expo-messe-nord.md"
+  noindex:              true
+
+menu:
+  main:
+    - name: "About"
+      identifier: "about"
+      url: "/about"
+      weight: 1
+...
+

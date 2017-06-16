@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+	<head>
+		{{ partial "head" . }}
+	</head>
+	<body>
+		{{ partial "header" . }}
+		{{ partial "nav" . }}
+		<main class="page landing">
+			{{ $intro := string .Site.Params.intro_photo }}
+			{{ $photos := where .Data.Pages "Section" "photos" }}
+			{{ range ($photos.ByParam "series") }}
+				{{ .Render "card" }}
+			{{ end }}
+		</main>
+		{{ partial "footer" . }}
+		{{ partial "scripts" }}
+	</body>
+</html>

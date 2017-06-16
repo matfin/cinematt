@@ -1,0 +1,26 @@
+{{ $base 		:= .Site.Params.cl_media_base }}
+{{ $date 		:= string .Params.date}}
+{{ $colours 	:= first 5 .Params.colours }}
+{{ $width 		:= .Params.width }}
+{{ $height 		:= .Params.height }}
+{{ $portrait 	:= ( lt $width $height) }}
+<a class="photo-card orientation-{{ if $portrait }}portrait{{ else }}landscape{{end}}" href="{{ .Permalink }}">
+	<figure data-colours="{{ delimit $colours "," }}">
+		{{ if $portrait }}
+			<img 
+				data-src="{{ $base }}/image/upload/w_480/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg"
+				data-srcset="{{ $base }}/image/upload/w_480/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 1x, {{ $base }}/image/upload/w_960/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 2x"
+			/>
+		{{ else }}
+			<img 
+				data-src="{{ $base }}/image/upload/h_480/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg"
+				data-srcset="{{ $base }}/image/upload/h_480/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 1x, {{ $base }}/image/upload/h_960/v{{ .Params.cl_version }}/{{ .Params.cl_public_id }}.jpg 2x"
+			/>
+		{{ end }}
+		<figcaption>
+			<h3>
+				{{ .Params.title }} &ndash; {{ .Params.location }} - {{ dateFormat "2006" $date }}
+			</h3>
+		</figcaption>
+	</figure>
+</a>

@@ -1,0 +1,42 @@
+---
+title:		"Bankomat"
+type:		"photos"
+mediatype:		"upload"
+location:		"Berlin, Germany"
+date:		"2016-07-17 02:54:02+00:00"
+album:		"city"
+filename:		"bankomat-berlin.md"
+series:		"berlin"
+cl_public_id:		"city/bankomat-berlin"
+cl_version:		1497000177
+format:		"tiff"
+bytes:		4815356
+width:		2560
+height:		1440
+colours:
+- "#0A0300"
+- "#000000"
+- "#1D1200"
+- "#774800"
+- "#FFF600"
+- "#000001"
+- "#0E0C06"
+- "#0E0806"
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		"2.8"
+focal_length:		"24.0 mm"
+iso:		"500"
+shutter_speed:		"1/80"
+metering:		"Center-weighted average"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"2950"
+has_crop:		"true"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"24-70mm f/2.8"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---

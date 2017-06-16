@@ -1,0 +1,22 @@
+{{ $menu 	:= .Site.Menus.main }}
+{{ $albums 	:= where .Site.Pages "Section" "albums" }}
+{{ $title 	:= .Page.Params.title }}
+<nav>
+	<ul>
+		{{ range first 8 $albums }}
+			{{ $active 	:= eq $title .Params.Title }}
+			<li>
+				<a href="{{ .Permalink }}" {{ if $active }}class="active"{{ end }}>
+					{{ .Params.title }}
+				</a>
+			</li>
+		{{ end }}
+		{{ range $menu }}
+			<li>
+				<a href="{{ .URL }}">
+					{{ .Name }}
+				</a>
+			</li>
+		{{ end }}
+	</ul>
+</nav>

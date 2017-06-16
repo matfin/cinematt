@@ -1,0 +1,43 @@
+---
+title:		"Frontier"
+type:		"photos"
+mediatype:		"upload"
+location:		"Ahlbeck, German - Polish border"
+date:		"2014-03-08 17:37:55+00:00"
+album:		"city"
+filename:		"border.md"
+series:		"abstract"
+cl_public_id:		"city/border"
+cl_version:		1497000213
+format:		"tiff"
+bytes:		3179564
+width:		961
+height:		1440
+colours:
+- "#666C77"
+- "#395B79"
+- "#626D74"
+- "#465E7B"
+- "#67605D"
+- "#46464C"
+- "#666064"
+- "#42484B"
+- "#74A3C1"
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		"2.8"
+focal_length:		"50.0 mm"
+iso:		"200"
+shutter_speed:		"1/1000"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"5400"
+has_crop:		"true"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"Nikon Nikkor 50mm f/1.4"
+artist:		"No artist info"
+x_resolution:		"300"
+y_resolution:		"300"
+---
