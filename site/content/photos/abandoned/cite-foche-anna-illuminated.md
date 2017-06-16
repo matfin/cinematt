@@ -7,6 +7,7 @@ date:		"2016-08-21 19:07:18+00:00"
 album:		"abandoned"
 filename:		"cite-foche-anna-illuminated.md"
 series:		"cite-foche"
+weight:		6
 cl_public_id:		"abandoned/cite-foche-anna-illuminated"
 cl_version:		1497000046
 format:		"tiff"

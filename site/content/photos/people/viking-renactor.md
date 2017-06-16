@@ -7,6 +7,7 @@ date:		"2011-09-24 17:19:06+00:00"
 album:		"people"
 filename:		"viking-renactor.md"
 series:		"spirit-of-folk"
+weight: 	5
 cl_public_id:		"people/viking-renactor"
 cl_version:		1497005597
 format:		"tiff"

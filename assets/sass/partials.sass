@@ -2,84 +2,80 @@
  *	Header
  */
 header
-	grid-row: 1 / 2
-	grid-column: 2 / 3
-	display: grid
-	align-items: center
-	background-color: rgba($white, 0.8)
-
-	h1
-		margin-left: $units
-
-	button 
-		svg.button-close
-			display: none
-
-		&.opened
-			svg.button-menu
-				display: none
-			svg.button-close
-				display: unset
 
 	+break(max, $break-2)
-		grid-template-columns: 1fr $units * 4
-		grid-template-rows: 1fr
-
-		button 
-			grid-column: 2 / 3
-			height: $units * 4
-
-	+break(min, $break-2)
-		button
-			display: none
-/**
- *	navigation
- */
-nav
-	+break(max, $break-2)
-		z-index: $z-top
-		position: fixed
-		top: $units * 4
-		left: 0
-		width: 100vw
-		height: calc(100vh - #{$units * 4})
-		background-color: rgba($white, 0.96)
-
+		grid-row: 1 / 5
+		grid-column: 2 / 3
 		display: grid
-		grid-template-rows: minmax(auto, 75vh)
-		grid-template-columns: 1fr
+		grid-template-rows: minmax($units * 4, $units * 8) 1fr 
+		grid-template-columns: $units repeat(2, auto) $units
+		align-items: center
+		background-color: $white
+		overflow-x: hidden
 
-		+transitionWithProperties(transform)
-		transform: translate3d(calc(100% + 4px), 0, 0)
+		> a
+			grid-column: 2 / 3
+			grid-row: 1 / 2
 
-		ul
-			grid-row: 1
-			grid-column: 1
+		button
+			grid-column: 3 / 4
+			grid-row: 1 / 2
+			justify-self: end
 
-			display: grid
-			grid-template-columns: 1fr
-			grid-template-rows: auto
-			align-items: center
-			justify-items: center
+			svg.button-close
+				display: none
+
+			&.opened
+				svg.button-close
+					display: unset
+				svg.button-menu
+					display: none
 
 		&.revealed
-			transform: translate3d(0, 0, 0)
+			z-index: $z-top
+			nav
+				opacity: 1.0
 
 	+break(min, $break-2)
 		grid-row: 1 / 2
 		grid-column: 2 / 3
-
 		display: grid
-		grid-template-columns: repeat(2, 1fr)
-		grid-template-rows: 1fr
+		grid-template-rows: minmax($units * 4, 1fr)
+		grid-template-columns: $units repeat(2, auto) $units
 		align-items: center
 
-		ul
+		> a
 			grid-column: 2 / 3
+			grid-row: 1 / 2
+				
+		button 
+			display: none
+
+/**
+ *	Navigation
+ */
+nav
+	+break(max, $break-2)
+		grid-column: 1 / 5
+		grid-row: 2 / 3
+		align-self: start
+
+		opacity: 0
+
+		ul
+			display: grid
+			grid-auto-flow: row
+			justify-items: center
+			grid-row-gap: ($units * 3)
+
+	+break(min, $break-2)
+		grid-column: 3 / 4
+		grid-row: 1 / 2
+
+		ul
 			display: grid
 			grid-auto-flow: column
-			grid-gap: $units
-			margin-right: $units
+			justify-items: end
 
 /**
  *	Teaser photo
