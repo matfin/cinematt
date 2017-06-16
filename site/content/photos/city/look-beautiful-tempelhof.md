@@ -7,6 +7,7 @@ date:		"2013-02-15 15:08:56+00:00"
 album:		"city"
 filename:		"look-beautiful-tempelhof.md"
 series:		"tempelhof"
+weight: 	2
 cl_public_id:		"city/look-beautiful-tempelhof"
 cl_version:		1497000456
 format:		"tiff"

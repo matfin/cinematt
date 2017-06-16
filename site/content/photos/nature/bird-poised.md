@@ -7,6 +7,7 @@ date:		"2011-09-24 16:01:53+00:00"
 album:		"nature"
 filename:		"bird-poised.md"
 series:		"spirit-of-folk"
+weight: 	8
 cl_public_id:		"nature/bird-poised"
 cl_version:		1497005045
 format:		"tiff"
