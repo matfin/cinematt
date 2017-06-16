@@ -5,7 +5,6 @@
 	</head>
 	<body>
 		{{ partial "header" . }}
-		{{ partial "nav" . }}
 		<main class="page albums">
 			{{ if .Params.teaser_image}}
 				{{ $teaser 		:= string .Params.teaser_image }}

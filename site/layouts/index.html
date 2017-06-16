@@ -5,7 +5,6 @@
 	</head>
 	<body>
 		{{ partial "header" . }}
-		{{ partial "nav" . }}
 		<main class="page landing">
 			{{ $intro := string .Site.Params.intro_photo }}
 			{{ $photos := where .Data.Pages "Section" "photos" }}
