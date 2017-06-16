@@ -5,7 +5,6 @@
 	</head>
 	<body>
 		{{ partial "header" . }}
-		{{ partial "nav" . }}
 		<main class="page {{ .Params.title | urlize }}">
 			<article>
 				{{ .Content }}

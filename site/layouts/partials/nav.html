@@ -12,8 +12,9 @@
 			</li>
 		{{ end }}
 		{{ range $menu }}
+			{{ $active 	:= eq $title .Name }}
 			<li>
-				<a href="{{ .URL }}">
+				<a href="{{ .URL }}" {{ if $active }}class="active"{{ end }}>
 					{{ .Name }}
 				</a>
 			</li>

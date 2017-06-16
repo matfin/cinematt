@@ -6,12 +6,12 @@
 body
 	display: grid
 	grid-template-columns: 1fr minmax(auto, $max-width) 1fr
-	grid-template-rows: ($units * 4) 1fr ($units * 2) ($units * 6)
+	grid-template-rows: auto 1fr ($units * 2) ($units * 6)
 	
 	&.nav-revealed
-		height: 100vh
-		position: fixed
-		overflow: hidden
+		// height: 100vh
+		// position: fixed
+		// overflow: hidden
 
 ul
 	list-style: none
