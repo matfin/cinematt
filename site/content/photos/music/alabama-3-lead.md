@@ -7,6 +7,7 @@ date:		"2011-05-01 23:31:50+00:00"
 album:		"music"
 filename:		"alabama-3-lead.md"
 series:		"vantastival"
+weight: 	4
 cl_public_id:		"music/alabama-3-lead"
 cl_version:		1497004809
 format:		"tiff"

@@ -8,7 +8,8 @@
 		<main class="page landing">
 			{{ $intro := string .Site.Params.intro_photo }}
 			{{ $photos := where .Data.Pages "Section" "photos" }}
-			{{ range ($photos.ByParam "series") }}
+			
+			{{ range $photos.ByWeight}}
 				{{ .Render "card" }}
 			{{ end }}
 		</main>

@@ -7,6 +7,7 @@ date:		"2011-06-18 13:02:38+00:00"
 album:		"events"
 filename:		"spwc-dublin-waldos.md"
 series:		"outdoors"
+weight: 	7
 cl_public_id:		"events/spwc-dublin-waldos"
 cl_version:		1497002577
 format:		"tiff"
