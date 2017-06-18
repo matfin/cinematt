@@ -10,7 +10,10 @@ h3
 
 ul,
 p
-	font-size: $medium-font-size
+	+break(max, $break-1)
+		font-size: $base-font-size
+	+break(min, $break-1)
+		font-size: $medium-font-size
 
 header 
 	h1
@@ -18,12 +21,20 @@ header
 
 .teaser
 	h1
-		font-size: $large-font-size
+		+break(max, $break-1)
+			font-size: $medium-font-size
+
+		+break(min, $break-1)
+			font-size: $large-font-size
 
 .photo-card
 	h3
-		font-size: $medium-font-size
 		font-weight: $font-weight-normal
+		+break(max, $break-1)
+			font-size: $base-font-size
+
+		+break(min, $break-1)
+			font-size: $medium-font-size
 
 article
 	h2
