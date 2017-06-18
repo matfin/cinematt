@@ -17,7 +17,9 @@ I am also a freelance software engineer and I built this website to learn the CS
 I am from Dublin in Ireland and have been living in Berlin for the last four years. Photography has been a passion of mine for the last fifteen years.
 
 ## Gear
-I shoot on a *Nikon D800* and I have the *Nikon 16mm f2.8 fisheye*, *Nikon 24&ndash;70 f2.8* and *Nikkor 50mm f1.4* lenses. I also have an SB&ndash;400 which I rarely use.
+I shoot on a *Nikon D800* and I have the *Nikon 16mm f2.8 fisheye*, *Nikon 24&ndash;70 f2.8* and *Nikkor 50mm f1.4* lenses. 
+
+I use Adobe Photoshop with Camera Raw to process the images. HDR photos are treated using Photomatix HDR Pro.
 
 ## Terms
 I respect you and your privacy as a visitor to my site. This is why I don't have any third party tracking scripts installed.

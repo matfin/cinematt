@@ -34,7 +34,7 @@ main.photo
 		display: grid
 		grid-template-columns: 1fr minmax(auto, $max-width) 1fr
 		grid-template-rows: auto auto
-		grid-row-gap: $units * 2
+		grid-row-gap: $units * 4
 
 		picture
 			grid-row: 1 / 2
@@ -132,8 +132,11 @@ main.about
 		display: grid
 		grid-template-columns: 1fr
 		grid-template-rows: auto
-		grid-row-gap: $units
-		align-content: center
+		grid-row-gap: $units / 2
+		align-content: end
+
+		h2
+			margin-top: $units * 2
 
 	aside
 		grid-row: 1 / 2
@@ -148,7 +151,7 @@ main.about
 
 		+break(min, $break-2)
 			justify-items: end
-			align-items: center
+			align-items: end
 
 		picture
 			grid-row: 1 / 2

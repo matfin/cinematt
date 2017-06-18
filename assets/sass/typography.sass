@@ -3,12 +3,55 @@ body
 	-webkit-font-smoothing: antialiased
 	-moz-osx-font-smoothing: grayscale
 
+h1,
+h2,
+h3
+	font-weight: $font-weight-light
+
 ul,
-p
-	font-size: $base-font-size
+p,
+span
+	font-weight: $font-weight-normal
+	+break(max, $break-1)
+		font-size: $base-font-size
+	+break(min, $break-1)
+		font-size: $medium-font-size
+
+b
+	font-weight: $font-weight-semibold
 
 header 
 	h1
-		font-weight: $font-weight-light
 		font-size: $large-font-size
 
+.teaser
+	h1
+		+break(max, $break-1)
+			font-size: $medium-font-size
+		+break(min, $break-1)
+			font-size: $large-font-size
+
+.photo-card
+	h3
+		font-weight: $font-weight-normal
+		+break(max, $break-1)
+			font-size: $base-font-size
+
+		+break(min, $break-1)
+			font-size: $medium-font-size
+
+article
+	h2
+		font-size: $large-font-size
+		font-weight: $font-weight-light
+	p
+		font-weight: $font-weight-light
+
+main.photo
+	h2
+		font-weight: $font-weight-normal
+		+break(max, $break-1)
+			font-size: $medium-font-size
+
+		+break(min, $break-1)
+			font-size: $large-font-size

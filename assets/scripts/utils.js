@@ -54,7 +54,10 @@ window.cinematt.utils = {
 		let colours = photo_card.getAttribute('data-colours').split(','),
 			step = 100 / colours.length;
 
-		let gradient = colours.map((colour, index) => `${colour} ${index * step}%, ${colour} ${++index * step}%`).join(',');
+		let gradient = colours.map((colour, index) => {
+			return `${colour} ${++index * step}%`
+		}).join(',');
+
 		photo_card.style.backgroundImage = `linear-gradient(to right, ${gradient})`;
 	},
 
@@ -75,9 +78,7 @@ window.cinematt.utils = {
 		if(img.tagName === 'SOURCE') {
 			let image = parent.querySelector('img');
 			img.setAttribute('srcset', srcset);
-			image.onprogress = cinematt.utils.imageProgress;
 			image.addEventListener('load', cinematt.utils.imageLoaded);
-
 		}
 		else {
 			img.setAttribute('src', src);
@@ -96,6 +97,33 @@ window.cinematt.utils = {
 		return node.getAttribute('src') != null || node.getAttribute('srcset') != null;
 	},
 
+	hexToLuma: (colour) => {
+		let hex = colour.replace(/#/, ''),
+			r 	= parseInt(hex.substr(0, 2), 16),
+			g 	= parseInt(hex.substr(2, 2), 16),
+			b 	= parseInt(hex.substr(4, 2), 16);
+
+		return [
+			0.299 * r,
+			0.587 * g,
+			0.114 * b
+		].reduce((a, b) => a + b) / 255;
+	},
+
+	primeCaptionContrast: (node) => {
+		if(node == null) {
+			return;
+		}
+		let dominant;
+		if((dominant = node.getAttribute('data-dominant-colour')) != null) {
+			let luma 	= cinematt.utils.hexToLuma(dominant),
+				caption = node.querySelector('figcaption');
+
+			node.removeAttribute('data-dominant-colour');
+			caption.classList.add((luma >= 0.5 ? 'bright':'dark'));
+		}
+	},
+
 	lazyLoadImages: (selector) => {
 		let images = [...document.querySelectorAll(selector)];
 		images.filter(image => {
@@ -103,17 +131,20 @@ window.cinematt.utils = {
 		}).forEach(cinematt.utils.primeImage);
 	},
 
-	imageProgress: (evt) => {
-		console.log({
-			progress: evt
-		});
-	},
-
 	imageLoaded: (evt) => {
 		let image 	= evt.target, 
 			parent 	= image.parentNode;
+
 		parent.removeAttribute('data-colours');
-		parent.classList.add('loaded');
+
+		if('ontouchstart' in window) {
+			parent.classList.add('loaded');
+			parent.classList.add('is-touch');
+		}
+		else {
+			parent.classList.add('loaded');
+		}
+
 		setTimeout(() => parent.style.background = 'none', 400);
 	}
 
