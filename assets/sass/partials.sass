@@ -8,7 +8,7 @@ header
 		grid-column: 2 / 3
 		display: grid
 		grid-template-rows: minmax($units * 4, $units * 8) 1fr 
-		grid-template-columns: $units repeat(2, auto) $units
+		grid-template-columns: $units 1fr minmax($units * 8, auto)
 		align-items: center
 		background-color: $white
 		overflow-x: hidden
@@ -20,7 +20,8 @@ header
 		button
 			grid-column: 3 / 4
 			grid-row: 1 / 2
-			justify-self: end
+			justify-self: stretch
+			align-self: stretch
 
 			svg.button-close
 				display: none
@@ -40,7 +41,7 @@ header
 		grid-row: 1 / 2
 		grid-column: 2 / 3
 		display: grid
-		grid-template-rows: minmax($units * 4, 1fr)
+		grid-template-rows: 1fr
 		grid-template-columns: $units repeat(2, auto) $units
 		align-items: center
 
