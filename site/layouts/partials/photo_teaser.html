@@ -1,4 +1,6 @@
-<section class="teaser">
+{{ $colours 	:= .photo.Params.colours }}
+{{ $dominant 	:= index $colours 1}}
+<section class="teaser" data-dominant-colour="{{ $dominant }}">
 	<figure>
 		{{ partial "picture" .photo }}
 	</figure>

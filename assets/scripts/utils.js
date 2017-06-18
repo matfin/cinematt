@@ -78,9 +78,7 @@ window.cinematt.utils = {
 		if(img.tagName === 'SOURCE') {
 			let image = parent.querySelector('img');
 			img.setAttribute('srcset', srcset);
-			image.onprogress = cinematt.utils.imageProgress;
 			image.addEventListener('load', cinematt.utils.imageLoaded);
-
 		}
 		else {
 			img.setAttribute('src', src);
@@ -99,17 +97,38 @@ window.cinematt.utils = {
 		return node.getAttribute('src') != null || node.getAttribute('srcset') != null;
 	},
 
+	hexToLuma: (colour) => {
+		let hex = colour.replace(/#/, ''),
+			r 	= parseInt(hex.substr(0, 2), 16),
+			g 	= parseInt(hex.substr(2, 2), 16),
+			b 	= parseInt(hex.substr(4, 2), 16);
+
+		return [
+			0.299 * r,
+			0.587 * g,
+			0.114 * b
+		].reduce((a, b) => a + b) / 255;
+	},
+
+	primeCaptionContrast: (node) => {
+		if(node == null) {
+			return;
+		}
+		let dominant;
+		if((dominant = node.getAttribute('data-dominant-colour')) != null) {
+			let luma 	= cinematt.utils.hexToLuma(dominant),
+				caption = node.querySelector('figcaption');
+
+			node.removeAttribute('data-dominant-colour');
+			caption.classList.add((luma >= 0.5 ? 'bright':'dark'));
+		}
+	},
+
 	lazyLoadImages: (selector) => {
 		let images = [...document.querySelectorAll(selector)];
 		images.filter(image => {
 			return cinematt.utils.inView(image) && !cinematt.utils.hasLoaded(image);
 		}).forEach(cinematt.utils.primeImage);
-	},
-
-	imageProgress: (evt) => {
-		console.log({
-			progress: evt
-		});
 	},
 
 	imageLoaded: (evt) => {

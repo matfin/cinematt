@@ -124,8 +124,14 @@ section.teaser
 		z-index: 1
 		grid-row: 3 / 4
 		grid-column: 1 / 4
-		background-color: rgba($black, 0.75)
-		color: $white
+
+		&.bright
+			background-color: rgba($white, 0.75)
+			color: $black
+
+		&.dark
+			background-color: rgba($black, 0.75)
+			color: $white
 
 		+break(min-max, 0, $break-1)
 			padding: $units / 2

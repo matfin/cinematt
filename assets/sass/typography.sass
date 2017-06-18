@@ -9,11 +9,16 @@ h3
 	font-weight: $font-weight-light
 
 ul,
-p
+p,
+span
+	font-weight: $font-weight-normal
 	+break(max, $break-1)
 		font-size: $base-font-size
 	+break(min, $break-1)
 		font-size: $medium-font-size
+
+b
+	font-weight: $font-weight-semibold
 
 header 
 	h1
@@ -23,7 +28,6 @@ header
 	h1
 		+break(max, $break-1)
 			font-size: $medium-font-size
-
 		+break(min, $break-1)
 			font-size: $large-font-size
 
@@ -42,3 +46,12 @@ article
 		font-weight: $font-weight-light
 	p
 		font-weight: $font-weight-light
+
+main.photo
+	h2
+		font-weight: $font-weight-normal
+		+break(max, $break-1)
+			font-size: $medium-font-size
+
+		+break(min, $break-1)
+			font-size: $large-font-size
