@@ -10,7 +10,7 @@ a.photo-card
 		overflow: hidden
 		display: grid
 		grid-template-columns: 1fr
-		grid-template-rows: 1fr
+		grid-template-rows: 1fr minmax(4rem, auto)
 
 		+transitionWithProperties((transform, background-position), 250ms)
 		transform: translate3d(0, 30%, 0)
@@ -41,12 +41,18 @@ a.photo-card
 		figcaption
 			z-index: $z-over
 			grid-row: 2
-			padding: $units
+
+			display: grid
+			grid-template-columns: $units auto $units
+			align-items: center
 			color: $white
 			background-color: rgba($black, 0.75)
 
 			transform: translate3d(0, 100%, 0)
 			+transitionWithProperties(transform, 250ms)
+
+			h3
+				grid-column: 2 / 3
 
 	&.orientation-portrait
 		grid-row-end: span 2
