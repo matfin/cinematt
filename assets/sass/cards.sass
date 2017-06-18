@@ -20,7 +20,8 @@ a.photo-card
 			opacity: 0
 
 
-		&:hover
+		&:hover,
+		&.is-touch
 			figcaption
 				transform: translate3d(0, 0, 0)
 
@@ -45,8 +46,8 @@ a.photo-card
 			display: grid
 			grid-template-columns: $units auto $units
 			align-items: center
-			color: $white
-			background-color: rgba($black, 0.75)
+			background-color: rgba($white, 0.75)
+			color: $black
 
 			transform: translate3d(0, 100%, 0)
 			+transitionWithProperties(transform, 250ms)

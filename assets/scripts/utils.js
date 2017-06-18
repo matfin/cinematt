@@ -54,7 +54,10 @@ window.cinematt.utils = {
 		let colours = photo_card.getAttribute('data-colours').split(','),
 			step = 100 / colours.length;
 
-		let gradient = colours.map((colour, index) => `${colour} ${index * step}%, ${colour} ${++index * step}%`).join(',');
+		let gradient = colours.map((colour, index) => {
+			return `${colour} ${++index * step}%`
+		}).join(',');
+
 		photo_card.style.backgroundImage = `linear-gradient(to right, ${gradient})`;
 	},
 
@@ -112,8 +115,17 @@ window.cinematt.utils = {
 	imageLoaded: (evt) => {
 		let image 	= evt.target, 
 			parent 	= image.parentNode;
+
 		parent.removeAttribute('data-colours');
-		parent.classList.add('loaded');
+
+		if('ontouchstart' in window) {
+			parent.classList.add('loaded');
+			parent.classList.add('is-touch');
+		}
+		else {
+			parent.classList.add('loaded');
+		}
+
 		setTimeout(() => parent.style.background = 'none', 400);
 	}
 
