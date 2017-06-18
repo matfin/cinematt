@@ -6,7 +6,7 @@
 body
 	display: grid
 	grid-template-columns: 1fr minmax(auto, $max-width) 1fr
-	grid-template-rows: $units * 8 auto
+	grid-template-rows: $units * 8 auto minmax($units * 8, auto) 
 	height: 100vh
 
 	&.menu-open

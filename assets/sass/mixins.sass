@@ -34,3 +34,21 @@
 
 	grid-template-columns: repeat(3, 1fr)
 	grid-template-rows: repeat(3, 33vh)
+
+=animatedLink
+	position: relative
+
+	&:after
+		content: ''
+		position: absolute
+		bottom: 0 - ($units / 4)
+		left: 0
+		width: 0
+		height: $units / 8
+		background-color: currentColor
+		+transitionWithProperties(width, 200ms)
+
+	&:hover,
+	&.active
+		&:after
+			width: 100%
