@@ -4,7 +4,8 @@
 {{ $width 		:= .Params.width }}
 {{ $height 		:= .Params.height }}
 {{ $portrait 	:= ( lt $width $height) }}
-<a class="photo-card orientation-{{ if $portrait }}portrait{{ else }}landscape{{end}}" href="{{ .Permalink }}">
+{{ $prominent	:= .Params.prominent }}
+<a class="photo-card orientation-{{ if $portrait }}portrait{{ else }}landscape{{end}} {{ if $prominent }}prominent{{ end }}" href="{{ .Permalink }}">
 	<figure data-colours="{{ delimit $colours "," }}">
 		{{ if $portrait }}
 			<img 
@@ -19,7 +20,7 @@
 		{{ end }}
 		<figcaption>
 			<h3>
-				{{ .Params.title }} &ndash; {{ .Params.location }} - {{ dateFormat "2006" $date }}
+				{{ .Params.title }} &ndash; {{ .Params.location }} - {{ dateFormat "2006" $date }} {{ $prominent }}
 			</h3>
 		</figcaption>
 	</figure>

@@ -9,6 +9,14 @@ a.photo-card
 	&.orientation-portrait
 		grid-row-end: span 2
 
+	&.prominent
+		grid-column: start / end
+		grid-row: span 3
+
+		figure
+			img
+				object-position: top
+
 	figure
 		position: relative
 		overflow: hidden
