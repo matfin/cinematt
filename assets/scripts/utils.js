@@ -149,6 +149,10 @@ window.cinematt.utils = {
 		else {
 			picture.classList.add('loaded');
 		}
+
+		setTimeout(() => {
+			picture.style.backgroundImage = 'none';
+		}, 700);
 	}
 
 };

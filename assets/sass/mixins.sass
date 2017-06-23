@@ -26,6 +26,16 @@
 
 		grid-template-areas: $begin + $inner + $end
 
+=prominenceRows
+	+break(max, $units * 64)
+		grid-row: span 1
+	+break(min-max, $units * 64, $units * 80)
+		grid-row: span 2
+	+break(min-max, $units * 80, $units * 120)
+		grid-row: span 3
+	+break(min, $units * 120)
+		grid-row: span 4
+
 =photoGrid($gap: $units / 4)
 	display: grid
 	grid-gap: $gap
@@ -40,9 +50,13 @@
 		+break(min-max, $min, $max)
 			@if $i == 1
 				grid-template-columns: 1fr
+				.prominent
+					grid-column: 1
 			@else
 				grid-template-columns: repeat($i, 1fr)
 				+gridTemplateAreas($i)
+				.prominent
+					grid-column: start / end
 
 			.orientation-landscape
 				@if $i >= 3
