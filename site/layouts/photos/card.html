@@ -7,7 +7,7 @@
 {{ $portrait 	:= ( lt $width $height) }}
 {{ $prominent	:= .Params.prominent }}
 <a class="photo-card orientation-{{ if $portrait }}portrait{{ else }}landscape{{end}} {{ if $prominent }}prominent{{ end }}" href="{{ .Permalink }}">
-	<figure data-dominant-colour="{{ $dominant }}" data-colours="{{ delimit $colours "," }}" class="test">
+	<figure data-dominant-colour="{{ $dominant }}">
 		{{ if $prominent }}
 			{{ partial "picture" . }}
 		{{ else }}

@@ -7,12 +7,14 @@ if(window.cinematt == null) {
 onload = () => {
 	const utils = window.cinematt.utils;
 	
-	[...document.querySelectorAll('figure')].forEach(utils.primeCaptionContrast);
+	[...document.querySelectorAll('a.prominent figure')].forEach(utils.primeCaptionContrast);
 	
-	utils.makeBars('figure');
+	utils.makeBars('picture');
 	utils.lazyLoadImages('img, source');
 	
-	document.addEventListener('scroll', utils.throttle(utils.lazyLoadImages.bind(null, 'img, source')));
+	document.addEventListener('scroll', utils.throttle(() => {
+		utils.lazyLoadImages('img, source');
+	}));
 	
 	utils.primeTapEvent('button', utils.toggleMenuReveal);
 };

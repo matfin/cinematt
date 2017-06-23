@@ -1,12 +1,12 @@
 {{ $photo			:= . }}
-{{ $colours 		:= first 5 $photo.Params.colours }}
 {{ $width 			:= .Params.width }}
 {{ $height 			:= .Params.height }}
+{{ $colours 		:= first 2 .Params.colours }}
 {{ $portrait 		:= ( lt $width $height) }}
 {{ $base 			:= .Site.Params.cl_media_base }}
 {{ $cl_public_id 	:= string $photo.Params.cl_public_id }}
 {{ $cl_version		:= string $photo.Params.cl_version }}
-<picture class="photo orientation-{{ if $portrait }}portrait{{ else }}landscape{{end}}">
+<picture data-colours="{{ delimit $colours "," }}" class="photo orientation-{{ if $portrait }}portrait{{ else }}landscape{{end}}">
 	<source
 		media="(min-width: 1920px)"
 		data-srcset="{{ $base }}image/upload/w_2560/v{{ $cl_version }}/{{ $cl_public_id }}.jpg,

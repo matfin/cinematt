@@ -25,11 +25,11 @@ a.photo-card
 		grid-template-rows: 1fr minmax(4rem, auto)
 
 		picture
-			opacity: 0
-			+transitionWithProperties(opacity, 250ms)
-
+			grid-column: 1 / 2
+			grid-row: 1 / 3
 			&.loaded
-				opacity: 1
+				img
+					opacity: 1
 
 		img
 			position: absolute
@@ -38,6 +38,8 @@ a.photo-card
 			width: 100%
 			height: 100%
 			object-fit: cover
+			opacity: 0
+			+transitionWithProperties(opacity, 250ms)
 
 		figcaption
 			z-index: 2

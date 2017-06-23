@@ -51,6 +51,10 @@ window.cinematt.utils = {
 	},
 
 	addGradients: (photo_card) => {
+		if(photo_card.getAttribute('data-colours') == null) {
+			return
+		}
+
 		let colours = photo_card.getAttribute('data-colours').split(','),
 			step = 100 / colours.length;
 
@@ -133,19 +137,18 @@ window.cinematt.utils = {
 
 	imageLoaded: (evt) => {
 		let image 	= evt.target, 
-			parent 	= image.parentNode;
+			picture = image.parentNode,
+			figure 	= picture.parentNode;
 
-		parent.removeAttribute('data-colours');
+		picture.removeAttribute('data-colours');
 
 		if('ontouchstart' in window) {
-			parent.classList.add('loaded');
-			parent.classList.add('is-touch');
+			picture.classList.add('loaded');
+			picture.classList.add('is-touch');
 		}
 		else {
-			parent.classList.add('loaded');
+			picture.classList.add('loaded');
 		}
-
-		setTimeout(() => parent.style.background = 'none', 400);
 	}
 
 };
