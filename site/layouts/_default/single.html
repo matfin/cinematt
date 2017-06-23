@@ -13,7 +13,7 @@
 				{{ $photo_id := string .Params.photo }}
 				{{ $photo := .Site.GetPage "page" $photo_id }}
 				{{ with $photo }}
-					{{ partial "picture_wide" $photo }}
+					
 				{{ end }}
 			</aside>
 		</main>

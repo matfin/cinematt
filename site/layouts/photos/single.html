@@ -6,8 +6,8 @@
 	<body>
 		{{ partial "header" . }}
 		<main class="page photo">
-			<figure>
-				{{ partial "picture_wide" . }}
+			<figure data-colours="{{ delimit (first 2 .Params.colours) "," }}" data-dominant-colour="{{ index .Params.colours 1 }}">
+				{{ partial "picture" . }}
 				<figcaption>
 					<h2>
 						{{ .Params.title }} &ndash; {{ .Params.location }} &ndash; {{ dateFormat "January 2006" .Params.date }}

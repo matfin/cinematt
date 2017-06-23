@@ -10,7 +10,7 @@
 				{{ $teaser 		:= string .Params.teaser_image }}
 				{{ $category 	:= printf "%s/%s" "photos" .Params.identifier }}
 				{{ $photo 		:= .Site.GetPage "page" $category $teaser }}
-				{{ partial 		"photo_teaser" (dict "photo" $photo "album" .) }}
+				
 			{{ end }}
 			<section class="photos">
 				{{ $photos 		:= where .Site.Pages "Section" "photos" }}

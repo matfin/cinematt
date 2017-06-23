@@ -7,7 +7,6 @@
 		{{ partial "header" . }}
 		<main class="page landing">
 			{{ $photos := where .Data.Pages "Section" "photos" }}
-			
 			{{ range $photos.ByWeight}}
 				{{ .Render "card" }}
 			{{ end }}
