@@ -9,6 +9,7 @@ filename:		"hot-sprockets-stage-vantastival.md"
 series:		"vantastival"
 cl_public_id:		"music/hot-sprockets-stage-vantastival"
 cl_version:		1497004848
+prominent: 	true
 format:		"tiff"
 bytes:		4356456
 width:		2174

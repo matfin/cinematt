@@ -1,26 +1,13 @@
 /**
- *	The landing page
+ *	The landing and 
+ *	albums page
  */
-main.landing
+main.landing,
+main.albums
 	z-index: 1
 	grid-column: 1 / 4
 	grid-row: 2 / 3
 	+photoGrid
-
-/**
- *	Albums page
- */
-main.albums
-	grid-column: 2 / 3
-	grid-row: 2 / 3
-	display: grid
-	grid-template-columns: 1fr
-	grid-template-rows: auto $units / 4 auto
-	align-content: start
-
-	section.photos
-		grid-row: 3
-		// +photoThumbnailGrid
 
 /**
  *	Photo detail page

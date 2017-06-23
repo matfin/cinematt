@@ -10,6 +10,7 @@ series:		"spirit-of-folk"
 weight: 	8
 cl_public_id:		"nature/bird-poised"
 cl_version:		1497005045
+prominent:	true
 format:		"tiff"
 bytes:		7984332
 width:		2560

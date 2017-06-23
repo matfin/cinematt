@@ -10,6 +10,7 @@ series:		"architecture"
 weight: 	10
 cl_public_id:		"experimental/building-pattern"
 cl_version:		1497004427
+prominent: 	true
 format:		"tiff"
 bytes:		2869740
 width:		2158
