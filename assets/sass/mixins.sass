@@ -13,19 +13,23 @@
 	transition-property: $props
 	transition-duration: $ms
 
-=photoThumbnailGrid($gap: $units / 4)
+=photoGrid($gap: $units / 4)
 	display: grid
-	grid-column-gap: $gap
-	grid-row-gap: $gap
+	grid-gap: $gap
+	grid-auto-rows: $units * 20
+	grid-auto-flow: row dense
+	padding: $gap
 
-	+break(min-max, 0, $break-0)
-		grid-template-columns: 1fr
+	@for $i from 0 through 8
+		$min: $units * ($i * 20)
+		$max: $units * (($i + 1) * 20)
 
-	+break(min-max, $break-0, $break-2)
-		grid-template-columns: repeat(2, 1fr)
+		+break(min-max, $min, $max)
+			grid-template-columns: repeat($i, 1fr)
 
-	+break(min, $break-2)
-		grid-template-columns: repeat(3, 1fr)
+			.orientation-landscape
+				@if $i >= 3
+					grid-column-end: span 2
 
 =photoAlbumGrid($gap: $units / 4)
 	display: grid

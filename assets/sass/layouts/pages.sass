@@ -3,10 +3,9 @@
  */
 main.landing
 	z-index: 1
-	display: grid
-	grid-column: 2 / 3
+	grid-column: 1 / 4
 	grid-row: 2 / 3
-	+photoThumbnailGrid
+	+photoGrid
 
 /**
  *	Albums page
@@ -21,7 +20,7 @@ main.albums
 
 	section.photos
 		grid-row: 3
-		+photoThumbnailGrid
+		// +photoThumbnailGrid
 
 /**
  *	Photo detail page
