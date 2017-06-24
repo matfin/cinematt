@@ -88,7 +88,7 @@ main.photo
 main.about
 	grid-area: main
 	display: grid
-	grid-template-columns: 1fr minmax(auto, $units * 50) 1fr
+	grid-template-columns: minmax($units, 1fr) minmax(auto, $units * 50) minmax($units, 1fr)
 	grid-template-rows: $units * 6 auto $units * 6
 	grid-template-areas: '. . .' '. content .'
 
