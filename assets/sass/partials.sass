@@ -2,24 +2,23 @@
  *	Header
  */
 header
-
 	+break(max, $break-2)
-		grid-row: 1 / 5
-		grid-column: 2 / 3
+		grid-area: start / header / end
 		display: grid
-		grid-template-rows: minmax($units * 4, $units * 8) 1fr 
+
 		grid-template-columns: $units 1fr minmax($units * 8, auto)
+		grid-template-rows: minmax($units * 4, $units * 8) 1fr 
+		grid-template-areas: '. title button .' 'nav nav nav nav'
+
 		align-items: center
 		background-color: $white
 		overflow-x: hidden
 
 		> a
-			grid-column: 2 / 3
-			grid-row: 1 / 2
+			grid-area: title
 
 		button
-			grid-column: 3 / 4
-			grid-row: 1 / 2
+			grid-area: button
 			justify-self: stretch
 			align-self: stretch
 
@@ -38,16 +37,16 @@ header
 				opacity: 1.0
 
 	+break(min, $break-2)
-		grid-row: 1 / 2
-		grid-column: 2 / 3
+		grid-area: header
 		display: grid
-		grid-template-rows: 1fr
 		grid-template-columns: $units repeat(2, auto) $units
+		grid-template-rows: 1fr
+		grid-template-areas: ". title nav ."
+
 		align-items: center
 
 		> a
-			grid-column: 2 / 3
-			grid-row: 1 / 2
+			grid-area: title
 				
 		button 
 			display: none
@@ -56,15 +55,12 @@ header
  *	Navigation
  */
 nav
-	
 	a
 		+animatedLink
 
 	+break(max, $break-2)
-		grid-column: 1 / 5
-		grid-row: 2 / 3
+		grid-area: nav
 		align-self: start
-
 		opacity: 0
 
 		ul
@@ -74,8 +70,7 @@ nav
 			grid-row-gap: ($units * 3)
 
 	+break(min, $break-2)
-		grid-column: 3 / 4
-		grid-row: 1 / 2
+		grid-area: nav
 
 		ul
 			display: grid
@@ -83,75 +78,10 @@ nav
 			justify-items: end
 
 /**
- *	Teaser photo
- */
-section.teaser
-	grid-row: 1
-	grid-column: 1
-	display: grid
-	grid-template-columns: 1fr
-	grid-template-rows: auto auto
-
-	figure
-		grid-row: 1 / 4
-		grid-column: 1 / 4
-		display: grid
-		grid-template-rows: 1fr
-		grid-template-columns: 1fr
-
-		picture.photo
-			grid-row: 1
-			grid-column: 1
-
-			+break(min-max, 0, $break-0)
-				height: 25vh
-			+break(min-max, $break-0, $break-1)
-				height: 30vh
-			+break(min-max, $break-1, $break-2)
-				height: 40vh
-			+break(min, $break-2)
-				height: 50vh
-
-			img
-				display: block
-				width: 100%
-				height: auto
-				opacity: 0
-				+transitionWithProperties(opacity, 400ms)
-
-			&.loaded
-				height: unset
-				img
-					opacity: 1
-
-	figcaption
-		z-index: 1
-		grid-row: 3 / 4
-		grid-column: 1 / 4
-
-		&.bright
-			background-color: rgba($white, 0.75)
-			color: $black
-
-		&.dark
-			background-color: rgba($black, 0.75)
-			color: $white
-
-		+break(min-max, 0, $break-1)
-			padding: $units / 2
-		+break(min-max, $break-1, $break-2)
-			padding: $units
-		+break(min, $break-2)
-			padding: $units * 1.5
-
-
-/**
  *	Footer
  */
 footer
-	grid-row: 3 / 4
-	grid-column: 2 / 3
-
+	grid-area: footer
 	display: grid
 	grid-template-columns: 1fr
 	align-items: center
