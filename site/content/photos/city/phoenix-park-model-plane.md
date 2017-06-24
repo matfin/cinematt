@@ -9,6 +9,7 @@ filename:		"phoenix-park-model-plane.md"
 series:		"dublin"
 cl_public_id:		"city/phoenix-park-model-plane"
 cl_version:		1497000364
+weight: 	10
 format:		"tiff"
 bytes:		3954552
 width:		2560

@@ -7,9 +7,9 @@ date:		"2016-12-09 10:47:01+00:00"
 album:		"experimental"
 filename:		"building-pattern.md"
 series:		"architecture"
-weight: 	3
 cl_public_id:		"experimental/building-pattern"
 cl_version:		1497004427
+prominent: 	true
 format:		"tiff"
 bytes:		2869740
 width:		2158

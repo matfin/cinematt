@@ -6,20 +6,12 @@
 	<body>
 		{{ partial "header" . }}
 		<main class="page albums">
-			{{ if .Params.teaser_image}}
-				{{ $teaser 		:= string .Params.teaser_image }}
-				{{ $category 	:= printf "%s/%s" "photos" .Params.identifier }}
-				{{ $photo 		:= .Site.GetPage "page" $category $teaser }}
-				{{ partial 		"photo_teaser" (dict "photo" $photo "album" .) }}
+			{{ $photos 		:= where .Site.Pages "Section" "photos" }}
+			{{ $album 		:= string .Params.identifier }}
+			{{ $filtered 	:= where $photos ".Params.album" $album }}
+			{{ range ($filtered.ByParam "prominent") }}
+				{{ .Render "card" }}
 			{{ end }}
-			<section class="photos">
-				{{ $photos 		:= where .Site.Pages "Section" "photos" }}
-				{{ $album 		:= string .Params.identifier }}
-				{{ $filtered 	:= where $photos ".Params.album" $album }}
-				{{ range ($filtered.ByParam "series") }}
-					{{ .Render "card" }}
-				{{ end }}
-			</section>
 		</main>
 		{{ partial "footer" . }}
 		{{ partial "scripts" }}

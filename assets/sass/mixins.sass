@@ -13,27 +13,55 @@
 	transition-property: $props
 	transition-duration: $ms
 
-=photoThumbnailGrid($gap: $units / 4)
+=gridTemplateAreas($units)
+	$begin: 'start'
+	$inner: ''
+	$end: ' end'
+  
+	@if $units <= 2
+		grid-template-areas: $begin + $end
+	@else
+		@for $i from 1 to $units - 1
+			$inner: $inner + ' inner'
+
+		grid-template-areas: $begin + $inner + $end
+
+=prominenceRows
+	+break(max, $units * 64)
+		grid-row: span 1
+	+break(min-max, $units * 64, $units * 80)
+		grid-row: span 2
+	+break(min-max, $units * 80, $units * 120)
+		grid-row: span 3
+	+break(min, $units * 120)
+		grid-row: span 4
+
+=photoGrid($gap: $units / 4)
 	display: grid
-	grid-column-gap: $gap
-	grid-row-gap: $gap
+	grid-gap: $gap
+	grid-auto-rows: $units * 20
+	grid-auto-flow: row dense
+	padding: $gap
 
-	+break(min-max, 0, $break-0)
-		grid-template-columns: 1fr
+	@for $i from 0 through 8
+		$min: $units * ($i * 20)
+		$max: $units * (($i + 1) * 20)
 
-	+break(min-max, $break-0, $break-2)
-		grid-template-columns: repeat(2, 1fr)
+		+break(min-max, $min, $max)
+			@if $i == 1
+				grid-template-columns: 1fr
+				.prominent
+					grid-column: 1
+			@else
+				grid-template-columns: repeat($i, 1fr)
+				+gridTemplateAreas($i)
+				.prominent
+					grid-column: start / end
 
-	+break(min, $break-2)
-		grid-template-columns: repeat(3, 1fr)
-
-=photoAlbumGrid($gap: $units / 4)
-	display: grid
-	grid-column-gap: $gap
-	grid-row-gap: $gap
-
-	grid-template-columns: repeat(3, 1fr)
-	grid-template-rows: repeat(3, 33vh)
+			.orientation-landscape
+				@if $i >= 3
+					&:not(.prominent)
+						grid-column-end: span 2
 
 =animatedLink
 	position: relative

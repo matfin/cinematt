@@ -7,8 +7,10 @@ date:		"2016-12-09 13:01:11+00:00"
 album:		"city"
 filename:		"berlin-expo-messe-nord.md"
 series:		"berlin"
+weight: 	1
 cl_public_id:		"city/berlin-expo-messe-nord"
 cl_version:		1497000191
+prominent:		true
 format:		"tiff"
 bytes:		3306448
 width:		2560

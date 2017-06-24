@@ -10,6 +10,7 @@ series:		"outdoors"
 weight: 	7
 cl_public_id:		"events/spwc-dublin-waldos"
 cl_version:		1497002577
+prominent:	true
 format:		"tiff"
 bytes:		8344840
 width:		2560
