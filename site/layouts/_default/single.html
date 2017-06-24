@@ -9,13 +9,6 @@
 			<article>
 				{{ .Content }}
 			</article>
-			<aside>
-				{{ $photo_id := string .Params.photo }}
-				{{ $photo := .Site.GetPage "page" $photo_id }}
-				{{ with $photo }}
-					
-				{{ end }}
-			</aside>
 		</main>
 		{{ partial "footer" . }}
 		{{ partial "scripts" }}
