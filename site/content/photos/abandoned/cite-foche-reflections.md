@@ -9,6 +9,7 @@ filename:		"cite-foche-reflections.md"
 series:		"cite-foche"
 cl_public_id:		"abandoned/cite-foche-reflections"
 cl_version:		1497000103
+prominent:		true
 format:		"tiff"
 bytes:		6670160
 width:		2560

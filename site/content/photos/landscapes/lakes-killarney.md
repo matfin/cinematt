@@ -7,6 +7,7 @@ date:		"2012-04-01 19:23:21"
 album:		"landscapes"
 filename:		"lakes-killarney.md"
 series:		"kerry"
+prominent: 	true
 cl_public_id:		"landscapes/lakes-killarney"
 cl_version:		1497004733
 format:		"tiff"

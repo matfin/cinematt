@@ -1,9 +1,21 @@
 /**
  *	Photo card
  */
+
 a.photo-card
 
 	display: grid
+
+	&.orientation-portrait
+		grid-row-end: span 2
+
+	&.prominent
+		grid-column: start / end
+		+prominenceRows
+
+		figure
+			img
+				object-position: top
 
 	figure
 		position: relative
@@ -11,24 +23,14 @@ a.photo-card
 		display: grid
 		grid-template-columns: 1fr
 		grid-template-rows: 1fr minmax(4rem, auto)
+		grid-template-areas: 'picture' 'caption'
 
-		+transitionWithProperties(transform, 100ms)
-		transform: translate3d(0, 30%, 0)
-
-		img
-			+transitionWithProperties(opacity, 250ms)
-			opacity: 0
-
-
-		&:hover,
-		&.is-touch
-			figcaption
-				transform: translate3d(0, 0, 0)
-
-		&.loaded
-			transform: translate3d(0, 0, 0)
-			img
-				opacity: 1.0
+		picture
+			grid-column: picture-start / picture-end
+			grid-row: picture-start / caption-end
+			&.loaded
+				img
+					opacity: 1
 
 		img
 			position: absolute
@@ -36,44 +38,29 @@ a.photo-card
 			left: 0
 			width: 100%
 			height: 100%
-			grid-row: 1 / 3
 			object-fit: cover
+			opacity: 0
+			+transitionWithProperties(opacity, 250ms)
 
 		figcaption
-			z-index: $z-over
-			grid-row: 2
-
+			z-index: 2
+			grid-area: caption
 			display: grid
 			grid-template-columns: $units auto $units
 			align-items: center
 			background-color: rgba($white, 0.75)
 			color: $black
-
 			transform: translate3d(0, 100%, 0)
 			+transitionWithProperties(transform, 250ms)
+
+			&.dark
+				background-color: rgba($black, 0.75)
+				color: $white
 
 			h3
 				grid-column: 2 / 3
 
-	&.orientation-portrait
-		grid-row-end: span 2
-
-	+break(max, $break-1)
-		min-height: $units * 12
-		&.orientation-portrait
-			min-height: $units * 30
-
-	+break(min-max, $break-1, $break-2)
-		min-height: $units * 15
-		&.orientation-portrait
-			min-height: $units * 36
-
-	+break(min-max, $break-2, $break-3)
-		min-height: $units * 12
-		&.orientation-portrait
-			min-height: $units * 30
-
-	+break(min, $break-3)
-		min-height: $units * 18
-		&.orientation-portrait
-			min-height: $units * 42
+		&:hover,
+		&.is-touch
+			figcaption
+				transform: translate3d(0, 0, 0)

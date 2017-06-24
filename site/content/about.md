@@ -6,7 +6,11 @@ photo: "me.md"
 ---
 
 ## Cinematt
-This website contains select images from my archive of over 60,000 photographs.
+This website contains select images from my archive of over 60,000 photographs taken from 2004 to the present day. 
+
+If I could describe the type of photographer I am, I would say I am enthusiast who keeps at it - constantly taking the camera out, experimenting, reading, learning and producing.
+
+I don't do this in any professional capacity - mainly an expensive hobby. I take my camera with me wherever I go because there is always something interesting happening. The trick is to keep going out and keep shooting.
 
 ## Motivation
 I wanted to build something so I could show the world my photography. I wanted to show my work on my terms in a setting I feel comfortable with - something I have built myself.
