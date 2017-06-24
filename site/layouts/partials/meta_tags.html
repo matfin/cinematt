@@ -1,0 +1,10 @@
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en-ie">
+<meta property="og:title" content="{{ .Title }}">
+{{ if eq .Type "photos" }}
+	<meta property="og:description" content="{{ .Params.title }} &ndash; {{ .Params.location }} &ndash; {{ dateFormat "January 2006" .Params.date }}">
+{{ else }}
+	<meta property="og:description" content="{{ .Params.description }}">
+{{ end }}
