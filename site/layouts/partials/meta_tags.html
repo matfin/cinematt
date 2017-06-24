@@ -3,8 +3,29 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en-ie">
 <meta property="og:title" content="{{ .Title }}">
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@matfinucane" />
+<meta name="twitter:creator" content="@matfinucane" />
+
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta name="twitter:url" content="{{ .Permalink }}" />
+
+{{ $base := .Site.Params.cl_media_base }}
 {{ if eq .Type "photos" }}
+	{{ $photo 			:= . }}
+	{{ $cl_public_id 	:= string $photo.Params.cl_public_id }}
+	{{ $cl_version		:= string $photo.Params.cl_version }}
 	<meta property="og:description" content="{{ .Params.title }} &ndash; {{ .Params.location }} &ndash; {{ dateFormat "January 2006" .Params.date }}">
+	<meta property="og:image" content="{{ $base }}image/upload/w_1280/v{{ $cl_version }}/{{ $cl_public_id }}.jpg">
+	<meta name="twitter:image:src" content="{{ $base }}image/upload/w_1280/v{{ $cl_version }}/{{ $cl_public_id }}.jpg" />
+	<meta name="twitter:description" content="{{ .Params.title }} &ndash; {{ .Params.location }} &ndash; {{ dateFormat "January 2006" .Params.date }}" />
 {{ else }}
+	{{ $photo			:= .Site.GetPage "page" "photos" .Site.Params.intro_photo }}
+	{{ $cl_public_id 	:= string $photo.Params.cl_public_id }}
+	{{ $cl_version		:= string $photo.Params.cl_version }}
 	<meta property="og:description" content="{{ .Params.description }}">
+	<meta name="og:image" content="{{ $base }}image/upload/w_1280/v{{ $cl_version }}/{{ $cl_public_id }}.jpg">
+	<meta name="twitter:image:src" content="{{ $base }}image/upload/w_1280/v{{ $cl_version }}/{{ $cl_public_id }}.jpg" />
+	<meta name="twitter:description" content="{{ .Params.description }}">
 {{ end }}
