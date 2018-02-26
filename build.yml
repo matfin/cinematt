@@ -44,9 +44,9 @@ services:
 
   cinemat-sass-build:
     container_name: cinematt_sass_build
-    image: ruby:2.1-alpine
+    image: ruby:2.5-slim
     volumes:
       - ./:/opt:rw
     links:
       - cinematt-site-build
-    command: sh -c "gem install sass && sass /opt/assets/sass/main.sass:/opt/public/css/main.css --style compressed"
+    command: sh -c "apt-get install -y ruby-dev gcc make automake libtool rubygems build-essential && gem install sass && sass /opt/assets/sass/main.sass:/opt/public/css/main.css --style compressed"

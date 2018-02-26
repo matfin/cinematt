@@ -1,5 +1,5 @@
 ---
-baseUrl:                "http://cinematt.dev"
+baseUrl:                "http://cinematt.local"
 languageCode:           "en-ie"
 title:                  "[DEV] Cinematt"
 disableLiveReload:      true
