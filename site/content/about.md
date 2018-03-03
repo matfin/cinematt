@@ -28,11 +28,11 @@ I use Adobe Photoshop with Camera Raw to process the images. HDR photos are trea
 ## Terms
 I respect you and your privacy as a visitor to my site. This is why I don't have any third party tracking scripts installed.
 
-If you want to use any of my pictures then please feel free to get in touch. I am a reasonable man and amenable to requests thereof.
+If you want to use any of my pictures then please let me know. Please don't steal them.
 
-If you use any of these pictures and display them in a for-profit publication without my permission, the automatic daily rate for their use is &euro;1,000 per day for each copy disseminated. 
+Thanks for visiting!
 
-By visiting this site, you are automatically agreeing to these terms.
+
 
 
 
