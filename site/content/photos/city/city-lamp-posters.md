@@ -2,7 +2,7 @@
 title:		"city-lamp-posters"
 type:		"photos"
 mediatype:		"upload"
-location:		"TBC"
+location:		"Berlin, Germany"
 date:		"2014-02-09 15:22:21+00:00"
 album:		"city"
 filename:		"city-lamp-posters.md"
