@@ -17,7 +17,7 @@ test:
 
 deployment:
   staging: 
-    branch: develop
+    branch: master
     commands:
       - hugo -s ./site -b $HUGO_STAGING_HOST --config=./site/staging.yml -d ../public
       - mkdir -p ./public/css
