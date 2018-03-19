@@ -2,13 +2,13 @@
 title:		"Beach"
 type:		"photos"
 mediatype:		"upload"
-location:   "Malmö, Sweden"
+location:   "Halmstad, Sweden"
 description:		"Sunset on the beach"
 date:		"2017-07-08 21:03:03+00:00"
 album:		"landscapes"
-filename:		"malmo.md"
+filename:		"halmstad-beach.md"
 series:		"cycle-tour"
-cl_public_id:		"landscapes/malmo"
+cl_public_id:		"landscapes/halmstad-beach"
 cl_version:		1520177322
 format:		"tiff"
 bytes:		3212040
