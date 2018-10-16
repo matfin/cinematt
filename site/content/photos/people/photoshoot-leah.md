@@ -1,0 +1,47 @@
+---
+title:		"Leah"
+type:		"photos"
+mediatype:	"upload"
+location:   "Berlin, Germany"
+description: "Leah"
+date:		"2018-08-12 13:32:57+00:00"
+album:		"people"
+filename:	"photoshoot-leah.md"
+series:		"family"
+prominent: true
+cl_public_id: "people/photoshoot-leah"
+cl_version:		1539716419
+format:		"tiff"
+bytes:		5183708
+width:		2560
+height:		1440
+colours:
+- "#918888"
+- "#1B1A19"
+- "#804F3B"
+- "#B2ABAC"
+- "#C1BABF"
+- "#171618"
+- "#312019"
+- "#C7927B"
+- "#969093"
+- "#1D201F"
+- "#060609"
+exposure_mode:		"Auto"
+program:		"Aperture-priority AE"
+aperture:		"2.8"
+focal_length:		"50.0 mm"
+iso:		"800"
+shutter_speed:		"1/250"
+metering:		"Multi-segment"
+flash:		"Off, Did not fire"
+white_balance:		"Custom"
+colour_temp:		"4000"
+has_crop:		"false"
+orientation:		"Horizontal (normal)"
+camera_model:		"NIKON D800"
+lens_info:		"0mm f/0"
+artist:		"No artist info"
+x_resolution:		"72"
+y_resolution:		"72"
+---
