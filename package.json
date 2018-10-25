@@ -24,6 +24,6 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
-    "jshint": "^2.9.4"
+    "jshint": "^2.9.6"
   }
 }

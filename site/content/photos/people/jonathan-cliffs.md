@@ -9,7 +9,6 @@ filename:		"jonathan-cliffs.md"
 series:		"family"
 cl_public_id:		"people/jonathan-cliffs"
 cl_version:		1497005430
-prominent: 	true
 format:		"tiff"
 bytes:		4324200
 width:		2158
