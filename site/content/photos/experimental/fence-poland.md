@@ -43,7 +43,7 @@ has_crop:		"false"
 orientation:		"Horizontal (normal)"
 camera_model:		"NIKON D800"
 lens_info:		"Nikon Nikkor 50mm f/1.4"
-artist:		"No artist info"
+artist: "Matt Finucane"
 x_resolution:		"300"
 y_resolution:		"300"
 ---

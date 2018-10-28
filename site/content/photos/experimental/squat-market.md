@@ -50,10 +50,10 @@ colours:
 - "#DC7683"
 exposure_mode:		"Auto"
 program:		"Aperture-priority AE"
-aperture:		undefined
+aperture:		"No info"
 focal_length:		"24.0 mm"
 iso:		"500"
-shutter_speed:		undefined
+shutter_speed:		No info"
 metering:		"Multi-segment"
 flash:		"Off, Did not fire"
 white_balance:		"Manual"
@@ -62,7 +62,7 @@ has_crop:		"No"
 orientation:		"Horizontal (normal)"
 camera_model:		"NIKON D800"
 lens_info:		"No lens info"
-artist:		"No artist info"
+artist: "Matt Finucane"
 x_resolution:		"72"
 y_resolution:		"72"
 ---

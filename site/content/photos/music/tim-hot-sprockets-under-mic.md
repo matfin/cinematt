@@ -49,7 +49,7 @@ has_crop:		"false"
 orientation:		"Horizontal (normal)"
 camera_model:		"NIKON D7000"
 lens_info:		"18-200mm f/3.5-5.6"
-artist:		"No artist info"
+artist: "Matt Finucane"
 x_resolution:		"300"
 y_resolution:		"300"
 ---

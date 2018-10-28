@@ -31,7 +31,7 @@ has_crop:		"false"
 orientation:		"Horizontal (normal)"
 camera_model:		"NIKON D200"
 lens_info:		"35mm f/1.8"
-artist:		"No artist info"
+artist: "Matt Finucane"
 x_resolution:		"300"
 y_resolution:		"300"
 ---

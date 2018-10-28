@@ -1,7 +1,8 @@
 ---
-title:		"Swampy tree"
+title:		"Swampy Tree"
 type:		"photos"
 mediatype:	"upload"
+location:   "Wicklow National Park, Ireland"
 description: "A tree tells a thousand stories"
 date:		"2018-10-18 14:22:54+00:00"
 album:		"experimental"
@@ -44,10 +45,10 @@ colours:
 - "#ADCB67"
 exposure_mode:		"Auto"
 program:		"Aperture-priority AE"
-aperture:		undefined
+aperture:		"No info"
 focal_length:		"16.0 mm"
 iso:		"200"
-shutter_speed:		undefined
+shutter_speed:		"No info"
 metering:		"Multi-segment"
 flash:		"Off, Did not fire"
 white_balance:		"Manual"
@@ -55,8 +56,8 @@ colour_temp:		"0.0"
 has_crop:		"No"
 orientation:		"Horizontal (normal)"
 camera_model:		"NIKON D800"
-lens_info:		"No lens info"
-artist:		"No artist info"
+lens_info:		"Nikon Fisheye 16mm f/2.8"
+artist: "Matt Finucane"
 x_resolution:		"72"
 y_resolution:		"72"
 ---

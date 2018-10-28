@@ -43,7 +43,7 @@ has_crop:		"No"
 orientation:		"Horizontal (normal)"
 camera_model:		"iPhone 4"
 lens_info:		"No lens info"
-artist:		"No artist info"
+artist: "Matt Finucane"
 x_resolution:		"72"
 y_resolution:		"72"
 ---
