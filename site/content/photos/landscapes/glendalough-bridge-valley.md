@@ -48,10 +48,10 @@ colours:
 - "#1C2532"
 exposure_mode:		"Auto"
 program:		"Aperture-priority AE"
-aperture:		undefined
+aperture:		"No Info"
 focal_length:		"24.0 mm"
 iso:		"200"
-shutter_speed:		undefined
+shutter_speed:		"No Info"
 metering:		"Spot"
 flash:		"Off, Did not fire"
 white_balance:		"Manual"
@@ -59,8 +59,8 @@ colour_temp:		"2.0"
 has_crop:		"No"
 orientation:		"Horizontal (normal)"
 camera_model:		"NIKON D800"
-lens_info:		"No lens info"
-artist:		"No artist info"
+lens_info:		"Nikon Fisheye 16mm f/2.8"
+artist: "Matt Finucane"
 x_resolution:		"72"
 y_resolution:		"72"
 ---

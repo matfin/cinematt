@@ -43,7 +43,7 @@ has_crop:		"No"
 orientation:		"Horizontal (normal)"
 camera_model:		"iPhone 5s"
 lens_info:		"4.12mm f/2.2"
-artist:		"No artist info"
+artist: "Matt Finucane"
 x_resolution:		"72"
 y_resolution:		"72"
 ---

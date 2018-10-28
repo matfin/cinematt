@@ -57,7 +57,7 @@ has_crop:		"No"
 orientation:		"Horizontal (normal)"
 camera_model:		"KODAK DX4330 DIGITAL CAMERA"
 lens_info:		"No lens info"
-artist:		"No artist info"
+artist: "Matt Finucane"
 x_resolution:		"230"
 y_resolution:		"230"
 ---

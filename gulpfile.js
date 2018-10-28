@@ -1,17 +1,17 @@
 'use strict';
 
-const	gulp 		= require('gulp'),
-		concat 		= require('gulp-concat');
+const gulp = require('gulp');
+const concat = require('gulp-concat');
 
 const dest = {
-	scripts:	process.env['SCRIPTS_DEST'],
-	svg:		process.env['SVG_DEST'],
+	scripts: process.env['SCRIPTS_DEST'],
+	svg: process.env['SVG_DEST'],
 	favicons:	process.env['FAVICONS_DEST'],
-	watch:		process.env['WATCH'] != null
+	watch: process.env['WATCH'] != null
 };
 
 const tasks = () => {
-	let items = [
+	const items = [
 		'debug',
 		'scripts',
 		'svg',
